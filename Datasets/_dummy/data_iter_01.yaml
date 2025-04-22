@@ -1,0 +1,7 @@
+names:
+- damage
+nc: 1
+path: Datasets/dummy
+test: test_iter_01.txt
+train: train_iter_01.txt
+val: val_iter_01.txt

@@ -1,0 +1,2810 @@
+{
+    "Datasets/airplane/images/V_AIRPLANE_011_mp4-10_jpg.rf.5acff904d5b565667d266d03e01b8cbc.jpg": {
+        "IoU": 0.5797101428271372,
+        "Dice": 0.7339449524450804,
+        "Precision": 0.6249999975585938,
+        "Recall": 0.8888888839506173,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000767_jpg.rf.69bdc3352a26a5a2fe05138c064c998a.jpg": {
+        "IoU": 0.19300397571305203,
+        "Dice": 0.32355965217583554,
+        "Precision": 0.19300397571305203,
+        "Recall": 0.9999999999680633,
+        "detected_boxes_count": 3,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000974_jpg.rf.012b65d6fd03cfaba1cfee05ebe7d91c.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000600_jpg.rf.0199bbdbe6b3831d41e35e91253fd286.jpg": {
+        "IoU": 0.3762540002130362,
+        "Dice": 0.5467798824269273,
+        "Precision": 0.4387384592125958,
+        "Recall": 0.7254173367987714,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000677_jpg.rf.c87cf82d46707113ba0392c93c10838a.jpg": {
+        "IoU": 0.25146778497728856,
+        "Dice": 0.401876561260188,
+        "Precision": 0.25146778497728856,
+        "Recall": 0.999999999972435,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000951_jpg.rf.75e0961402a3ff40ff4a05b630897ce9.jpg": {
+        "IoU": 0.5236597965992936,
+        "Dice": 0.6873710230696736,
+        "Precision": 0.5273468887430554,
+        "Recall": 0.9868241650294122,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_002_mp4-8_jpg.rf.2177430e66d37048100ec062560b03a5.jpg": {
+        "IoU": 0.7482185255386733,
+        "Dice": 0.8559782597065513,
+        "Precision": 0.8203124978637696,
+        "Recall": 0.8948863610940728,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000264_jpg.rf.2efaa8dd038722b27851ff750abaabb1.jpg": {
+        "IoU": 0.610392353271157,
+        "Dice": 0.7580666314408157,
+        "Precision": 0.610392353271157,
+        "Recall": 0.999999999990114,
+        "detected_boxes_count": 3,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_001_mp4-12_jpg.rf.12bc2bb6d36daaec656702e6c54ae4cb.jpg": {
+        "IoU": 0.7142857114512472,
+        "Dice": 0.833333331404321,
+        "Precision": 0.7499999968750001,
+        "Recall": 0.9374999951171875,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000347_jpg.rf.35041ef53ff56d39ad86c3ffe5d7bf3d.jpg": {
+        "IoU": 0.7414701483867311,
+        "Dice": 0.8515450570009674,
+        "Precision": 0.81111418718935,
+        "Recall": 0.8962180200097857,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000017_jpg.rf.1cac278113e8bee18a7707615c8f78ef.jpg": {
+        "IoU": 0.40991380744442485,
+        "Dice": 0.5814735699161987,
+        "Precision": 0.40991380744442485,
+        "Recall": 0.9999999999797037,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_036_mp4-5_jpg.rf.b38519250a9ca5ae3275d84c6e2e4117.jpg": {
+        "IoU": 0.478354977319578,
+        "Dice": 0.6471449478079869,
+        "Precision": 0.478354977319578,
+        "Recall": 0.9999999954751132,
+        "detected_boxes_count": 3,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000599_jpg.rf.cb56dccb3ca291662d5592b1ec5f4561.jpg": {
+        "IoU": 0.7557947633206752,
+        "Dice": 0.8609147026857127,
+        "Precision": 0.8242727005522753,
+        "Recall": 0.9009660090024254,
+        "detected_boxes_count": 3,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_039_mp4-43_jpg.rf.409a561abf4a9e36bd052d9661de793d.jpg": {
+        "IoU": 0.6534954403322216,
+        "Dice": 0.7904411761799849,
+        "Precision": 0.6534954403322216,
+        "Recall": 0.9999999990697673,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000508_jpg.rf.d22e5c9a7f332783ad41ee6813dd7a34.jpg": {
+        "IoU": 0.7569921877458933,
+        "Dice": 0.861691011520165,
+        "Precision": 0.7755672476108151,
+        "Recall": 0.9693315578272397,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_013_mp4-10_jpg.rf.81639b46c9ba2ef34c775c21d50bd53d.jpg": {
+        "IoU": 0.6285714255782313,
+        "Dice": 0.7719298223042987,
+        "Precision": 0.6285714255782313,
+        "Recall": 0.9999999924242425,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000382_jpg.rf.7bf827219abfa82645d8348e6c8213cc.jpg": {
+        "IoU": 0.6085645562465577,
+        "Dice": 0.7566554340431185,
+        "Precision": 0.6680608736813229,
+        "Recall": 0.872340425523346,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000901_jpg.rf.e679d0ae5baaf789cf4b6b859eadddf3.jpg": {
+        "IoU": 0.8028906672875673,
+        "Dice": 0.8906703904519169,
+        "Precision": 0.869681940847006,
+        "Recall": 0.9126969416058373,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000744_jpg.rf.012643a120f32799714a99c95007d208.jpg": {
+        "IoU": 0.5826870676925496,
+        "Dice": 0.7363263143889435,
+        "Precision": 0.5826870676925496,
+        "Recall": 0.9999999999760192,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_010_mp4-2_jpg.rf.d603b47d2c383d28c15fae758658a745.jpg": {
+        "IoU": 0.5128205101906641,
+        "Dice": 0.6779660993967251,
+        "Precision": 0.9999999900000002,
+        "Recall": 0.5128205101906641,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_001_mp4-17_jpg.rf.9bcfc1e233a69fcb8b9a530410b752be.jpg": {
+        "IoU": 0.6774193521071801,
+        "Dice": 0.8076923057507397,
+        "Precision": 0.7499999966517857,
+        "Recall": 0.8749999954427083,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001286_jpg.rf.2cb4c8b1d68dda13e62cea2b77f0a2b2.jpg": {
+        "IoU": 0.7749695949821321,
+        "Dice": 0.8732201353453982,
+        "Precision": 0.8414007669412362,
+        "Recall": 0.9075407277250265,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000047_jpg.rf.68875ae62d5bed7d0beec9b5277632b7.jpg": {
+        "IoU": 0.5400865055994449,
+        "Dice": 0.701371648457147,
+        "Precision": 0.5534396630488978,
+        "Recall": 0.9572368420917491,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000623_jpg.rf.255dadc0e5b45ddc4c2e5a64aea65bf8.jpg": {
+        "IoU": 0.20249285930485866,
+        "Dice": 0.3367884603022366,
+        "Precision": 0.20249285930485866,
+        "Recall": 0.9999999999706745,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000193_jpg.rf.81b1397558c707ad428094fc3e86dd97.jpg": {
+        "IoU": 0.17031630170188006,
+        "Dice": 0.29106029105841763,
+        "Precision": 0.17031630170188006,
+        "Recall": 0.9999999999557717,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000905_jpg.rf.fdf3393e5b3b8ec086b735cb973bef69.jpg": {
+        "IoU": 0.8348175748676769,
+        "Dice": 0.9099733797000304,
+        "Precision": 0.9925558312526139,
+        "Recall": 0.8400774102652173,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_045_mp4-21_jpg.rf.c676203f150220aa97bb7c4a96d44ee1.jpg": {
+        "IoU": 0.7396466038819308,
+        "Dice": 0.8503412155450973,
+        "Precision": 0.9038461535412126,
+        "Recall": 0.8028169011678703,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_040_mp4-0_jpg.rf.9c72f530c653e723da60da921b5c547d.jpg": {
+        "IoU": 0.7377736375193644,
+        "Dice": 0.8491021173189401,
+        "Precision": 0.9473684208637622,
+        "Recall": 0.7693054879764764,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_026_mp4-6_jpg.rf.42571007de7f7d82f45925eb09838ab1.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_047_mp4-1_jpg.rf.8727dc935622aaf604da44d3dd2b8565.jpg": {
+        "IoU": 0.6794871793858844,
+        "Dice": 0.8091603052716883,
+        "Precision": 0.8316000728276591,
+        "Recall": 0.7878997405725324,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001103_jpg.rf.899221509049f49d2a84efbe38b8c0ae.jpg": {
+        "IoU": 0.7112009130901811,
+        "Dice": 0.8312301701684524,
+        "Precision": 0.9812308477830007,
+        "Recall": 0.7210095071190735,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 3
+    },
+    "Datasets/airplane/images/V_AIRPLANE_041_mp4-20_jpg.rf.c199416d1cd4e3fe3127cde371e2af19.jpg": {
+        "IoU": 0.6521739116257089,
+        "Dice": 0.7894736831717452,
+        "Precision": 0.6521739116257089,
+        "Recall": 0.9999999966666667,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001413_jpg.rf.8387d8196665983cf90a764a3ca69a8e.jpg": {
+        "IoU": 0.67406492924615,
+        "Dice": 0.8053032083405378,
+        "Precision": 0.7753987327883565,
+        "Recall": 0.8376068375997775,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000952_jpg.rf.626e22ba55a13eae94802aa45dc5ce03.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_026_mp4-4_jpg.rf.8fb9dd9cd22737991884442ac600bca6.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000994_jpg.rf.7687d9be28e80560eaa0205ccaab5583.jpg": {
+        "IoU": 0.8858162354980279,
+        "Dice": 0.9394512771962549,
+        "Precision": 0.9280373831709994,
+        "Recall": 0.9511494252804543,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_048_mp4-16_jpg.rf.43d6ac1d05bf793f3d3c990a6b1e000b.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_021_mp4-1_jpg.rf.fb0a53b866385e64ca44b5b62df71e51.jpg": {
+        "IoU": 0.7284768163677032,
+        "Dice": 0.8429118741650886,
+        "Precision": 0.9090909015777612,
+        "Recall": 0.7857142801020409,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000911_jpg.rf.d861af4f1bb6b0b052c7fb538c8980f5.jpg": {
+        "IoU": 0.019207317073024335,
+        "Dice": 0.037690696978479724,
+        "Precision": 0.019207317073024335,
+        "Recall": 0.9999999996031746,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000805_jpg.rf.3a01e5bd111947f7a95a6758c35793fe.jpg": {
+        "IoU": 0.6270176309871047,
+        "Dice": 0.7707570207542198,
+        "Precision": 0.6270509977789974,
+        "Recall": 0.999915141562716,
+        "detected_boxes_count": 4,
+        "ground_truth_boxes_count": 4
+    },
+    "Datasets/airplane/images/00000959_jpg.rf.aa3632aa48e969b21b1b3c787ae84ae9.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000406_jpg.rf.3f9b06f65ddf8d1c723c29d48cf95acb.jpg": {
+        "IoU": 0.5856578532790535,
+        "Dice": 0.7386938513474961,
+        "Precision": 0.5856578532790535,
+        "Recall": 0.9999999999896549,
+        "detected_boxes_count": 3,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000396_jpg.rf.a1ef19ad70771b4cb8dc5c9d37f79e71.jpg": {
+        "IoU": 0.7331026330270063,
+        "Dice": 0.8460002530220407,
+        "Precision": 0.7849363587103844,
+        "Recall": 0.9173665123715541,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 2
+    },
+    "Datasets/airplane/images/V_AIRPLANE_048_mp4-13_jpg.rf.acc60c6212bbbf2b22b4a2f23cf5cbe0.jpg": {
+        "IoU": 0.37405350823471645,
+        "Dice": 0.5444526082761842,
+        "Precision": 0.8293228870568982,
+        "Recall": 0.40525020497532127,
+        "detected_boxes_count": 3,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_052_mp4-3_jpg.rf.72d9e48ee6fe87fe1d2f9c9fb1a163ea.jpg": {
+        "IoU": 0.6428571390306123,
+        "Dice": 0.7826086928166351,
+        "Precision": 0.6428571390306123,
+        "Recall": 0.9999999907407409,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000683_jpg.rf.e482328c300e3222ae7467b04cc0505e.jpg": {
+        "IoU": 0.27718607356773306,
+        "Dice": 0.4340574632064887,
+        "Precision": 0.27881308629720725,
+        "Recall": 0.9793814432679976,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000023_jpg.rf.a6ba0b74ad553b619393ea8f74a4ec18.jpg": {
+        "IoU": 0.641699818920403,
+        "Dice": 0.7817504899798194,
+        "Precision": 0.641699818920403,
+        "Recall": 0.9999999999895101,
+        "detected_boxes_count": 3,
+        "ground_truth_boxes_count": 6
+    },
+    "Datasets/airplane/images/00001156_jpg.rf.58dbd90b80e1f74056f6f1f5e37873d6.jpg": {
+        "IoU": 0.6195452598030821,
+        "Dice": 0.7650854535283708,
+        "Precision": 0.6242734462880293,
+        "Recall": 0.9879227053019578,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000869_jpg.rf.4e234857562037f8e25a93d589c4a73b.jpg": {
+        "IoU": 0.8506100686871207,
+        "Dice": 0.9192753061054827,
+        "Precision": 0.8632075471598316,
+        "Recall": 0.9831325301075367,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_017_mp4-0_jpg.rf.2aa719fde8cff730a911e75ac3f68320.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000015_jpg.rf.f61dbffcf5503b51e9b7a74a329348aa.jpg": {
+        "IoU": 0.6678355701556187,
+        "Dice": 0.800841020668849,
+        "Precision": 0.6678355701556187,
+        "Recall": 0.9999999999862544,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000381_jpg.rf.a45adfec1f78fc99ca1f81caab6a448d.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000440_jpg.rf.66cb9fdc8e1f073111e057edc9801b6c.jpg": {
+        "IoU": 0.7383088009742189,
+        "Dice": 0.8494564378440017,
+        "Precision": 0.7686567164102417,
+        "Recall": 0.9492385786685078,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001410_png_jpg.rf.b12cba70ed6fcbc2e343b3e23b4054f8.jpg": {
+        "IoU": 0.905758778916704,
+        "Dice": 0.9505492394284727,
+        "Precision": 0.9166474540468625,
+        "Recall": 0.9870550161724782,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000927_jpg.rf.2bc9a09bda45d5e8b64dbcce99008b11.jpg": {
+        "IoU": 0.9632528070553873,
+        "Dice": 0.9812824956559066,
+        "Precision": 0.9933333333100974,
+        "Recall": 0.9695205479230703,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_036_mp4-0_jpg.rf.c5b43dddd4cbfb76ec290edfb2940ae0.jpg": {
+        "IoU": 0.6923076878698226,
+        "Dice": 0.8181818150826446,
+        "Precision": 0.6923076878698226,
+        "Recall": 0.9999999907407409,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_052_mp4-10_jpg.rf.252d0ace6683e4179df69693d2d1b296.jpg": {
+        "IoU": 0.47120418601463776,
+        "Dice": 0.6405693927381872,
+        "Precision": 0.8181818107438017,
+        "Recall": 0.5263157863958141,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001084_jpg.rf.788a96d32d620d6d19d9e114bebfe77c.jpg": {
+        "IoU": 0.6263719589191852,
+        "Dice": 0.7702690094773207,
+        "Precision": 0.6304856939104897,
+        "Recall": 0.9896907216231202,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_013_mp4-14_jpg.rf.6ca4c3fdb0f9d259d4bb6d3760bdd374.jpg": {
+        "IoU": 0.49535603561809277,
+        "Dice": 0.662525878545495,
+        "Precision": 0.49535603561809277,
+        "Recall": 0.99999999375,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_047_mp4-14_jpg.rf.87c2e068da58a68d3066a9edfa9e53a4.jpg": {
+        "IoU": 0.8100185528381253,
+        "Dice": 0.8950389503665683,
+        "Precision": 0.8144762615047815,
+        "Recall": 0.9932885905475322,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000256_jpg.rf.ad037791d431ed84d7c98cb94fbd26e5.jpg": {
+        "IoU": 0.6240565599673155,
+        "Dice": 0.7685157960014333,
+        "Precision": 0.6276280682947222,
+        "Recall": 0.9909638554008138,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001327_jpg.rf.dafe04a3ba05a6d1a953d1269cc7750f.jpg": {
+        "IoU": 0.7716586899786361,
+        "Dice": 0.87111439053528,
+        "Precision": 0.8803711989321372,
+        "Recall": 0.8620502210793717,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_036_mp4-10_jpg.rf.2fef92cb29960131faf5af49b80903c7.jpg": {
+        "IoU": 0.6302083300509983,
+        "Dice": 0.7731629368269555,
+        "Precision": 0.9999999917355373,
+        "Recall": 0.6302083300509983,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001345_jpeg_jpg.rf.e2cf5174cb267411d7d848a5b35f590e.jpg": {
+        "IoU": 0.5359352859887725,
+        "Dice": 0.6978618056082476,
+        "Precision": 0.5359352859887725,
+        "Recall": 0.9999999999832664,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_008_mp4-3_jpg.rf.7a2aaf8fea465be5efa9a607f7e93fa4.jpg": {
+        "IoU": 0.7222222193562611,
+        "Dice": 0.838709675486844,
+        "Precision": 0.9285714238338193,
+        "Recall": 0.7647058791398913,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_035_mp4-7_jpg.rf.2c2f16de6ca0fe49720813eafd4e1e98.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_004_mp4-12_jpg.rf.7ab39b308a9c1ad08e5f9ea8320586f2.jpg": {
+        "IoU": 0.2864583325873481,
+        "Dice": 0.44534412865314954,
+        "Precision": 0.999999990909091,
+        "Recall": 0.2864583325873481,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000975_jpg.rf.448e3f4bb84cd7e920bc9fa11ec433c7.jpg": {
+        "IoU": 0.7706897743594134,
+        "Dice": 0.8704966680436473,
+        "Precision": 0.8395721924922906,
+        "Recall": 0.9037863841273537,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000206_jpg.rf.92257e376956620c3f37be5968564cb4.jpg": {
+        "IoU": 0.06814781617180533,
+        "Dice": 0.1275999728502823,
+        "Precision": 0.06827470996409123,
+        "Recall": 0.9734513273419835,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_014_mp4-5_jpg.rf.926a54650223e8e817203d4f879b673d.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_047_mp4-31_jpg.rf.d7112a624929e149924113aa2710d5db.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000398_jpg.rf.27e82d351e67ff4fe7c31083c55ee601.jpg": {
+        "IoU": 0.11312947505745378,
+        "Dice": 0.20326382077271762,
+        "Precision": 0.11312947505745378,
+        "Recall": 0.999999999930065,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001079_jpg.rf.c3d270b86ddf434bf018f4afdaafc1cc.jpg": {
+        "IoU": 0.8339557386924525,
+        "Dice": 0.9094611403076001,
+        "Precision": 0.9480519480420347,
+        "Recall": 0.8738891566180831,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001403_jpg.rf.2d9a0d1448bd84f5c43bc7458c484379.jpg": {
+        "IoU": 0.5026111903205356,
+        "Dice": 0.6689836912678908,
+        "Precision": 0.5026111903205356,
+        "Recall": 0.9999999999829103,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_004_mp4-5_jpg.rf.87d3aa58abd26a06c091bfc4ad301520.jpg": {
+        "IoU": 0.576190473446712,
+        "Dice": 0.7311178225645987,
+        "Precision": 0.9999999917355373,
+        "Recall": 0.576190473446712,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_012_mp4-9_jpg.rf.cf76553f1c3e6697035ca3d66cd4513c.jpg": {
+        "IoU": 0.6417112290886213,
+        "Dice": 0.7817589570181115,
+        "Precision": 0.7017543849389556,
+        "Recall": 0.8823529395544982,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000821_jpg.rf.43a19a1373fa554cc94a7277ecd7c7cc.jpg": {
+        "IoU": 0.7148005555199726,
+        "Dice": 0.8336836062001697,
+        "Precision": 0.918351213993017,
+        "Recall": 0.7633100548099863,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001081_jpg.rf.f6558ee72c1c21d47131ca658c6d1303.jpg": {
+        "IoU": 0.40235864242165514,
+        "Dice": 0.5738313014234994,
+        "Precision": 0.40320581393032107,
+        "Recall": 0.9948051947843568,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001153_jpg.rf.b9c4e3baa040e80e1101fb1ee8ff9103.jpg": {
+        "IoU": 0.6252814892616091,
+        "Dice": 0.7694439312733258,
+        "Precision": 0.6252814892616091,
+        "Recall": 0.9999999999890866,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_039_mp4-15_jpg.rf.38e549638cbb4c37aba0fa3cb359b47f.jpg": {
+        "IoU": 0.8809523809083157,
+        "Dice": 0.9367088607345838,
+        "Precision": 0.8875226768349364,
+        "Recall": 0.9916666666108296,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_004_mp4-31_jpg.rf.c774057505aa50fc718bab7ffa8e6460.jpg": {
+        "IoU": 0.5729166636827258,
+        "Dice": 0.7284768187798781,
+        "Precision": 0.999999990909091,
+        "Recall": 0.5729166636827258,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_050_mp4-9_jpg.rf.e26a28ddd53a2003d8d3a62858a9dca4.jpg": {
+        "IoU": 0.8366890361595324,
+        "Dice": 0.9110840427392399,
+        "Precision": 0.9444444420594837,
+        "Recall": 0.8799999979294117,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001247_jpg.rf.1ab5027983d0d2c81b76afa77b5832fb.jpg": {
+        "IoU": 0.7147710463375968,
+        "Dice": 0.8336635352739397,
+        "Precision": 0.7286526256422966,
+        "Recall": 0.9740386319225807,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_049_mp4-11_jpg.rf.b58ec905bb194deaa269a7c930520d76.jpg": {
+        "IoU": 0.4118993125585828,
+        "Dice": 0.5834683945162586,
+        "Precision": 0.9999999944444445,
+        "Recall": 0.4118993125585828,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001125_jpg.rf.ae7532fe3835961ae0146a0def189c3c.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001040_jpg.rf.b12d275f3a922ce67f1f5a886be6e3c6.jpg": {
+        "IoU": 0.872204472835534,
+        "Dice": 0.9317406143299539,
+        "Precision": 0.872204472835534,
+        "Recall": 0.9999999999895938,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_002_mp4-20_jpg.rf.424559d798e72b6d0253c5ce9a673248.jpg": {
+        "IoU": 0.6256442488607389,
+        "Dice": 0.7697185276535061,
+        "Precision": 0.6481734713389221,
+        "Recall": 0.9473684209624661,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_002_mp4-7_jpg.rf.502cb8e2208cd8c50d17ff2ab02bf786.jpg": {
+        "IoU": 0.6862745083087701,
+        "Dice": 0.8139534873204736,
+        "Precision": 0.6862745083087701,
+        "Recall": 0.9999999968253969,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001209_jpg.rf.9991d669f0354369aa9a15d25dcfd4ef.jpg": {
+        "IoU": 0.49751543441953006,
+        "Dice": 0.6644544997459448,
+        "Precision": 0.9752066115587343,
+        "Recall": 0.503888973612909,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000947_jpg.rf.b7585ec70ae2e88f8bb7b512d50ee111.jpg": {
+        "IoU": 0.642032707996212,
+        "Dice": 0.7819974655434124,
+        "Precision": 0.6441427115136054,
+        "Recall": 0.9949238578554884,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_039_mp4-38_jpg.rf.21fd274178bdca419f8bd4259e0e439e.jpg": {
+        "IoU": 0.9153515057996043,
+        "Dice": 0.9558052430877134,
+        "Precision": 0.9666666659343434,
+        "Recall": 0.945185184485048,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_047_mp4-12_jpg.rf.e78bb0d837dba72f8ddd5cf9ac9b16c4.jpg": {
+        "IoU": 0.8505891200091427,
+        "Dice": 0.9192630722966105,
+        "Precision": 0.8568181817460591,
+        "Recall": 0.9915254236322301,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001032_jpg.rf.d63528027beda36b6fb41ba2c92a380d.jpg": {
+        "IoU": 0.7391448230114703,
+        "Dice": 0.850009514137622,
+        "Precision": 0.8422102815352845,
+        "Recall": 0.8579545454408137,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_016_mp4-8_jpg.rf.091500eb10429a1d2a70ecbb1c242f12.jpg": {
+        "IoU": 0.7142857100340136,
+        "Dice": 0.8333333304398148,
+        "Precision": 0.7692307642998029,
+        "Recall": 0.9090909022038568,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000469_jpg.rf.b0793bbcf85293cb6b2395be3501b8a9.jpg": {
+        "IoU": 0.16208857808757055,
+        "Dice": 0.27896079721275113,
+        "Precision": 0.9953051642812586,
+        "Recall": 0.16221260077534205,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001340_jpg.rf.b6bc974cece279a88b1e169faeab1127.jpg": {
+        "IoU": 0.8797327394137847,
+        "Dice": 0.936018957341924,
+        "Precision": 0.98749999999099,
+        "Recall": 0.889639639632327,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_029_mp4-3_jpg.rf.7125880abe2e41f948bb648a2953cc93.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_043_mp4-8_jpg.rf.5c4c74d5ab1d993aeeedd8493bee285a.jpg": {
+        "IoU": 0.7842401493581236,
+        "Dice": 0.8790746577922846,
+        "Precision": 0.7842401493581236,
+        "Recall": 0.9999999988038277,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000912_jpg.rf.d5ba758d24fcc2b3772f2cff25c0adcf.jpg": {
+        "IoU": 0.6277447546007656,
+        "Dice": 0.7713061311688657,
+        "Precision": 0.628538780694108,
+        "Recall": 0.9979916171750884,
+        "detected_boxes_count": 4,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001044_jpg.rf.224bc46acaa2083de19033d52c82ede8.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000468_jpg.rf.43ca4e48615ac436cc255dcbc9960f56.jpg": {
+        "IoU": 0.37732919254321656,
+        "Dice": 0.5479143179220418,
+        "Precision": 0.37732919254321656,
+        "Recall": 0.9999999999763493,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001299_jpg.rf.0307edfc366dcb2a514e75a091001ff9.jpg": {
+        "IoU": 0.46462173465740236,
+        "Dice": 0.6344597020009191,
+        "Precision": 0.46462173465740236,
+        "Recall": 0.999999999983111,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001421_jpg.rf.46123961680e5b35e4fe60bdca2282cf.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_007_mp4-3_jpg.rf.5aafe8cec95be1261d9e164ed9418b9c.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001067_jpg.rf.0d4528357e0cbc76a9ed2e93fffa6095.jpg": {
+        "IoU": 0.10168373706462777,
+        "Dice": 0.1845969648885953,
+        "Precision": 0.10188330139363058,
+        "Recall": 0.9811008589894304,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 3
+    },
+    "Datasets/airplane/images/00000849_jpg.rf.1111d4aea443a4a0665c5d3c7505bea4.jpg": {
+        "IoU": 0.49567865329663885,
+        "Dice": 0.6628143715284149,
+        "Precision": 0.4994105196355604,
+        "Recall": 0.985148514838087,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_039_mp4-5_jpg.rf.fb9a6b1bf15667bed52bf16f02663811.jpg": {
+        "IoU": 0.7061728393124355,
+        "Dice": 0.8277858175224656,
+        "Precision": 0.7061728393124355,
+        "Recall": 0.9999999996114997,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000216_png_jpg.rf.c915b2a1dcdb036c309d869a7734208f.jpg": {
+        "IoU": 0.928873624983105,
+        "Dice": 0.9631254354377323,
+        "Precision": 0.9819004524628564,
+        "Recall": 0.945054945031016,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000727_jpg.rf.48cb0b77a35f9ffef3c5c24ba248f4b2.jpg": {
+        "IoU": 0.7644952185304891,
+        "Dice": 0.8665313575257831,
+        "Precision": 0.8217957032217391,
+        "Recall": 0.9164179104407107,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001160_jpg.rf.e31161d62d7283fe29ef7c9726b42621.jpg": {
+        "IoU": 0.4616313497796132,
+        "Dice": 0.6316659119951397,
+        "Precision": 0.5975232198097513,
+        "Recall": 0.6699469205436858,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000252_jpg.rf.03a601cdd447fb95eaa97e00a97f81b1.jpg": {
+        "IoU": 0.5789955624386913,
+        "Dice": 0.7333719944652122,
+        "Precision": 0.7968127489962601,
+        "Recall": 0.679288317392266,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000026_jpg.rf.b0c4889222650079bd79f40bf2b492b5.jpg": {
+        "IoU": 0.9171825202185188,
+        "Dice": 0.9568025063299441,
+        "Precision": 0.9364235095275846,
+        "Recall": 0.9780882352861268,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 2
+    },
+    "Datasets/airplane/images/V_AIRPLANE_003_mp4-1_jpg.rf.5ef4497052a0468778d91ceb68316235.jpg": {
+        "IoU": 0.852713177192877,
+        "Dice": 0.920502091408297,
+        "Precision": 0.9166666653935185,
+        "Recall": 0.9243697466045242,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_010_mp4-17_jpg.rf.df50bef42350b72cd79a9e13284f5710.jpg": {
+        "IoU": 0.3573883149230642,
+        "Dice": 0.526582277147893,
+        "Precision": 0.37818181680661156,
+        "Recall": 0.8666666594444445,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001268_jpg.rf.89238cdb7a5ce4cf42e035cbdac353a0.jpg": {
+        "IoU": 0.07709825876456448,
+        "Dice": 0.1431591930210647,
+        "Precision": 0.08950209297078787,
+        "Recall": 0.35745710512772455,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 2
+    },
+    "Datasets/airplane/images/V_AIRPLANE_012_mp4-6_jpg.rf.e574ff1c48463a00a09318ccda52f5a2.jpg": {
+        "IoU": 0.812499998046875,
+        "Dice": 0.8965517229488704,
+        "Precision": 0.812499998046875,
+        "Recall": 0.9999999970414202,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_039_mp4-39_jpg.rf.4cd3133ea1e4bf7d615d87ec491b2a4d.jpg": {
+        "IoU": 0.6166495371959663,
+        "Dice": 0.7628734899037275,
+        "Precision": 0.9259259252114769,
+        "Recall": 0.6486486482980277,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000492_jpg.rf.8f52b8186c5c9de0675ad89cb7ee4794.jpg": {
+        "IoU": 0.19514641921239764,
+        "Dice": 0.3265648728479633,
+        "Precision": 0.19514641921239764,
+        "Recall": 0.9999999999661796,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000063_jpg.rf.b84442093ba3f77783df94ddb720dda5.jpg": {
+        "IoU": 0.599759326109508,
+        "Dice": 0.7498119452356333,
+        "Precision": 0.7682821556236259,
+        "Recall": 0.7322089674977066,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000303_jpg.rf.cfd0553d87df102180ceed711d847cb3.jpg": {
+        "IoU": 0.8139342593954235,
+        "Dice": 0.8974242094823263,
+        "Precision": 0.8139342593954235,
+        "Recall": 0.9999999999921857,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000293_jpg.rf.0b19443c865d3045ec0fa354a26e499b.jpg": {
+        "IoU": 0.5176058566581826,
+        "Dice": 0.6821347642898103,
+        "Precision": 0.5176058566581826,
+        "Recall": 0.9999999999796201,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 2
+    },
+    "Datasets/airplane/images/00000769_jpg.rf.a9f275359645fd7d83339db0b422ea32.jpg": {
+        "IoU": 0.6396290840867733,
+        "Dice": 0.7802119275568089,
+        "Precision": 0.656597938138689,
+        "Recall": 0.9611650485316017,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000973_jpg.rf.d5269aa36cca22cc737ffa6b285ba6dc.jpg": {
+        "IoU": 0.9007005320809114,
+        "Dice": 0.9477563844261283,
+        "Precision": 0.9007005320809114,
+        "Recall": 0.9999999999787497,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000928_jpg.rf.1c21233611d3a82a7d2866727ef1f91a.jpg": {
+        "IoU": 0.8485113509437506,
+        "Dice": 0.9180482992550155,
+        "Precision": 0.8871803518908953,
+        "Recall": 0.9511416731494664,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000370_jpg.rf.317d8c9b8b3c92432c7b864650db8667.jpg": {
+        "IoU": 0.5415487708061147,
+        "Dice": 0.702603486911316,
+        "Precision": 0.5451757889681411,
+        "Recall": 0.9878640776554589,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001242_jpg.rf.c9b6dafc3cd28de3abe9bfe6be6c7f93.jpg": {
+        "IoU": 0.5357897740144301,
+        "Dice": 0.6977384314962835,
+        "Precision": 0.5401299608442164,
+        "Recall": 0.9852242065935884,
+        "detected_boxes_count": 3,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_041_mp4-5_jpg.rf.4df404902b4a73bdfc3749482c9e9812.jpg": {
+        "IoU": 0.805632078324123,
+        "Dice": 0.892354636357437,
+        "Precision": 0.8811516571389759,
+        "Recall": 0.9038461538018129,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_052_mp4-1_jpg.rf.c7d2388c768571e1c531d4a4c77c3e6c.jpg": {
+        "IoU": 0.56249999765625,
+        "Dice": 0.71999999808,
+        "Precision": 0.56249999765625,
+        "Recall": 0.9999999925925926,
+        "detected_boxes_count": 3,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000412_jpg.rf.ab0080a3d1794c2fb1b192ffb160f3f2.jpg": {
+        "IoU": 0.6541304951591499,
+        "Dice": 0.7909055507693952,
+        "Precision": 0.9232398888932362,
+        "Recall": 0.691751971698153,
+        "detected_boxes_count": 3,
+        "ground_truth_boxes_count": 6
+    },
+    "Datasets/airplane/images/V_AIRPLANE_043_mp4-10_jpg.rf.35e5edda73780d273ac0ebe56d0986ef.jpg": {
+        "IoU": 0.7012302278548064,
+        "Dice": 0.8243801648634399,
+        "Precision": 0.7254545447950412,
+        "Recall": 0.9545454534036538,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_047_mp4-18_jpg.rf.2074980d4f0280b0ed39fb5392f8bdc3.jpg": {
+        "IoU": 0.8205828779372804,
+        "Dice": 0.9014507253490163,
+        "Precision": 0.8241995841767373,
+        "Recall": 0.9946808510305539,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000755_jpg.rf.2887505ec5368f8c2948a13a9e4245b0.jpg": {
+        "IoU": 0.6846729273693951,
+        "Dice": 0.8128259393810133,
+        "Precision": 0.6875544656743776,
+        "Recall": 0.9939160750286237,
+        "detected_boxes_count": 3,
+        "ground_truth_boxes_count": 2
+    },
+    "Datasets/airplane/images/V_AIRPLANE_010_mp4-19_jpg.rf.81a38b20ff61e69d6add4c34c103bdfb.jpg": {
+        "IoU": 0.45454545282369146,
+        "Dice": 0.6249999983723958,
+        "Precision": 0.4687499981689453,
+        "Recall": 0.9374999926757813,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000180_jpg.rf.d344da7aafefde7f68d9a372c0a7e77a.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001325_jpg.rf.6c1396141279c889f8dd13844f9c019f.jpg": {
+        "IoU": 0.7516273763767185,
+        "Dice": 0.8582046461633603,
+        "Precision": 0.7573051948007079,
+        "Recall": 0.9901236289196403,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001378_jpg.rf.b1bca19644426124dc43e9ca42657f3d.jpg": {
+        "IoU": 0.7104289553551916,
+        "Dice": 0.8307026762273938,
+        "Precision": 0.7128007283976747,
+        "Recall": 0.9953381853071718,
+        "detected_boxes_count": 4,
+        "ground_truth_boxes_count": 2
+    },
+    "Datasets/airplane/images/00001467_jpg.rf.b9b64f52086fd30f62a977d0a4ce35eb.jpg": {
+        "IoU": 0.753230323098031,
+        "Dice": 0.8592485689695826,
+        "Precision": 0.7539376520584355,
+        "Recall": 0.9987560079069009,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_021_mp4-6_jpg.rf.b7e6a9ce51f5b1e601616553e5cd6794.jpg": {
+        "IoU": 0.6791044750779683,
+        "Dice": 0.8088888870913581,
+        "Precision": 0.9333333285470086,
+        "Recall": 0.7137254873971549,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000584_jpg.rf.948383f7deaf6195a84fcb7e26ec285a.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_016_mp4-10_jpg.rf.1c4b39451b926b1428abc571f5b5d1c0.jpg": {
+        "IoU": 0.47619047392290254,
+        "Dice": 0.6451612882414152,
+        "Precision": 0.9999999900000002,
+        "Recall": 0.47619047392290254,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_040_mp4-22_jpg.rf.313ae6438d2e4188246402e0740ee45c.jpg": {
+        "IoU": 0.8888888882030177,
+        "Dice": 0.9411764702037678,
+        "Precision": 0.923076922337278,
+        "Recall": 0.9599999991999999,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000570_jpg.rf.a35dc7df57306954a269688498c6cb2f.jpg": {
+        "IoU": 0.6776789495923128,
+        "Dice": 0.8078767987844078,
+        "Precision": 0.7462686567099721,
+        "Recall": 0.8805723720328527,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_040_mp4-13_jpg.rf.4a8265154d7804e95312814535c428a2.jpg": {
+        "IoU": 0.6613418528842213,
+        "Dice": 0.7961538460444844,
+        "Precision": 0.6677419353300134,
+        "Recall": 0.9857142853790087,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000067_jpg.rf.6e787894339fa996fded5d03bad34155.jpg": {
+        "IoU": 0.8381555704350594,
+        "Dice": 0.9119528117379994,
+        "Precision": 0.8776629672040099,
+        "Recall": 0.9490309676398507,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000923_jpg.rf.f5f1b44d9bd5f5501f3e90cb119536c8.jpg": {
+        "IoU": 0.7442583910980484,
+        "Dice": 0.8533808922994736,
+        "Precision": 0.7576488357728948,
+        "Recall": 0.9768041237033481,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000302_jpg.rf.71df08d1f66a145c68e1ca0a7c98454a.jpg": {
+        "IoU": 0.8150127579869787,
+        "Dice": 0.898079370958147,
+        "Precision": 0.8150127579869787,
+        "Recall": 0.9999999999910294,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 2
+    },
+    "Datasets/airplane/images/00001205_jpg.rf.8d440e72ae12e323371f26ada397a270.jpg": {
+        "IoU": 0.864826693331595,
+        "Dice": 0.9275142793956301,
+        "Precision": 0.9406041986536642,
+        "Recall": 0.9147836912400438,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_047_mp4-30_jpg.rf.f3adbedb75adbef38ab0d3af99203212.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_048_mp4-14_jpg.rf.2a690dbddc1d27b3e2520b59f0855e1c.jpg": {
+        "IoU": 0.8328690805866135,
+        "Dice": 0.9088145895505554,
+        "Precision": 0.8749085586747357,
+        "Recall": 0.9454545452054138,
+        "detected_boxes_count": 4,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001140_png_jpg.rf.f39372c0e5d96da86b51d16d5200696a.jpg": {
+        "IoU": 0.8095276511582864,
+        "Dice": 0.89473918858339,
+        "Precision": 0.832048092863239,
+        "Recall": 0.9676470588157534,
+        "detected_boxes_count": 4,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001291_jpg.rf.08e61012ca42423407e7f14ac0600c64.jpg": {
+        "IoU": 0.2315921216086422,
+        "Dice": 0.3760857471321731,
+        "Precision": 0.2315921216086422,
+        "Recall": 0.9999999999605538,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_010_mp4-18_jpg.rf.b215582272470bad4fb0d20c852ea756.jpg": {
+        "IoU": 0.5806451581685744,
+        "Dice": 0.7346938750520616,
+        "Precision": 0.8181818119834712,
+        "Recall": 0.6666666625514404,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_004_mp4-4_jpg.rf.b8421c2812d7cf141963ee81087545de.jpg": {
+        "IoU": 0.4245614020190828,
+        "Dice": 0.5960591118323667,
+        "Precision": 0.9999999917355373,
+        "Recall": 0.4245614020190828,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000130_png_jpg.rf.7bd32f4e2430d8db1dc16bda103b3710.jpg": {
+        "IoU": 0.8516682756784262,
+        "Dice": 0.9198929277614658,
+        "Precision": 0.8522803586315946,
+        "Recall": 0.9991574585566356,
+        "detected_boxes_count": 5,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000014_jpg.rf.43455c4e71d6710c1db819c24a24f31b.jpg": {
+        "IoU": 0.8324078473909957,
+        "Dice": 0.9085399285712381,
+        "Precision": 0.9621486747252787,
+        "Recall": 0.8605898123263999,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000829_png_jpg.rf.25b2791ffdec2ded5d47cab3dde9d47a.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000461_jpg.rf.f133ce4c0f9516d5603fa7ce6d46ffbd.jpg": {
+        "IoU": 0.06232162719059208,
+        "Dice": 0.11733099580285755,
+        "Precision": 0.0675230043433367,
+        "Recall": 0.4472218784527149,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 2
+    },
+    "Datasets/airplane/images/00000034_jpg.rf.6eb0c1a1c3b1483a5f65bb705d82c49d.jpg": {
+        "IoU": 0.3065197390410218,
+        "Dice": 0.46921562664794575,
+        "Precision": 0.3065197390410218,
+        "Recall": 0.9999999999772609,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_026_mp4-10_jpg.rf.2bc8c261fec78203319c015408fdb0c6.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000898_jpg.rf.06310eb8a7406861f7f3ec1749a837e5.jpg": {
+        "IoU": 0.7077168818060772,
+        "Dice": 0.8288456820285076,
+        "Precision": 0.9788135592865851,
+        "Recall": 0.7187267311796955,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000237_jpg.rf.cd4ee4f1ac53f87664f7444ac43d8b1b.jpg": {
+        "IoU": 0.37752149088546355,
+        "Dice": 0.5481170252273809,
+        "Precision": 0.40814679293702616,
+        "Recall": 0.83419746102259,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001231_jpg.rf.87cef3b27051255e7867ee34634f2a97.jpg": {
+        "IoU": 0.7182402046669625,
+        "Dice": 0.8360183898806806,
+        "Precision": 0.7182402046669625,
+        "Recall": 0.9999999999816386,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 2
+    },
+    "Datasets/airplane/images/00001270_png_jpg.rf.3ffddf4867ab14b6a2ca7c7e9fcb5486.jpg": {
+        "IoU": 0.1799242423816467,
+        "Dice": 0.30497592289226005,
+        "Precision": 0.2533333332488889,
+        "Recall": 0.38306451593595536,
+        "detected_boxes_count": 3,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000566_jpg.rf.61e7415f91eb02c0aea35d6d3ba6421e.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000095_jpg.rf.9f92a9111d5765afd9559cab6cbf1be5.jpg": {
+        "IoU": 0.7701044360958974,
+        "Dice": 0.8701231637997839,
+        "Precision": 0.8045430533462906,
+        "Recall": 0.9473432378651722,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 2
+    },
+    "Datasets/airplane/images/00000390_jpg.rf.54e6791438b9206b1a88de3202222659.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000979_jpg.rf.b96c37df008aff0e83eb0190a53cb8ea.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_014_mp4-0_jpg.rf.3bf9763276deb084ed36004dfb400663.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001100_jpg.rf.d8307cfbb5ea09364877cf34ed4e77dc.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000823_jpg.rf.0657539c1a076bbf9a0fe08725819a99.jpg": {
+        "IoU": 0.4497250003692766,
+        "Dice": 0.6204280125606192,
+        "Precision": 0.4497250003692766,
+        "Recall": 0.9999999999834286,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001118_jpg.rf.bad985a2d03d590ae92dcbd765575d57.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_012_mp4-2_jpg.rf.1bae522fc61461c3f865be177bf477ba.jpg": {
+        "IoU": 0.5294117632229363,
+        "Dice": 0.6923076910397296,
+        "Precision": 0.5294117632229363,
+        "Recall": 0.9999999947089947,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000537_jpg.rf.b67530a431ea6eb414e645ddab07cdd6.jpg": {
+        "IoU": 0.8729042523266284,
+        "Dice": 0.9321397516635,
+        "Precision": 0.8729042523266284,
+        "Recall": 0.9999999999928518,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_029_mp4-7_jpg.rf.265e6fc8c0cad76c16279ae9a1285742.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001251_jpg.rf.6e7b0c4e8ef02152c23fd8fb52491423.jpg": {
+        "IoU": 0.7346625516359292,
+        "Dice": 0.8470380028012735,
+        "Precision": 0.9999999999888864,
+        "Recall": 0.7346625516359292,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001405_jpg.rf.418fe665684ec91dfab6f3b4c2e2ff69.jpg": {
+        "IoU": 0.7054827385823992,
+        "Dice": 0.8273114967657753,
+        "Precision": 0.7054827385823992,
+        "Recall": 0.9999999999821013,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000367_jpg.rf.1a0b51f56980d997e3616048e6724f90.jpg": {
+        "IoU": 0.5704692899974954,
+        "Dice": 0.7264953140196777,
+        "Precision": 0.5738617303484655,
+        "Recall": 0.9897435897305754,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_052_mp4-9_jpg.rf.122c263dc8e76d0825c1aa8db8e4c0a8.jpg": {
+        "IoU": 0.68965516646849,
+        "Dice": 0.8163265264473136,
+        "Precision": 0.799999992,
+        "Recall": 0.8333333246527779,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001083_png_jpg.rf.fc34837be2913db4c6eb4d82d00a2d6e.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001339_png_jpg.rf.53f633350cdc5fc7d51fc7f7c641cc4e.jpg": {
+        "IoU": 0.8834671658593594,
+        "Dice": 0.9381285555421557,
+        "Precision": 0.9368421052509228,
+        "Recall": 0.9394185437278757,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_039_mp4-2_jpg.rf.4a38931fe245736c9caca0d1512a7c1e.jpg": {
+        "IoU": 0.6305189773739946,
+        "Dice": 0.7733966744618532,
+        "Precision": 0.6359374998343913,
+        "Recall": 0.9866666662680135,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000075_jpg.rf.a6b2119e158609a038ff416b48a7b9f3.jpg": {
+        "IoU": 0.5613916013363972,
+        "Dice": 0.719091355244772,
+        "Precision": 0.6352914942485248,
+        "Recall": 0.8283582089284629,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000291_png_jpg.rf.4c496546ae1391533ea45a8e74fe9213.jpg": {
+        "IoU": 0.7707586227491688,
+        "Dice": 0.8705405839589107,
+        "Precision": 0.8746601644729606,
+        "Recall": 0.8664596273219003,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000485_jpg.rf.69528c8df3b1644d753aa4f25b6d97cc.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000141_jpg.rf.f3346c3f79e45cb4b963b450dc85e1d4.jpg": {
+        "IoU": 0.45880063383287334,
+        "Dice": 0.6290107410049776,
+        "Precision": 0.45880063383287334,
+        "Recall": 0.9999999999832341,
+        "detected_boxes_count": 3,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001427_jpg.rf.ead7f6808e38290ebf1bbdba1cf0f8a4.jpg": {
+        "IoU": 0.4236466359668582,
+        "Dice": 0.5951570077347768,
+        "Precision": 0.42590203552437494,
+        "Recall": 0.9876543209742846,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001062_jpg.rf.dcb3a8d65cbdce6c9fe4b56e6cb6ae97.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_033_mp4-7_jpg.rf.b556993d1c60d44ec83d0e9d968228bf.jpg": {
+        "IoU": 0.6545454485950414,
+        "Dice": 0.7912087868614902,
+        "Precision": 0.6545454485950414,
+        "Recall": 0.9999999861111113,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000536_jpg.rf.8f6a70d229fc7770159f1944aae24609.jpg": {
+        "IoU": 0.39615493127781926,
+        "Dice": 0.5674942263252141,
+        "Precision": 0.39624010642463253,
+        "Recall": 0.9994576822526614,
+        "detected_boxes_count": 3,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000175_jpg.rf.659b24e04cd757c1cc8e1a86df8307d2.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000333_jpg.rf.96afbc9e30195cf3f62fc40d3d40d013.jpg": {
+        "IoU": 0.7145600186055866,
+        "Dice": 0.8335199827961955,
+        "Precision": 0.7160738581007565,
+        "Recall": 0.9970501474656424,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_011_mp4-2_jpg.rf.9ed3ba4ad01c32cef5afff7f4c0f1037.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000836_jpg.rf.73400c198f383ff47bff7a99339aacb5.jpg": {
+        "IoU": 0.4753858651474237,
+        "Dice": 0.6444224204356495,
+        "Precision": 0.982611940286286,
+        "Recall": 0.4794188861956379,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_040_mp4-6_jpg.rf.e81c1c98a936256c4238874b72c5d2ad.jpg": {
+        "IoU": 0.6578493386625733,
+        "Dice": 0.7936177592510018,
+        "Precision": 0.6620370369987247,
+        "Recall": 0.9904761903904349,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_017_mp4-3_jpg.rf.30e301785097b7fe065c1190393318c0.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000335_jpg.rf.b94ffeaf18a2a73b08e05e84c82d19cb.jpg": {
+        "IoU": 0.7941854086583194,
+        "Dice": 0.8852880029296485,
+        "Precision": 0.8673616103418721,
+        "Recall": 0.9039710289597407,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000950_jpg.rf.5e4c43e865ea0a811fad8bc2c85b628b.jpg": {
+        "IoU": 0.31458389807299036,
+        "Dice": 0.4786060418572441,
+        "Precision": 0.3313820673874343,
+        "Recall": 0.8612244897781648,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000480_jpg.rf.4e5e9951febc8d3907f18a0ee688ba97.jpg": {
+        "IoU": 0.3639874855434338,
+        "Dice": 0.5337108872350328,
+        "Precision": 0.3639874855434338,
+        "Recall": 0.9999999999838736,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000548_jpg.rf.56691330b88604db9dbae64f7b616648.jpg": {
+        "IoU": 0.6528422572878565,
+        "Dice": 0.7899631733267799,
+        "Precision": 0.6528422572878565,
+        "Recall": 0.9999999999736621,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000287_jpg.rf.54919f0112567ac509586fa23901f524.jpg": {
+        "IoU": 0.4862505564033315,
+        "Dice": 0.6543318746739969,
+        "Precision": 0.48817001414725486,
+        "Recall": 0.991978609608987,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_042_mp4-7_jpg.rf.017a04733633149f940d26ba1e38c1e3.jpg": {
+        "IoU": 0.8750503828219417,
+        "Dice": 0.9333619947907694,
+        "Precision": 0.8880253603754958,
+        "Recall": 0.9835768489088711,
+        "detected_boxes_count": 3,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001078_jpg.rf.773053e7529f77bd80d6029510c30ec3.jpg": {
+        "IoU": 0.713054110248971,
+        "Dice": 0.8324945557561372,
+        "Precision": 0.7144057869871832,
+        "Recall": 0.9973536056997673,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000118_jpg.rf.a972daa1947610765f3fe65f99301ec8.jpg": {
+        "IoU": 0.8052435640996448,
+        "Dice": 0.8921162552392264,
+        "Precision": 0.8772139800332607,
+        "Recall": 0.9075336059140408,
+        "detected_boxes_count": 3,
+        "ground_truth_boxes_count": 2
+    },
+    "Datasets/airplane/images/00000350_jpg.rf.8df1091b86b555aab2ad4b057aae09f6.jpg": {
+        "IoU": 0.9021391608086775,
+        "Dice": 0.9485522188872249,
+        "Precision": 0.9893992932772777,
+        "Recall": 0.9109441435068941,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_041_mp4-13_jpg.rf.4beb1d39a41b77512535927049631a8f.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_004_mp4-20_jpg.rf.29ca930a854752e918dd16adf7b9d655.jpg": {
+        "IoU": 0.7159763271244004,
+        "Dice": 0.8344827557431629,
+        "Precision": 0.9999999917355373,
+        "Recall": 0.7159763271244004,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000006_jpg.rf.88df702ff01f73e86b2c9aab9c4aff88.jpg": {
+        "IoU": 0.8320312499712379,
+        "Dice": 0.9083155650148439,
+        "Precision": 0.8452380952084128,
+        "Recall": 0.981566820236468,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000103_jpg.rf.e71692713211cee62ad0934a3c231d47.jpg": {
+        "IoU": 0.5710601349664647,
+        "Dice": 0.7269742542078497,
+        "Precision": 0.678873767219005,
+        "Recall": 0.7824106792227875,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 4
+    },
+    "Datasets/airplane/images/00001144_jpg.rf.24ec96d51f4d9e05587b1f8096057668.jpg": {
+        "IoU": 0.3014831750480626,
+        "Dice": 0.46329169800743536,
+        "Precision": 0.3014831750480626,
+        "Recall": 0.999999999980555,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 3
+    },
+    "Datasets/airplane/images/V_AIRPLANE_039_mp4-7_jpg.rf.11d3021306d21125e84864acb66919fe.jpg": {
+        "IoU": 0.8407193317788313,
+        "Dice": 0.9134682482705044,
+        "Precision": 0.849999999724026,
+        "Recall": 0.9871794868072477,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000266_JPG_jpg.rf.35b4e1056738754b9d862163788bbabe.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_041_mp4-11_jpg.rf.482e54278cd7adddb0e77f5fe41282ab.jpg": {
+        "IoU": 0.8539071342843108,
+        "Dice": 0.9211973118750161,
+        "Precision": 0.8666666661685823,
+        "Recall": 0.9830508468167856,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000833_jpg.rf.1ac0b2b57d5b9f7436e1c2225d379fb2.jpg": {
+        "IoU": 0.22590423985558528,
+        "Dice": 0.3685512008379992,
+        "Precision": 0.23289166684338397,
+        "Recall": 0.8827586206657807,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000340_jpg.rf.0fe4d091c202ed748d3fb07249007c63.jpg": {
+        "IoU": 0.777453150353869,
+        "Dice": 0.8747945341896495,
+        "Precision": 0.7846781639930432,
+        "Recall": 0.9882953181148924,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001397_jpg.rf.78d4f2585edf9fa5edb3c088a38a7ffa.jpg": {
+        "IoU": 0.7178217821725951,
+        "Dice": 0.835734870313192,
+        "Precision": 0.7324637125077335,
+        "Recall": 0.9729064039305578,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000511_jpg.rf.0f295a637e18fbea94d3218e8993bfca.jpg": {
+        "IoU": 0.655911398980076,
+        "Dice": 0.7922059107559389,
+        "Precision": 0.8422178488847248,
+        "Recall": 0.7478005865045826,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001236_jpg.rf.57a4db1288f6cfafd5a2f3aff38de489.jpg": {
+        "IoU": 0.2816855910690672,
+        "Dice": 0.4395549002530493,
+        "Precision": 0.2816855910690672,
+        "Recall": 0.9999999999713303,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_048_mp4-1_jpg.rf.803f483718ea8bc1c99ca6a7958cd00f.jpg": {
+        "IoU": 0.417876734295619,
+        "Dice": 0.5894401455190168,
+        "Precision": 0.7925336592456954,
+        "Recall": 0.4692028983807236,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001337_jpg.rf.841e8018088cf45ed3234f9b38470b6a.jpg": {
+        "IoU": 0.8344370860813448,
+        "Dice": 0.9097472924120147,
+        "Precision": 0.8437499999883743,
+        "Recall": 0.9869451696968871,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001371_jpg.rf.9311d2c16326fad6b062638530466ccb.jpg": {
+        "IoU": 0.4768871841417832,
+        "Dice": 0.6458004230281159,
+        "Precision": 0.553795288594531,
+        "Recall": 0.7744669920121222,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_010_mp4-11_jpg.rf.4ef6ce4862010d9616051184460979fb.jpg": {
+        "IoU": 0.5769230750739645,
+        "Dice": 0.7317073155859607,
+        "Precision": 0.6249999978298612,
+        "Recall": 0.8823529368512111,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_037_mp4-9_jpg.rf.b1f088d2e30b4801853b6c2fc4270f0c.jpg": {
+        "IoU": 0.6111111077160494,
+        "Dice": 0.758620687039239,
+        "Precision": 0.6111111077160494,
+        "Recall": 0.999999990909091,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001314_jpg.rf.ae66465d272a0bbcd093fb09883a8533.jpg": {
+        "IoU": 0.6807784590654798,
+        "Dice": 0.8100751831910027,
+        "Precision": 0.6807784590654798,
+        "Recall": 0.9999999999738931,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001312_jpg.rf.b2dc86105b36072ad6eef7d7b5dab59b.jpg": {
+        "IoU": 0.693841315333462,
+        "Dice": 0.8192518496891986,
+        "Precision": 0.9656911091549587,
+        "Recall": 0.7113772357267294,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000864_png_jpg.rf.edf53ba36dc5c3aaa3a7b6400591934a.jpg": {
+        "IoU": 0.6384595125641858,
+        "Dice": 0.7793412137050587,
+        "Precision": 0.9688575995916002,
+        "Recall": 0.6518366840339639,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 2
+    },
+    "Datasets/airplane/images/00001232_jpeg_jpg.rf.64536e62a0a942cd699c9397dae7cac2.jpg": {
+        "IoU": 0.878620585776725,
+        "Dice": 0.935389074759292,
+        "Precision": 0.9946617700036419,
+        "Recall": 0.8827833071364718,
+        "detected_boxes_count": 3,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001019_jpg.rf.5d5185b356319d8c8156836bc58dbe80.jpg": {
+        "IoU": 0.7501264501565563,
+        "Dice": 0.8572254308703857,
+        "Precision": 0.757086135639275,
+        "Recall": 0.9878934624592883,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_002_mp4-12_jpg.rf.7f96bfc01248a1c084e488e9a0c10e41.jpg": {
+        "IoU": 0.49822443164125557,
+        "Dice": 0.6650865132341581,
+        "Precision": 0.49840142078209543,
+        "Recall": 0.9992877485760058,
+        "detected_boxes_count": 3,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000647_jpg.rf.a417138c74ce608a1e519b474850df6b.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_013_mp4-1_jpg.rf.eea353726329fee71fe0ff1ab5fc739c.jpg": {
+        "IoU": 0.6481481451474623,
+        "Dice": 0.7865168517232672,
+        "Precision": 0.7142857106413995,
+        "Recall": 0.8749999945312501,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000397_jpg.rf.ffba3a58b7704297c0cdbb4a8a5029b6.jpg": {
+        "IoU": 0.7249604767865894,
+        "Dice": 0.8405531448895693,
+        "Precision": 0.8067444068937625,
+        "Recall": 0.8773195177963341,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001271_jpg.rf.47f05b44d98f9ae0525d74c68d188008.jpg": {
+        "IoU": 0.628818433374068,
+        "Dice": 0.7721160572470707,
+        "Precision": 0.6320994836681687,
+        "Recall": 0.9918128654829296,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000991_jpg.rf.ed592fce18148f5851f46fb78178501f.jpg": {
+        "IoU": 0.5634686303766953,
+        "Dice": 0.7207930103988535,
+        "Precision": 0.5666428034893047,
+        "Recall": 0.9901563701513443,
+        "detected_boxes_count": 3,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_003_mp4-18_jpg.rf.8b83a12935fe30287cd667f6f5bc1cf7.jpg": {
+        "IoU": 0.8955223867231009,
+        "Dice": 0.944881889019778,
+        "Precision": 0.9374999985351563,
+        "Recall": 0.9523809508692366,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001245_jpg.rf.eec299599f8aab841b07b3e9bdf49cc0.jpg": {
+        "IoU": 0.7008126990958876,
+        "Dice": 0.8240915645425545,
+        "Precision": 0.8081844368288368,
+        "Recall": 0.8406374501900775,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_047_mp4-20_jpg.rf.81bb0f2dce3357da16cc703a52a15aa9.jpg": {
+        "IoU": 0.9294459934255835,
+        "Dice": 0.9634330233575736,
+        "Precision": 0.9340886939286644,
+        "Recall": 0.9946808510315684,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001206_jpg.rf.bcd1800efffdfb2c54cde810ef627529.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001341_jpg.rf.067058ab776d1c1847b5d830c058397e.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001367_png_jpg.rf.3b259e491a75aab57d111dd16c6d28fd.jpg": {
+        "IoU": 0.9262405006498382,
+        "Dice": 0.9617080529013495,
+        "Precision": 0.9859154929342901,
+        "Recall": 0.9386608679682282,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000083_jpg.rf.c24ae99af8afd9c2df23363441d28767.jpg": {
+        "IoU": 0.4298912557315646,
+        "Dice": 0.6012922367465245,
+        "Precision": 0.4298912557315646,
+        "Recall": 0.9999999999851378,
+        "detected_boxes_count": 3,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000698_png_jpg.rf.aa6859731f99036e45d44c77b7e375ca.jpg": {
+        "IoU": 0.39458166807975853,
+        "Dice": 0.5658781799750314,
+        "Precision": 0.4078074214448841,
+        "Recall": 0.9240506328759475,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_046_mp4-4_jpg.rf.7cf2a426871e71f9b7bd556d060ed928.jpg": {
+        "IoU": 0.7934019065738331,
+        "Dice": 0.8848010071424214,
+        "Precision": 0.8822708884248471,
+        "Recall": 0.8873456788878583,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_040_mp4-28_jpg.rf.b64e008094435861bb0409245f280446.jpg": {
+        "IoU": 0.6011532915422505,
+        "Dice": 0.7509003600313775,
+        "Precision": 0.6037644786187827,
+        "Recall": 0.9928571424631519,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001322_jpg.rf.063c772bcf95e72a3c93868908d03233.jpg": {
+        "IoU": 0.5291829884408233,
+        "Dice": 0.6921120525678693,
+        "Precision": 0.5291829884408233,
+        "Recall": 0.9999999999867578,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000113_jpg.rf.1fd7d9ed87c8532200b3e9dbe164b539.jpg": {
+        "IoU": 0.7049439766955126,
+        "Dice": 0.8269409274805856,
+        "Precision": 0.7259073842208241,
+        "Recall": 0.9606459515715629,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000969_jpg.rf.ba9861e48d1ec37ea7b2ac630843d3d3.jpg": {
+        "IoU": 0.8974545633904099,
+        "Dice": 0.9459563150611838,
+        "Precision": 0.9239133196031311,
+        "Recall": 0.9690768349258687,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001461_jpg.rf.bc0e3a96d293abc14607619634c2cb2c.jpg": {
+        "IoU": 0.3455537319948042,
+        "Dice": 0.5136230888119429,
+        "Precision": 0.37009803921110496,
+        "Recall": 0.8389830508239144,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_029_mp4-4_jpg.rf.56e9ac0c85c780264d5ddc673d141c12.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000707_png_jpg.rf.57f8d554fb73da6abe7a6ad0ad218e6f.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000235_jpg.rf.7000b421019650fe94d6035bd269355f.jpg": {
+        "IoU": 0.8660878276660109,
+        "Dice": 0.9282390837405128,
+        "Precision": 0.9479166666450128,
+        "Recall": 0.9093618513124702,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_011_mp4-1_jpg.rf.f87077b1219940ec4f736b5d1ca284cc.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_049_mp4-6_jpg.rf.4b7a2fe63537b758f8d50d5faa5fba0c.jpg": {
+        "IoU": 0.5185185169181528,
+        "Dice": 0.6829268278802301,
+        "Precision": 0.9999999940476191,
+        "Recall": 0.5185185169181528,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_018_mp4-7_jpg.rf.621e076d805768fe65611d0008b3fdf7.jpg": {
+        "IoU": 0.8888888862897986,
+        "Dice": 0.9411764691313058,
+        "Precision": 0.9411764676743762,
+        "Recall": 0.9411764676743762,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001331_jpg.rf.03a28fc8be1122fe451b80c1e6b4d896.jpg": {
+        "IoU": 0.5117561683562282,
+        "Dice": 0.6770353302578868,
+        "Precision": 0.5149700598764789,
+        "Recall": 0.987951807215075,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_050_mp4-2_jpg.rf.fdb2b784a4f14df6d6c661872bf369a9.jpg": {
+        "IoU": 0.5789473646121884,
+        "Dice": 0.7333333302777778,
+        "Precision": 0.611111106867284,
+        "Recall": 0.9166666571180557,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000523_jpg.rf.3b8708215fc9c34fb96bf8f4f6b4b87b.jpg": {
+        "IoU": 0.8995205682101242,
+        "Dice": 0.9471027408328854,
+        "Precision": 0.906155157913184,
+        "Recall": 0.9919261671747334,
+        "detected_boxes_count": 4,
+        "ground_truth_boxes_count": 5
+    },
+    "Datasets/airplane/images/00000227_jpg.rf.4be5a728e4bed48afe5360659abef414.jpg": {
+        "IoU": 0.1877586674792408,
+        "Dice": 0.3161562573611316,
+        "Precision": 0.1877586674792408,
+        "Recall": 0.9999999999548308,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_035_mp4-6_jpg.rf.e2e212faa6bab854d39aa260d0686166.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001132_jpeg_jpg.rf.2f67f545d268a4dad4c0136df71e3fb2.jpg": {
+        "IoU": 0.19852072917712757,
+        "Dice": 0.3312762547101319,
+        "Precision": 0.19852072917712757,
+        "Recall": 0.9999999999704072,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_008_mp4-12_jpg.rf.fa9149cfc0efdbe82270cb11232faa8f.jpg": {
+        "IoU": 0.7233669440055385,
+        "Dice": 0.8394810478658151,
+        "Precision": 0.8474576266833808,
+        "Recall": 0.8316532253872715,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000217_jpg.rf.3294873cc208273908952ef27986dfc9.jpg": {
+        "IoU": 0.5974591335471463,
+        "Dice": 0.7480117907248027,
+        "Precision": 0.5974591335471463,
+        "Recall": 0.9999999999878562,
+        "detected_boxes_count": 3,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000309_jpeg_jpg.rf.66fc6ea4b21b94359160c50031af717a.jpg": {
+        "IoU": 0.718848330397815,
+        "Dice": 0.8364302046725004,
+        "Precision": 0.7213338135499049,
+        "Recall": 0.9952295371077808,
+        "detected_boxes_count": 3,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_037_mp4-5_jpg.rf.8ecddd678b874b4a836f452b61e04fe5.jpg": {
+        "IoU": 0.39722222111882716,
+        "Dice": 0.5685884680544961,
+        "Precision": 0.39722222111882716,
+        "Recall": 0.999999993006993,
+        "detected_boxes_count": 3,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_045_mp4-13_jpg.rf.67ce8de5a4066df8788b359c2ffd7d6d.jpg": {
+        "IoU": 0.6918238979207046,
+        "Dice": 0.8178438651575665,
+        "Precision": 0.7638888871206276,
+        "Recall": 0.8799999976533334,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000210_jpg.rf.49c949a681f908c0148210411d83c991.jpg": {
+        "IoU": 0.9067211637768176,
+        "Dice": 0.9510789317309425,
+        "Precision": 0.9067211637768176,
+        "Recall": 0.999999999992694,
+        "detected_boxes_count": 3,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001411_jpg.rf.af4f68ecf5f72741eb635e02c8e1fab9.jpg": {
+        "IoU": 0.3616396293337801,
+        "Dice": 0.5311825853815995,
+        "Precision": 0.37029788735486374,
+        "Recall": 0.9392712550416196,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001077_jpg.rf.29b8d7db6b9b32021888ef394b7024bc.jpg": {
+        "IoU": 0.34106943799917555,
+        "Dice": 0.5086529128693562,
+        "Precision": 0.3411143118276797,
+        "Recall": 0.9996144480316637,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000533_jpg.rf.71630ed8a5f99fdfb8f2c3411e989eb8.jpg": {
+        "IoU": 0.45503858106099454,
+        "Dice": 0.6254660006735856,
+        "Precision": 0.45503858106099454,
+        "Recall": 0.9999999999863138,
+        "detected_boxes_count": 3,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_039_mp4-4_jpg.rf.019a1342e32fb4656421b5024b7cbaff.jpg": {
+        "IoU": 0.7011247989552425,
+        "Dice": 0.8243073046561229,
+        "Precision": 0.7141298415946182,
+        "Recall": 0.974683543940922,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_020_mp4-7_jpg.rf.7c593e71f0b76784642cd7e933618af7.jpg": {
+        "IoU": 0.40866872938492654,
+        "Dice": 0.5802197789445719,
+        "Precision": 0.40866872938492654,
+        "Recall": 0.9999999924242425,
+        "detected_boxes_count": 3,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_039_mp4-14_jpg.rf.7eb39f9fa59fd0a16825e50e9383cde4.jpg": {
+        "IoU": 0.8226720647329192,
+        "Dice": 0.9027099066813946,
+        "Precision": 0.9177958445698406,
+        "Recall": 0.8881118880601333,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_013_mp4-12_jpg.rf.aaed1f31997f52b5044bc074e858d3c2.jpg": {
+        "IoU": 0.7142857106413995,
+        "Dice": 0.8333333308531746,
+        "Precision": 0.7142857106413995,
+        "Recall": 0.9999999928571429,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000114_png_jpg.rf.45791794c5d30c8e0f8e0f14d0ba8d36.jpg": {
+        "IoU": 0.7610273624706678,
+        "Dice": 0.8642993047001492,
+        "Precision": 0.7610273624706678,
+        "Recall": 0.9999999999918618,
+        "detected_boxes_count": 3,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000447_jpg.rf.70eb6378c42399a8a958379d49b25206.jpg": {
+        "IoU": 0.33026231213973967,
+        "Dice": 0.4965371252358635,
+        "Precision": 0.33026231213973967,
+        "Recall": 0.9999999999768304,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_008_mp4-20_jpg.rf.cb0748b9cb33234301c52fb2a7ab8efe.jpg": {
+        "IoU": 0.8421052617728532,
+        "Dice": 0.9142857134693877,
+        "Precision": 0.8888888873456791,
+        "Recall": 0.9411764688581314,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000003_jpg.rf.4da1db54c75d64f65bfcb1f0402e3a09.jpg": {
+        "IoU": 0.6004128887801601,
+        "Dice": 0.7503224861401818,
+        "Precision": 0.6115394391209359,
+        "Recall": 0.9705882352822529,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000586_jpg.rf.0a17ecda0ee4752f270c4620d6c60618.jpg": {
+        "IoU": 0.7153619941134619,
+        "Dice": 0.834065341972529,
+        "Precision": 0.7153619941134619,
+        "Recall": 0.9999999999902123,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000467_jpg.rf.15e4745e4e9529a26a0aed3c627abe1f.jpg": {
+        "IoU": 0.7635499003870988,
+        "Dice": 0.8659237827288014,
+        "Precision": 0.81972596690616,
+        "Recall": 0.9176397899218595,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000470_jpg.rf.148daaf53570c2d3d97c34cb084187e7.jpg": {
+        "IoU": 0.38676276775955326,
+        "Dice": 0.5577922579857046,
+        "Precision": 0.38676276775955326,
+        "Recall": 0.9999999999836958,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_001_mp4-15_jpg.rf.21af9f9a2d046115738a94acabcff5a2.jpg": {
+        "IoU": 0.7090909058677686,
+        "Dice": 0.8297872318356723,
+        "Precision": 0.7499999963942308,
+        "Recall": 0.9285714230442177,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000426_jpg.rf.1730477ef289e20674351b4a6a87b34d.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 2
+    },
+    "Datasets/airplane/images/V_AIRPLANE_052_mp4-5_jpg.rf.98ad78207afd91f58cc2766fc0bc7370.jpg": {
+        "IoU": 0.45833333174189816,
+        "Dice": 0.6285714270748299,
+        "Precision": 0.9999999924242425,
+        "Recall": 0.45833333174189816,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000816_jpg.rf.e6024166e81b2f67352f2ae477f3bab3.jpg": {
+        "IoU": 0.8144407871585624,
+        "Dice": 0.8977320096887671,
+        "Precision": 0.8831024846473012,
+        "Recall": 0.9128544067174346,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 2
+    },
+    "Datasets/airplane/images/V_AIRPLANE_002_mp4-16_jpg.rf.30043f329db02ccba03ae80ad1205192.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001000_jpg.rf.7a3a12330c36bc848e89d39d3731aaa5.jpg": {
+        "IoU": 0.7489996362264915,
+        "Dice": 0.8564891846889986,
+        "Precision": 0.7503839645922791,
+        "Recall": 0.9975429975343675,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001065_jpg.rf.1a96b6d956765960301b923de7279fda.jpg": {
+        "IoU": 0.5230956344677171,
+        "Dice": 0.6868848188256091,
+        "Precision": 0.5257987601289652,
+        "Recall": 0.9902676398865059,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000073_jpg.rf.f9fc1f3c8ab203696581feda17ce79b3.jpg": {
+        "IoU": 0.6319602549873808,
+        "Dice": 0.7744799581436711,
+        "Precision": 0.6396790123404142,
+        "Recall": 0.9812638090905719,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 2
+    },
+    "Datasets/airplane/images/00000431_jpg.rf.740b4a444a2eee9a8524f72f2d1ee3af.jpg": {
+        "IoU": 0.4854948946622744,
+        "Dice": 0.6536473419151684,
+        "Precision": 0.4916952987472413,
+        "Recall": 0.9746835442876062,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001358_jpeg_jpg.rf.e83a285d789d2962231291e746f3a3b7.jpg": {
+        "IoU": 0.3666666666640832,
+        "Dice": 0.5365853658508922,
+        "Precision": 0.9999999999807844,
+        "Recall": 0.3666666666640832,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000830_jpg.rf.6650780631401ae6e54dcbf5284ac5a2.jpg": {
+        "IoU": 0.6055480820679565,
+        "Dice": 0.7543194611624543,
+        "Precision": 0.6055480820679565,
+        "Recall": 0.9999999999892161,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_039_mp4-32_jpg.rf.619ae0f350ef63cd1fd569ff9f3edfac.jpg": {
+        "IoU": 0.8093645479536022,
+        "Dice": 0.894639556046344,
+        "Precision": 0.8929889292302664,
+        "Recall": 0.896296295632373,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000300_jpg.rf.d6c2aed08fe9848c89476deb5ff4b1a3.jpg": {
+        "IoU": 0.8160184374463398,
+        "Dice": 0.8986895954578675,
+        "Precision": 0.8354979146697246,
+        "Recall": 0.9722222222015279,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000152_jpg.rf.0472a8cc2d1a380db7bb8a0f8d824204.jpg": {
+        "IoU": 0.26511454891384495,
+        "Dice": 0.41911548506252994,
+        "Precision": 0.2692324785545144,
+        "Recall": 0.9454545454299531,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000963_jpg.rf.87f4f008c6c72cd9ec69b7a115e474eb.jpg": {
+        "IoU": 0.08731557094419008,
+        "Dice": 0.16060759778942194,
+        "Precision": 0.0880657673103699,
+        "Recall": 0.9111111110382805,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000400_jpg.rf.2d579e424c9d35ace9f7f2c2f820cdf0.jpg": {
+        "IoU": 0.6744676979010513,
+        "Dice": 0.805590575137995,
+        "Precision": 0.6744676979010513,
+        "Recall": 0.9999999999865092,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001361_jpg.rf.3f22161343e2c6e0296a1535e93a77ae.jpg": {
+        "IoU": 0.6745204141024587,
+        "Dice": 0.8056281767863678,
+        "Precision": 0.8908409637882592,
+        "Recall": 0.7352941176420388,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_008_mp4-14_jpg.rf.e7f6117cdc906bdef10095fb50b2d9e0.jpg": {
+        "IoU": 0.7249602540838791,
+        "Dice": 0.8405529951980292,
+        "Precision": 0.9142857138274256,
+        "Recall": 0.777825159583017,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001068_jpg.rf.d48c4467e16dcd3314f101a64c51ad19.jpg": {
+        "IoU": 0.9448517160788928,
+        "Dice": 0.9716439646965507,
+        "Precision": 0.9567432600979056,
+        "Recall": 0.9870161514726571,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_039_mp4-16_jpg.rf.fa74dad4d2cfb22337f0f0d00acef41f.jpg": {
+        "IoU": 0.6928728875487205,
+        "Dice": 0.8185763888652032,
+        "Precision": 0.9349593495316968,
+        "Recall": 0.7279604754913304,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_010_mp4-5_jpg.rf.c06840ed966934131d80778ab5388fce.jpg": {
+        "IoU": 0.2541176464608997,
+        "Dice": 0.4052532825417387,
+        "Precision": 0.9999999907407409,
+        "Recall": 0.2541176464608997,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000814_jpg.rf.b0a09e3b24f4aef2ff594a650c3f8b08.jpg": {
+        "IoU": 0.46112332734130806,
+        "Dice": 0.6311901517312412,
+        "Precision": 0.46112332734130806,
+        "Recall": 0.9999999999854616,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000654_jpg.rf.74eb62673c4976ccd6085936f414e1e8.jpg": {
+        "IoU": 0.48302019043711486,
+        "Dice": 0.6514006937353245,
+        "Precision": 0.4873889641419377,
+        "Recall": 0.9817806432799457,
+        "detected_boxes_count": 3,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001318_jpg.rf.e637a2fb40c5cb609f8e1798d52c1dc1.jpg": {
+        "IoU": 0.746966402203138,
+        "Dice": 0.8551582918379222,
+        "Precision": 0.757410654479825,
+        "Recall": 0.9818740549145714,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001016_jpg.rf.0ac6bf3582efbe7460f16f9d48f040b5.jpg": {
+        "IoU": 0.6508761641537947,
+        "Dice": 0.7885220930395108,
+        "Precision": 0.8178854680469884,
+        "Recall": 0.7611940298418981,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_039_mp4-33_jpg.rf.999fc37822228fb7069ee7a491239513.jpg": {
+        "IoU": 0.7597173140402136,
+        "Dice": 0.8634538149720704,
+        "Precision": 0.8333333327950042,
+        "Recall": 0.8958333327112268,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000368_jpg.rf.75d1d8e3e9b90b283a999dd86bfd09d8.jpg": {
+        "IoU": 0.41683716964454626,
+        "Dice": 0.5884051866723988,
+        "Precision": 0.9999999999659134,
+        "Recall": 0.41683716964454626,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000990_jpg.rf.c8598ad279bb4a0b8ef0719cfb1de423.jpg": {
+        "IoU": 0.6530546767694364,
+        "Dice": 0.7901186644905185,
+        "Precision": 0.7839229735711248,
+        "Recall": 0.7964130701753755,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 2
+    },
+    "Datasets/airplane/images/V_AIRPLANE_050_mp4-10_jpg.rf.3d56feef06f291e466aff0a33b081598.jpg": {
+        "IoU": 0.5502392335721862,
+        "Dice": 0.7098765424795509,
+        "Precision": 0.9999999971014493,
+        "Recall": 0.5502392335721862,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000089_jpg.rf.e8e470e670431bb285b69be199360078.jpg": {
+        "IoU": 0.21428670149394444,
+        "Dice": 0.35294251552010936,
+        "Precision": 0.21438448030161097,
+        "Recall": 0.9978761061625784,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001418_jpg.rf.04f6faec6e9fa124cf343cb4639d2ddd.jpg": {
+        "IoU": 0.7483799460044445,
+        "Dice": 0.8560838823560174,
+        "Precision": 0.7830204116423727,
+        "Recall": 0.9441856474847151,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001101_jpg.rf.0405ef349e7d62407dc839ca86831aae.jpg": {
+        "IoU": 0.4726437978608272,
+        "Dice": 0.6418983308080243,
+        "Precision": 0.4726437978608272,
+        "Recall": 0.9999999999865649,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001490_jpg.rf.5c4bdddee8b5ed32dc4546ffd725b19c.jpg": {
+        "IoU": 0.7143782583168438,
+        "Dice": 0.8333963112880489,
+        "Precision": 0.7161898871147908,
+        "Recall": 0.9964716006798927,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_037_mp4-1_jpg.rf.a2bb1503870d3f15cc95d8569ff03cfa.jpg": {
+        "IoU": 0.3333333319444445,
+        "Dice": 0.4999999984375,
+        "Precision": 0.3333333319444445,
+        "Recall": 0.9999999875000002,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_004_mp4-1_jpg.rf.405d92eae655a12fa991636cd85d4d17.jpg": {
+        "IoU": 0.6734693843190338,
+        "Dice": 0.8048780463265913,
+        "Precision": 0.6734693843190338,
+        "Recall": 0.9999999924242425,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000332_jpg.rf.0cbc0ac9d31556d8c66718fb26c45303.jpg": {
+        "IoU": 0.5852700693683689,
+        "Dice": 0.7383853144992039,
+        "Precision": 0.5861341670626155,
+        "Recall": 0.9974874371648688,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000490_jpg.rf.4ad06e45e33c36ba7e3b6abe440100f7.jpg": {
+        "IoU": 0.7723050942593476,
+        "Dice": 0.8715261235335968,
+        "Precision": 0.7784397162844525,
+        "Recall": 0.9898989898543515,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_041_mp4-14_jpg.rf.778b35fade13ffcaca37a6b91301dd68.jpg": {
+        "IoU": 0.7220883533411557,
+        "Dice": 0.8386194029361812,
+        "Precision": 0.7220883533411557,
+        "Recall": 0.9999999998609566,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001129_jpg.rf.244e6a9c46204e7c2c4c68c8fffde166.jpg": {
+        "IoU": 0.7540515245501344,
+        "Dice": 0.8597826392169725,
+        "Precision": 0.7624645116247983,
+        "Recall": 0.9855781612064901,
+        "detected_boxes_count": 3,
+        "ground_truth_boxes_count": 2
+    },
+    "Datasets/airplane/images/00000902_jpg.rf.a3e61ba0337595e168592f58a0d313b3.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001480_jpg.rf.374065d8e5d5366273a29ebd3c195f51.jpg": {
+        "IoU": 0.9316674932214424,
+        "Dice": 0.9646251194792331,
+        "Precision": 0.9733368405872006,
+        "Recall": 0.956067961157563,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001269_jpg.rf.cbafc8f87955be948aa5a3c8f1013705.jpg": {
+        "IoU": 0.801064444622833,
+        "Dice": 0.8895455651400488,
+        "Precision": 0.8184785500553624,
+        "Recall": 0.9741272783366225,
+        "detected_boxes_count": 3,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001219_jpg.rf.141ea4596578b1312fea6aa93b33bd6f.jpg": {
+        "IoU": 0.5832070707009344,
+        "Dice": 0.7367413669302659,
+        "Precision": 0.8816568047197039,
+        "Recall": 0.6327397260201743,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000135_jpg.rf.591a240849f8866f5a31693bd8bfb2cd.jpg": {
+        "IoU": 0.8462796402174124,
+        "Dice": 0.9167404782926133,
+        "Precision": 0.9587032033815716,
+        "Recall": 0.8782971501184034,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000997_jpg.rf.cb7317be74a90397d564d0a094549dad.jpg": {
+        "IoU": 0.661749176635875,
+        "Dice": 0.7964489297663463,
+        "Precision": 0.661749176635875,
+        "Recall": 0.9999999999842004,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_026_mp4-0_jpg.rf.5417dccbbbe288a64165073f78965dc6.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000858_jpg.rf.4953cbece172cc7bb6cd1f4daa6cd815.jpg": {
+        "IoU": 0.9115697176952582,
+        "Dice": 0.9537394417341154,
+        "Precision": 0.9579189841991417,
+        "Recall": 0.9495962127408857,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_037_mp4-3_jpg.rf.09f9cd9c759e001b2a502b8690112563.jpg": {
+        "IoU": 0.6434316336637221,
+        "Dice": 0.783034256471396,
+        "Precision": 0.9374999963378906,
+        "Recall": 0.672268905679919,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000031_jpg.rf.cecf4cba0cc7926b71823168720d64d8.jpg": {
+        "IoU": 0.6836586726102808,
+        "Dice": 0.8121107724885379,
+        "Precision": 0.6836586726102808,
+        "Recall": 0.9999999999883459,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000751_jpg.rf.1275fa1b6b6f119caebbf7da0b3a235c.jpg": {
+        "IoU": 0.6592440667989067,
+        "Dice": 0.7946318205865301,
+        "Precision": 0.6592440667989067,
+        "Recall": 0.9999999999896642,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_046_mp4-20_jpg.rf.a7066ea391a6a40264c93461de9036ff.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000703_jpg.rf.a2f4e7a48c962a8a15e15b4c97febb0c.jpg": {
+        "IoU": 0.541826367338676,
+        "Dice": 0.7028370753237468,
+        "Precision": 0.541826367338676,
+        "Recall": 0.9999999999887716,
+        "detected_boxes_count": 3,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_034_mp4-9_jpg.rf.b125d871bc7108013f2f4f025e2213e3.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000372_png_jpg.rf.1bdf9c6205f1dac5bd958c752e7e1446.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_037_mp4-10_jpg.rf.40db8be0c58a37c627fb6c9fd36f9a78.jpg": {
+        "IoU": 0.3529411753171857,
+        "Dice": 0.5217391291745431,
+        "Precision": 0.3529411753171857,
+        "Recall": 0.9999999907407409,
+        "detected_boxes_count": 3,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000028_jpg.rf.7ccf5a4974076a776b8eb617564587c0.jpg": {
+        "IoU": 0.8213726065488717,
+        "Dice": 0.9019270451258238,
+        "Precision": 0.8333913990838275,
+        "Recall": 0.9827450980318748,
+        "detected_boxes_count": 3,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_049_mp4-12_jpg.rf.9cb9fc80c78819e687790bbee1fa6344.jpg": {
+        "IoU": 0.6315789452908588,
+        "Dice": 0.7741935468262227,
+        "Precision": 0.9999999947916667,
+        "Recall": 0.6315789452908588,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001353_jpg.rf.b27f6eebed461dbb97e156200f5f1d7e.jpg": {
+        "IoU": 0.7927305332823837,
+        "Dice": 0.8843833677902957,
+        "Precision": 0.8454146841957574,
+        "Recall": 0.9271181021685899,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001374_jpg.rf.10710f7f06c27391ea69a53c41e797a6.jpg": {
+        "IoU": 0.4193285839127488,
+        "Dice": 0.5908830254890807,
+        "Precision": 0.4193285839127488,
+        "Recall": 0.9999999999760376,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 2
+    },
+    "Datasets/airplane/images/00000042_jpg.rf.a4e53ed9f5fbe44abeaffcfbb1ab4e0b.jpg": {
+        "IoU": 0.6106917634489055,
+        "Dice": 0.7582974934214071,
+        "Precision": 0.6106917634489055,
+        "Recall": 0.9999999999878941,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000649_jpg.rf.3171498cf542e3299d9168dd3db10636.jpg": {
+        "IoU": 0.23092105262912863,
+        "Dice": 0.37520042757560046,
+        "Precision": 0.23092105262912863,
+        "Recall": 0.9999999999540483,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000407_jpg.rf.e89cbc2f77754b0771fc8eb7b21d00af.jpg": {
+        "IoU": 0.7249920916600032,
+        "Dice": 0.840574394706152,
+        "Precision": 0.755392587702745,
+        "Recall": 0.9474089129152755,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000617_jpg.rf.36436f64fbea9f11c4099916fec9012e.jpg": {
+        "IoU": 0.5984447968940109,
+        "Dice": 0.7487838154396924,
+        "Precision": 0.6490173281467079,
+        "Recall": 0.8847936773214987,
+        "detected_boxes_count": 3,
+        "ground_truth_boxes_count": 2
+    },
+    "Datasets/airplane/images/00000349_jpg.rf.3740c9873bcf01f10cb17b3afa931852.jpg": {
+        "IoU": 0.7290461719379714,
+        "Dice": 0.8432928903463955,
+        "Precision": 0.7290461719379714,
+        "Recall": 0.9999999999887949,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000139_jpg.rf.69f724da9571a50ffc0139a5ebc93d5b.jpg": {
+        "IoU": 0.5855331380593308,
+        "Dice": 0.7385946392467264,
+        "Precision": 0.8177083333229459,
+        "Recall": 0.6734390692932558,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00001390_jpg.rf.51d53f5b3a2c034f9fa70541a3016166.jpg": {
+        "IoU": 0.8040235681192736,
+        "Dice": 0.891367033477819,
+        "Precision": 0.8306097828357287,
+        "Recall": 0.9617142856990204,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_017_mp4-2_jpg.rf.90f7fb1659b7fa61974eebd4b86c2042.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_002_mp4-19_jpg.rf.917d51ce1258d45ab416cd40637aea4e.jpg": {
+        "IoU": 0.686717022781253,
+        "Dice": 0.8142646496196677,
+        "Precision": 0.686717022781253,
+        "Recall": 0.9999999998658617,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/00000025_jpg.rf.2d149df641c8268221aec7224823869b.jpg": {
+        "IoU": 0.6607353175164653,
+        "Dice": 0.7957141761813762,
+        "Precision": 0.6661424903651462,
+        "Recall": 0.9878640776542315,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_043_mp4-2_jpg.rf.ccea9d58e3e52720224a5200e644c606.jpg": {
+        "IoU": 0.5454545438016529,
+        "Dice": 0.7058823515570934,
+        "Precision": 0.7499999968750001,
+        "Recall": 0.6666666641975308,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_021_mp4-10_jpg.rf.b8fb2726e1536705e3122e363af5f04d.jpg": {
+        "IoU": 0.6153846101249179,
+        "Dice": 0.7619047578735199,
+        "Precision": 0.7999999911111112,
+        "Recall": 0.7272727199265382,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/airplane/images/V_AIRPLANE_039_mp4-42_jpg.rf.4908c29aac202b880ea3d1640973303f.jpg": {
+        "IoU": 0.7635627524181677,
+        "Dice": 0.8659320473526483,
+        "Precision": 0.793103447608828,
+        "Recall": 0.9534883711289298,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    }
+}

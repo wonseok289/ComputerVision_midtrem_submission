@@ -1,0 +1,5885 @@
+{
+    "Datasets/airplane/images/V_AIRPLANE_011_mp4-10_jpg.rf.5acff904d5b565667d266d03e01b8cbc.jpg": [
+        {
+            "bbox": [
+                253.03182983398438,
+                286.9595642089844,
+                267.62750244140625,
+                298.4662780761719
+            ],
+            "confidence": 0.4187113046646118,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000767_jpg.rf.69bdc3352a26a5a2fe05138c064c998a.jpg": [
+        {
+            "bbox": [
+                43.94808578491211,
+                73.73371887207031,
+                302.7294616699219,
+                223.12002563476562
+            ],
+            "confidence": 0.42702382802963257,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000974_jpg.rf.012b65d6fd03cfaba1cfee05ebe7d91c.jpg": [],
+    "Datasets/airplane/images/00000600_jpg.rf.0199bbdbe6b3831d41e35e91253fd286.jpg": [
+        {
+            "bbox": [
+                179.0289306640625,
+                296.16748046875,
+                414.43341064453125,
+                416.0
+            ],
+            "confidence": 0.40124186873435974,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000677_jpg.rf.c87cf82d46707113ba0392c93c10838a.jpg": [
+        {
+            "bbox": [
+                4.9368696212768555,
+                69.99598693847656,
+                320.35833740234375,
+                374.2714538574219
+            ],
+            "confidence": 0.5350276231765747,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                41.94527053833008,
+                98.54518127441406,
+                416.0,
+                414.5982666015625
+            ],
+            "confidence": 0.2645781934261322,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000951_jpg.rf.75e0961402a3ff40ff4a05b630897ce9.jpg": [
+        {
+            "bbox": [
+                2.1505064964294434,
+                136.35482788085938,
+                366.906494140625,
+                416.0
+            ],
+            "confidence": 0.6268599033355713,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                2.34307861328125,
+                17.811840057373047,
+                365.6092834472656,
+                361.41497802734375
+            ],
+            "confidence": 0.5153569579124451,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                2.3380002975463867,
+                0.0,
+                372.5702819824219,
+                298.12066650390625
+            ],
+            "confidence": 0.5062481760978699,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_002_mp4-8_jpg.rf.2177430e66d37048100ec062560b03a5.jpg": [
+        {
+            "bbox": [
+                201.10406494140625,
+                130.08946228027344,
+                227.07191467285156,
+                147.6374969482422
+            ],
+            "confidence": 0.6012332439422607,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000264_jpg.rf.2efaa8dd038722b27851ff750abaabb1.jpg": [
+        {
+            "bbox": [
+                0.0,
+                53.38957977294922,
+                406.53515625,
+                381.1062927246094
+            ],
+            "confidence": 0.5006988048553467,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_001_mp4-12_jpg.rf.12bc2bb6d36daaec656702e6c54ae4cb.jpg": [
+        {
+            "bbox": [
+                214.0881805419922,
+                153.91329956054688,
+                230.95704650878906,
+                168.51583862304688
+            ],
+            "confidence": 0.6096285581588745,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                210.62046813964844,
+                153.50473022460938,
+                233.89715576171875,
+                169.29466247558594
+            ],
+            "confidence": 0.2519721984863281,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000347_jpg.rf.35041ef53ff56d39ad86c3ffe5d7bf3d.jpg": [
+        {
+            "bbox": [
+                22.49502182006836,
+                139.34164428710938,
+                324.10980224609375,
+                335.2132873535156
+            ],
+            "confidence": 0.5405778288841248,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000017_jpg.rf.1cac278113e8bee18a7707615c8f78ef.jpg": [
+        {
+            "bbox": [
+                15.18105411529541,
+                136.1912841796875,
+                412.5623474121094,
+                305.25604248046875
+            ],
+            "confidence": 0.593939483165741,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_036_mp4-5_jpg.rf.b38519250a9ca5ae3275d84c6e2e4117.jpg": [
+        {
+            "bbox": [
+                176.85589599609375,
+                179.927001953125,
+                191.2686004638672,
+                193.43292236328125
+            ],
+            "confidence": 0.688828706741333,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                174.96292114257812,
+                179.34120178222656,
+                193.70370483398438,
+                194.9950408935547
+            ],
+            "confidence": 0.4691561758518219,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000599_jpg.rf.cb56dccb3ca291662d5592b1ec5f4561.jpg": [
+        {
+            "bbox": [
+                0.0,
+                53.33348083496094,
+                404.23626708984375,
+                386.5872497558594
+            ],
+            "confidence": 0.44543153047561646,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                2.062869071960449,
+                0.0,
+                408.5121765136719,
+                312.8087158203125
+            ],
+            "confidence": 0.31446510553359985,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                3.1363372802734375,
+                36.675071716308594,
+                352.410400390625,
+                275.1634826660156
+            ],
+            "confidence": 0.2566455006599426,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_039_mp4-43_jpg.rf.409a561abf4a9e36bd052d9661de793d.jpg": [
+        {
+            "bbox": [
+                176.72775268554688,
+                228.7505645751953,
+                216.84620666503906,
+                253.99090576171875
+            ],
+            "confidence": 0.8017210960388184,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                178.32977294921875,
+                221.2830352783203,
+                219.09109497070312,
+                254.5458221435547
+            ],
+            "confidence": 0.3279608190059662,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000508_jpg.rf.d22e5c9a7f332783ad41ee6813dd7a34.jpg": [
+        {
+            "bbox": [
+                3.001568555831909,
+                127.0364761352539,
+                416.0,
+                413.2852783203125
+            ],
+            "confidence": 0.4310779571533203,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                11.244476318359375,
+                5.266412258148193,
+                416.0,
+                353.20343017578125
+            ],
+            "confidence": 0.26735278964042664,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_013_mp4-10_jpg.rf.81639b46c9ba2ef34c775c21d50bd53d.jpg": [
+        {
+            "bbox": [
+                237.83929443359375,
+                238.02052307128906,
+                249.75804138183594,
+                249.61038208007812
+            ],
+            "confidence": 0.46221300959587097,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000382_jpg.rf.7bf827219abfa82645d8348e6c8213cc.jpg": [
+        {
+            "bbox": [
+                4.212224960327148,
+                65.77023315429688,
+                390.9579162597656,
+                330.37530517578125
+            ],
+            "confidence": 0.6693575978279114,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                0.09886474162340164,
+                96.4063720703125,
+                407.80548095703125,
+                416.0
+            ],
+            "confidence": 0.35597655177116394,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000901_jpg.rf.e679d0ae5baaf789cf4b6b859eadddf3.jpg": [
+        {
+            "bbox": [
+                3.3219664096832275,
+                62.87909698486328,
+                389.0057067871094,
+                386.6089172363281
+            ],
+            "confidence": 0.665707528591156,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                0.0,
+                146.80198669433594,
+                381.50848388671875,
+                399.7015075683594
+            ],
+            "confidence": 0.2948003113269806,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000744_jpg.rf.012643a120f32799714a99c95007d208.jpg": [
+        {
+            "bbox": [
+                45.30813217163086,
+                150.0113067626953,
+                350.9298400878906,
+                289.71234130859375
+            ],
+            "confidence": 0.3710423707962036,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                49.69791030883789,
+                18.617218017578125,
+                357.5423278808594,
+                294.26129150390625
+            ],
+            "confidence": 0.2824212908744812,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_010_mp4-2_jpg.rf.d603b47d2c383d28c15fae758658a745.jpg": [
+        {
+            "bbox": [
+                225.1747589111328,
+                293.3453369140625,
+                234.8345489501953,
+                302.2192077636719
+            ],
+            "confidence": 0.4300655424594879,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                222.59130859375,
+                292.45306396484375,
+                235.9232940673828,
+                303.32501220703125
+            ],
+            "confidence": 0.2530790865421295,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_001_mp4-17_jpg.rf.9bcfc1e233a69fcb8b9a530410b752be.jpg": [
+        {
+            "bbox": [
+                139.3133544921875,
+                153.36837768554688,
+                157.8851318359375,
+                166.43040466308594
+            ],
+            "confidence": 0.5590338110923767,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                137.92388916015625,
+                152.4444580078125,
+                161.9983673095703,
+                167.9972381591797
+            ],
+            "confidence": 0.329464316368103,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001286_jpg.rf.2cb4c8b1d68dda13e62cea2b77f0a2b2.jpg": [
+        {
+            "bbox": [
+                0.0,
+                0.0,
+                407.0975646972656,
+                299.4040832519531
+            ],
+            "confidence": 0.4415730834007263,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                1.9138182401657104,
+                57.60934066772461,
+                409.2088928222656,
+                392.6280822753906
+            ],
+            "confidence": 0.27777862548828125,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000047_jpg.rf.68875ae62d5bed7d0beec9b5277632b7.jpg": [
+        {
+            "bbox": [
+                7.192707538604736,
+                4.035482406616211,
+                238.10690307617188,
+                196.25885009765625
+            ],
+            "confidence": 0.2741979956626892,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                10.750985145568848,
+                1.4842009544372559,
+                413.0071105957031,
+                208.40560913085938
+            ],
+            "confidence": 0.2616629898548126,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000623_jpg.rf.255dadc0e5b45ddc4c2e5a64aea65bf8.jpg": [],
+    "Datasets/airplane/images/00000193_jpg.rf.81b1397558c707ad428094fc3e86dd97.jpg": [
+        {
+            "bbox": [
+                81.1156234741211,
+                108.225341796875,
+                410.6363220214844,
+                303.0611877441406
+            ],
+            "confidence": 0.291818767786026,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000905_jpg.rf.fdf3393e5b3b8ec086b735cb973bef69.jpg": [
+        {
+            "bbox": [
+                0.0,
+                96.47406768798828,
+                403.31634521484375,
+                298.8581848144531
+            ],
+            "confidence": 0.6986088752746582,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_045_mp4-21_jpg.rf.c676203f150220aa97bb7c4a96d44ee1.jpg": [
+        {
+            "bbox": [
+                216.94400024414062,
+                67.79302215576172,
+                265.4061584472656,
+                132.64944458007812
+            ],
+            "confidence": 0.710948646068573,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_040_mp4-0_jpg.rf.9c72f530c653e723da60da921b5c547d.jpg": [
+        {
+            "bbox": [
+                122.06353759765625,
+                122.72526550292969,
+                192.40989685058594,
+                213.38705444335938
+            ],
+            "confidence": 0.6708394885063171,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                121.32128143310547,
+                139.78990173339844,
+                191.83294677734375,
+                227.4105682373047
+            ],
+            "confidence": 0.34640538692474365,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_026_mp4-6_jpg.rf.42571007de7f7d82f45925eb09838ab1.jpg": [],
+    "Datasets/airplane/images/V_AIRPLANE_047_mp4-1_jpg.rf.8727dc935622aaf604da44d3dd2b8565.jpg": [
+        {
+            "bbox": [
+                178.25201416015625,
+                213.47349548339844,
+                260.2917175292969,
+                276.94427490234375
+            ],
+            "confidence": 0.5708134174346924,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001103_jpg.rf.899221509049f49d2a84efbe38b8c0ae.jpg": [
+        {
+            "bbox": [
+                94.2380142211914,
+                89.01984405517578,
+                373.94891357421875,
+                275.8734130859375
+            ],
+            "confidence": 0.5580468773841858,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_041_mp4-20_jpg.rf.c199416d1cd4e3fe3127cde371e2af19.jpg": [
+        {
+            "bbox": [
+                199.28390502929688,
+                172.34536743164062,
+                217.39686584472656,
+                185.16160583496094
+            ],
+            "confidence": 0.6948387622833252,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                197.77426147460938,
+                169.9895477294922,
+                217.5855255126953,
+                187.17138671875
+            ],
+            "confidence": 0.547036349773407,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001413_jpg.rf.8387d8196665983cf90a764a3ca69a8e.jpg": [
+        {
+            "bbox": [
+                27.483604431152344,
+                17.373058319091797,
+                395.91845703125,
+                360.29803466796875
+            ],
+            "confidence": 0.43359166383743286,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                5.9273223876953125,
+                101.31712341308594,
+                391.8387756347656,
+                416.0
+            ],
+            "confidence": 0.3748587369918823,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000952_jpg.rf.626e22ba55a13eae94802aa45dc5ce03.jpg": [
+        {
+            "bbox": [
+                161.44921875,
+                92.96580505371094,
+                414.2667236328125,
+                257.20343017578125
+            ],
+            "confidence": 0.6004000306129456,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_026_mp4-4_jpg.rf.8fb9dd9cd22737991884442ac600bca6.jpg": [],
+    "Datasets/airplane/images/00000994_jpg.rf.7687d9be28e80560eaa0205ccaab5583.jpg": [
+        {
+            "bbox": [
+                68.04417419433594,
+                32.25569152832031,
+                411.73919677734375,
+                384.1327819824219
+            ],
+            "confidence": 0.46737024188041687,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                26.09882354736328,
+                10.354713439941406,
+                395.80181884765625,
+                297.8367004394531
+            ],
+            "confidence": 0.40469053387641907,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_048_mp4-16_jpg.rf.43d6ac1d05bf793f3d3c990a6b1e000b.jpg": [
+        {
+            "bbox": [
+                199.62255859375,
+                123.13931274414062,
+                249.78903198242188,
+                190.87783813476562
+            ],
+            "confidence": 0.5882891416549683,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                204.41583251953125,
+                112.31256866455078,
+                251.4241943359375,
+                182.57106018066406
+            ],
+            "confidence": 0.38641923666000366,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_021_mp4-1_jpg.rf.fb0a53b866385e64ca44b5b62df71e51.jpg": [],
+    "Datasets/airplane/images/00000911_jpg.rf.d861af4f1bb6b0b052c7fb538c8980f5.jpg": [
+        {
+            "bbox": [
+                1.1065551042556763,
+                96.8691177368164,
+                408.068603515625,
+                416.0
+            ],
+            "confidence": 0.4666668772697449,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000805_jpg.rf.3a01e5bd111947f7a95a6758c35793fe.jpg": [
+        {
+            "bbox": [
+                214.53945922851562,
+                21.165802001953125,
+                411.4266662597656,
+                165.4254913330078
+            ],
+            "confidence": 0.47670623660087585,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                206.5763397216797,
+                265.2786865234375,
+                408.747802734375,
+                394.1626281738281
+            ],
+            "confidence": 0.39074960350990295,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000959_jpg.rf.aa3632aa48e969b21b1b3c787ae84ae9.jpg": [
+        {
+            "bbox": [
+                3.644625663757324,
+                14.03930950164795,
+                409.6809387207031,
+                357.08837890625
+            ],
+            "confidence": 0.3604404628276825,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000406_jpg.rf.3f9b06f65ddf8d1c723c29d48cf95acb.jpg": [
+        {
+            "bbox": [
+                5.737884521484375,
+                37.76077651977539,
+                395.4959411621094,
+                379.8156433105469
+            ],
+            "confidence": 0.45450952649116516,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                9.126580238342285,
+                0.0,
+                391.59698486328125,
+                294.2886657714844
+            ],
+            "confidence": 0.3115794360637665,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                2.8220489025115967,
+                136.01539611816406,
+                404.6487121582031,
+                416.0
+            ],
+            "confidence": 0.3001697063446045,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000396_jpg.rf.a1ef19ad70771b4cb8dc5c9d37f79e71.jpg": [
+        {
+            "bbox": [
+                100.44285583496094,
+                19.8444881439209,
+                353.2358703613281,
+                135.36859130859375
+            ],
+            "confidence": 0.552089512348175,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                28.33482551574707,
+                197.15780639648438,
+                416.0,
+                363.563232421875
+            ],
+            "confidence": 0.5322465896606445,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                24.77863121032715,
+                179.11846923828125,
+                346.68914794921875,
+                350.475830078125
+            ],
+            "confidence": 0.26338550448417664,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_048_mp4-13_jpg.rf.acc60c6212bbbf2b22b4a2f23cf5cbe0.jpg": [
+        {
+            "bbox": [
+                166.2239227294922,
+                190.57147216796875,
+                214.67166137695312,
+                259.8206787109375
+            ],
+            "confidence": 0.6556944251060486,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                163.2449188232422,
+                201.71507263183594,
+                210.974365234375,
+                268.03204345703125
+            ],
+            "confidence": 0.6546940803527832,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_052_mp4-3_jpg.rf.72d9e48ee6fe87fe1d2f9c9fb1a163ea.jpg": [
+        {
+            "bbox": [
+                118.63213348388672,
+                232.49591064453125,
+                131.15554809570312,
+                244.04852294921875
+            ],
+            "confidence": 0.5084664821624756,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000683_jpg.rf.e482328c300e3222ae7467b04cc0505e.jpg": [
+        {
+            "bbox": [
+                58.38566207885742,
+                107.03511047363281,
+                239.4202117919922,
+                248.18472290039062
+            ],
+            "confidence": 0.36404332518577576,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000023_jpg.rf.a6ba0b74ad553b619393ea8f74a4ec18.jpg": [
+        {
+            "bbox": [
+                13.97424602508545,
+                75.47760009765625,
+                389.0155944824219,
+                383.2671813964844
+            ],
+            "confidence": 0.31637492775917053,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001156_jpg.rf.58dbd90b80e1f74056f6f1f5e37873d6.jpg": [
+        {
+            "bbox": [
+                0.0,
+                52.86335754394531,
+                408.53515625,
+                312.8963317871094
+            ],
+            "confidence": 0.5657476782798767,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000869_jpg.rf.4e234857562037f8e25a93d589c4a73b.jpg": [
+        {
+            "bbox": [
+                3.879607915878296,
+                138.0089111328125,
+                413.1298828125,
+                362.7610168457031
+            ],
+            "confidence": 0.46760785579681396,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_017_mp4-0_jpg.rf.2aa719fde8cff730a911e75ac3f68320.jpg": [],
+    "Datasets/airplane/images/00000015_jpg.rf.f61dbffcf5503b51e9b7a74a329348aa.jpg": [
+        {
+            "bbox": [
+                6.865783214569092,
+                96.86360168457031,
+                399.841796875,
+                262.5701904296875
+            ],
+            "confidence": 0.6190503835678101,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                4.149740219116211,
+                29.361459732055664,
+                404.57159423828125,
+                265.11083984375
+            ],
+            "confidence": 0.44231078028678894,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000381_jpg.rf.a45adfec1f78fc99ca1f81caab6a448d.jpg": [
+        {
+            "bbox": [
+                5.105340480804443,
+                143.3251953125,
+                308.00714111328125,
+                416.0
+            ],
+            "confidence": 0.34582358598709106,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000440_jpg.rf.66cb9fdc8e1f073111e057edc9801b6c.jpg": [
+        {
+            "bbox": [
+                12.106884002685547,
+                51.488189697265625,
+                416.0,
+                293.8721618652344
+            ],
+            "confidence": 0.4635438323020935,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001410_png_jpg.rf.b12cba70ed6fcbc2e343b3e23b4054f8.jpg": [
+        {
+            "bbox": [
+                6.530706405639648,
+                78.88159942626953,
+                394.5235290527344,
+                342.0922546386719
+            ],
+            "confidence": 0.5931380391120911,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000927_jpg.rf.2bc9a09bda45d5e8b64dbcce99008b11.jpg": [
+        {
+            "bbox": [
+                52.15215301513672,
+                126.04559326171875,
+                337.14324951171875,
+                264.95904541015625
+            ],
+            "confidence": 0.7505850791931152,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_036_mp4-0_jpg.rf.c5b43dddd4cbfb76ec290edfb2940ae0.jpg": [
+        {
+            "bbox": [
+                199.0875701904297,
+                383.3804626464844,
+                212.0124969482422,
+                395.4881286621094
+            ],
+            "confidence": 0.5977585315704346,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                195.92825317382812,
+                383.2088928222656,
+                214.2852783203125,
+                396.7536926269531
+            ],
+            "confidence": 0.4102812111377716,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_052_mp4-10_jpg.rf.252d0ace6683e4179df69693d2d1b296.jpg": [
+        {
+            "bbox": [
+                185.30613708496094,
+                253.1696319580078,
+                195.47776794433594,
+                262.7295227050781
+            ],
+            "confidence": 0.3996800482273102,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001084_jpg.rf.788a96d32d620d6d19d9e114bebfe77c.jpg": [
+        {
+            "bbox": [
+                75.14783477783203,
+                110.87373352050781,
+                408.2165832519531,
+                316.7996826171875
+            ],
+            "confidence": 0.6784440875053406,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                81.6621322631836,
+                107.03617095947266,
+                405.6007080078125,
+                258.98992919921875
+            ],
+            "confidence": 0.30457934737205505,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_013_mp4-14_jpg.rf.6ca4c3fdb0f9d259d4bb6d3760bdd374.jpg": [
+        {
+            "bbox": [
+                269.78955078125,
+                237.7696533203125,
+                283.3768615722656,
+                250.1078643798828
+            ],
+            "confidence": 0.5315867066383362,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                268.40765380859375,
+                236.85382080078125,
+                285.824462890625,
+                250.66275024414062
+            ],
+            "confidence": 0.3811790645122528,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_047_mp4-14_jpg.rf.87c2e068da58a68d3066a9edfa9e53a4.jpg": [
+        {
+            "bbox": [
+                169.09945678710938,
+                139.01356506347656,
+                322.16351318359375,
+                265.93682861328125
+            ],
+            "confidence": 0.48065266013145447,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000256_jpg.rf.ad037791d431ed84d7c98cb94fbd26e5.jpg": [
+        {
+            "bbox": [
+                2.5371580123901367,
+                157.23568725585938,
+                352.1903991699219,
+                312.9200134277344
+            ],
+            "confidence": 0.5062270760536194,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                12.818893432617188,
+                116.62226104736328,
+                349.8794250488281,
+                293.6702880859375
+            ],
+            "confidence": 0.30131807923316956,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                348.53289794921875,
+                181.07252502441406,
+                362.1262512207031,
+                195.66213989257812
+            ],
+            "confidence": 0.26519080996513367,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001327_jpg.rf.dafe04a3ba05a6d1a953d1269cc7750f.jpg": [
+        {
+            "bbox": [
+                0.8647887706756592,
+                0.0,
+                410.0511169433594,
+                316.261474609375
+            ],
+            "confidence": 0.4752800762653351,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_036_mp4-10_jpg.rf.2fef92cb29960131faf5af49b80903c7.jpg": [
+        {
+            "bbox": [
+                311.8594055175781,
+                39.24311447143555,
+                323.15594482421875,
+                49.30113220214844
+            ],
+            "confidence": 0.46266719698905945,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001345_jpeg_jpg.rf.e2cf5174cb267411d7d848a5b35f590e.jpg": [
+        {
+            "bbox": [
+                2.5062925815582275,
+                111.42642974853516,
+                399.4997253417969,
+                335.1536865234375
+            ],
+            "confidence": 0.5544970631599426,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_008_mp4-3_jpg.rf.7a2aaf8fea465be5efa9a607f7e93fa4.jpg": [
+        {
+            "bbox": [
+                312.36474609375,
+                74.5917739868164,
+                322.0376281738281,
+                84.2497329711914
+            ],
+            "confidence": 0.5103278160095215,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_035_mp4-7_jpg.rf.2c2f16de6ca0fe49720813eafd4e1e98.jpg": [],
+    "Datasets/airplane/images/V_AIRPLANE_004_mp4-12_jpg.rf.7ab39b308a9c1ad08e5f9ea8320586f2.jpg": [
+        {
+            "bbox": [
+                168.85638427734375,
+                210.41940307617188,
+                178.55885314941406,
+                219.03721618652344
+            ],
+            "confidence": 0.5246099233627319,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                167.65512084960938,
+                208.13975524902344,
+                179.33155822753906,
+                220.81887817382812
+            ],
+            "confidence": 0.36085212230682373,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000975_jpg.rf.448e3f4bb84cd7e920bc9fa11ec433c7.jpg": [
+        {
+            "bbox": [
+                179.44747924804688,
+                88.61226654052734,
+                412.051513671875,
+                291.7560119628906
+            ],
+            "confidence": 0.3676743805408478,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                15.50130844116211,
+                66.77214050292969,
+                172.61083984375,
+                345.1695861816406
+            ],
+            "confidence": 0.3617403507232666,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                170.42039489746094,
+                0.0,
+                414.12176513671875,
+                302.056884765625
+            ],
+            "confidence": 0.31442520022392273,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000206_jpg.rf.92257e376956620c3f37be5968564cb4.jpg": [
+        {
+            "bbox": [
+                5.711065292358398,
+                0.0,
+                408.41326904296875,
+                269.3017272949219
+            ],
+            "confidence": 0.5352271199226379,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                0.0,
+                26.31309700012207,
+                408.78802490234375,
+                371.6110534667969
+            ],
+            "confidence": 0.36681273579597473,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                0.0,
+                99.5537338256836,
+                407.03741455078125,
+                412.7053527832031
+            ],
+            "confidence": 0.2509218156337738,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_014_mp4-5_jpg.rf.926a54650223e8e817203d4f879b673d.jpg": [
+        {
+            "bbox": [
+                283.3983154296875,
+                221.26321411132812,
+                411.93017578125,
+                349.5474548339844
+            ],
+            "confidence": 0.2539394199848175,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_047_mp4-31_jpg.rf.d7112a624929e149924113aa2710d5db.jpg": [
+        {
+            "bbox": [
+                138.6744842529297,
+                119.27880096435547,
+                308.73345947265625,
+                308.61834716796875
+            ],
+            "confidence": 0.5827367305755615,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000398_jpg.rf.27e82d351e67ff4fe7c31083c55ee601.jpg": [
+        {
+            "bbox": [
+                0.0,
+                105.43706512451172,
+                408.92742919921875,
+                384.45098876953125
+            ],
+            "confidence": 0.2678423821926117,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001079_jpg.rf.c3d270b86ddf434bf018f4afdaafc1cc.jpg": [
+        {
+            "bbox": [
+                0.0,
+                69.27042388916016,
+                408.85552978515625,
+                289.68951416015625
+            ],
+            "confidence": 0.5119515657424927,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001403_jpg.rf.2d9a0d1448bd84f5c43bc7458c484379.jpg": [
+        {
+            "bbox": [
+                3.5758726596832275,
+                150.08538818359375,
+                408.57867431640625,
+                322.6353454589844
+            ],
+            "confidence": 0.3761861324310303,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_004_mp4-5_jpg.rf.87d3aa58abd26a06c091bfc4ad301520.jpg": [
+        {
+            "bbox": [
+                185.07948303222656,
+                211.86888122558594,
+                194.8062286376953,
+                221.19248962402344
+            ],
+            "confidence": 0.4450002610683441,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                184.87081909179688,
+                210.91334533691406,
+                196.34317016601562,
+                222.84420776367188
+            ],
+            "confidence": 0.3037741482257843,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_012_mp4-9_jpg.rf.cf76553f1c3e6697035ca3d66cd4513c.jpg": [
+        {
+            "bbox": [
+                301.70159912109375,
+                278.3614196777344,
+                333.6321105957031,
+                297.725341796875
+            ],
+            "confidence": 0.7647323608398438,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000821_jpg.rf.43a19a1373fa554cc94a7277ecd7c7cc.jpg": [
+        {
+            "bbox": [
+                7.481109142303467,
+                73.9370346069336,
+                398.15228271484375,
+                322.8890686035156
+            ],
+            "confidence": 0.6761435270309448,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001081_jpg.rf.f6558ee72c1c21d47131ca658c6d1303.jpg": [
+        {
+            "bbox": [
+                2.7383787631988525,
+                150.35569763183594,
+                407.78753662109375,
+                409.60711669921875
+            ],
+            "confidence": 0.4123062491416931,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                1.9576964378356934,
+                145.44236755371094,
+                400.1018981933594,
+                337.1691589355469
+            ],
+            "confidence": 0.3131532669067383,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001153_jpg.rf.b9c4e3baa040e80e1101fb1ee8ff9103.jpg": [
+        {
+            "bbox": [
+                18.267284393310547,
+                70.71475219726562,
+                407.1214294433594,
+                309.5676574707031
+            ],
+            "confidence": 0.6270877718925476,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_039_mp4-15_jpg.rf.38e549638cbb4c37aba0fa3cb359b47f.jpg": [
+        {
+            "bbox": [
+                152.7568359375,
+                129.26968383789062,
+                273.4389953613281,
+                267.5010070800781
+            ],
+            "confidence": 0.531877338886261,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_004_mp4-31_jpg.rf.c774057505aa50fc718bab7ffa8e6460.jpg": [
+        {
+            "bbox": [
+                117.37763977050781,
+                200.4449920654297,
+                127.34294891357422,
+                209.4794464111328
+            ],
+            "confidence": 0.5497855544090271,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                116.30318450927734,
+                197.95394897460938,
+                129.00897216796875,
+                211.32672119140625
+            ],
+            "confidence": 0.29426348209381104,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_050_mp4-9_jpg.rf.e26a28ddd53a2003d8d3a62858a9dca4.jpg": [
+        {
+            "bbox": [
+                173.45803833007812,
+                194.9298858642578,
+                193.2462921142578,
+                209.25064086914062
+            ],
+            "confidence": 0.5696377754211426,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001247_jpg.rf.1ab5027983d0d2c81b76afa77b5832fb.jpg": [
+        {
+            "bbox": [
+                0.0,
+                67.33053588867188,
+                407.099609375,
+                299.1192321777344
+            ],
+            "confidence": 0.32281696796417236,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                171.87380981445312,
+                52.92686462402344,
+                409.6120910644531,
+                290.4602966308594
+            ],
+            "confidence": 0.26209408044815063,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_049_mp4-11_jpg.rf.b58ec905bb194deaa269a7c930520d76.jpg": [
+        {
+            "bbox": [
+                198.00770568847656,
+                189.675537109375,
+                209.52996826171875,
+                199.5399169921875
+            ],
+            "confidence": 0.7119110822677612,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                195.9536895751953,
+                187.54483032226562,
+                210.73770141601562,
+                200.93893432617188
+            ],
+            "confidence": 0.4882643520832062,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001125_jpg.rf.ae7532fe3835961ae0146a0def189c3c.jpg": [
+        {
+            "bbox": [
+                120.0758285522461,
+                128.27899169921875,
+                410.4437561035156,
+                268.15771484375
+            ],
+            "confidence": 0.3898347020149231,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001040_jpg.rf.b12d275f3a922ce67f1f5a886be6e3c6.jpg": [
+        {
+            "bbox": [
+                0.0,
+                11.641719818115234,
+                326.51318359375,
+                316.46136474609375
+            ],
+            "confidence": 0.5452015399932861,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_002_mp4-20_jpg.rf.424559d798e72b6d0253c5ce9a673248.jpg": [
+        {
+            "bbox": [
+                228.7165985107422,
+                220.24073791503906,
+                353.1827392578125,
+                311.71832275390625
+            ],
+            "confidence": 0.683759868144989,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_002_mp4-7_jpg.rf.502cb8e2208cd8c50d17ff2ab02bf786.jpg": [
+        {
+            "bbox": [
+                210.51177978515625,
+                129.61318969726562,
+                236.9223175048828,
+                146.83438110351562
+            ],
+            "confidence": 0.6597344875335693,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001209_jpg.rf.9991d669f0354369aa9a15d25dcfd4ef.jpg": [
+        {
+            "bbox": [
+                1.3378875255584717,
+                129.18515014648438,
+                407.3092041015625,
+                415.6064758300781
+            ],
+            "confidence": 0.40321245789527893,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                4.857623100280762,
+                33.208099365234375,
+                338.9790344238281,
+                325.84588623046875
+            ],
+            "confidence": 0.25795093178749084,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000947_jpg.rf.b7585ec70ae2e88f8bb7b512d50ee111.jpg": [
+        {
+            "bbox": [
+                0.0,
+                193.75596618652344,
+                409.220703125,
+                356.4381103515625
+            ],
+            "confidence": 0.48358792066574097,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                0.0,
+                108.95215606689453,
+                414.945556640625,
+                356.5016174316406
+            ],
+            "confidence": 0.3157881796360016,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_039_mp4-38_jpg.rf.21fd274178bdca419f8bd4259e0e439e.jpg": [
+        {
+            "bbox": [
+                237.28538513183594,
+                183.3031463623047,
+                277.411376953125,
+                216.99623107910156
+            ],
+            "confidence": 0.609522819519043,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_047_mp4-12_jpg.rf.e78bb0d837dba72f8ddd5cf9ac9b16c4.jpg": [
+        {
+            "bbox": [
+                192.43629455566406,
+                167.70919799804688,
+                311.0072937011719,
+                251.39781188964844
+            ],
+            "confidence": 0.6091869473457336,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001032_jpg.rf.d63528027beda36b6fb41ba2c92a380d.jpg": [
+        {
+            "bbox": [
+                3.4084928035736084,
+                137.45277404785156,
+                410.00811767578125,
+                292.1579284667969
+            ],
+            "confidence": 0.6135575771331787,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_016_mp4-8_jpg.rf.091500eb10429a1d2a70ecbb1c242f12.jpg": [
+        {
+            "bbox": [
+                147.9202880859375,
+                262.3268127441406,
+                156.97323608398438,
+                270.8769226074219
+            ],
+            "confidence": 0.3504181504249573,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000469_jpg.rf.b0793bbcf85293cb6b2395be3501b8a9.jpg": [
+        {
+            "bbox": [
+                0.0,
+                93.5873031616211,
+                404.193359375,
+                416.0
+            ],
+            "confidence": 0.4143964350223541,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001340_jpg.rf.b6bc974cece279a88b1e169faeab1127.jpg": [
+        {
+            "bbox": [
+                3.4862120151519775,
+                0.0,
+                408.2222900390625,
+                334.3284912109375
+            ],
+            "confidence": 0.4959999918937683,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_029_mp4-3_jpg.rf.7125880abe2e41f948bb648a2953cc93.jpg": [],
+    "Datasets/airplane/images/V_AIRPLANE_043_mp4-8_jpg.rf.5c4c74d5ab1d993aeeedd8493bee285a.jpg": [
+        {
+            "bbox": [
+                211.8542022705078,
+                171.52122497558594,
+                251.1619110107422,
+                195.08335876464844
+            ],
+            "confidence": 0.7432666420936584,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                214.95701599121094,
+                175.42056274414062,
+                248.703857421875,
+                194.34014892578125
+            ],
+            "confidence": 0.2557411789894104,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000912_jpg.rf.d5ba758d24fcc2b3772f2cff25c0adcf.jpg": [
+        {
+            "bbox": [
+                1.6638396978378296,
+                0.0,
+                410.36846923828125,
+                299.35235595703125
+            ],
+            "confidence": 0.43146300315856934,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                0.5389953255653381,
+                98.08141326904297,
+                407.1556396484375,
+                416.0
+            ],
+            "confidence": 0.3356780409812927,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                4.672628402709961,
+                5.224656581878662,
+                407.9888000488281,
+                224.2784423828125
+            ],
+            "confidence": 0.2827809154987335,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001044_jpg.rf.224bc46acaa2083de19033d52c82ede8.jpg": [
+        {
+            "bbox": [
+                177.87060546875,
+                204.4180145263672,
+                261.9020690917969,
+                273.5238342285156
+            ],
+            "confidence": 0.5443013906478882,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000468_jpg.rf.43ca4e48615ac436cc255dcbc9960f56.jpg": [
+        {
+            "bbox": [
+                32.1742057800293,
+                89.48456573486328,
+                385.2337646484375,
+                316.4793701171875
+            ],
+            "confidence": 0.44856226444244385,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001299_jpg.rf.0307edfc366dcb2a514e75a091001ff9.jpg": [
+        {
+            "bbox": [
+                13.96789836883545,
+                104.06795501708984,
+                371.0326843261719,
+                322.2495422363281
+            ],
+            "confidence": 0.45447781682014465,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                8.40017032623291,
+                108.14302825927734,
+                408.131103515625,
+                416.0
+            ],
+            "confidence": 0.29433876276016235,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001421_jpg.rf.46123961680e5b35e4fe60bdca2282cf.jpg": [
+        {
+            "bbox": [
+                10.0435791015625,
+                47.043331146240234,
+                387.3157958984375,
+                182.91502380371094
+            ],
+            "confidence": 0.3721488118171692,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_007_mp4-3_jpg.rf.5aafe8cec95be1261d9e164ed9418b9c.jpg": [],
+    "Datasets/airplane/images/00001067_jpg.rf.0d4528357e0cbc76a9ed2e93fffa6095.jpg": [
+        {
+            "bbox": [
+                1.3883514404296875,
+                34.838069915771484,
+                384.8580017089844,
+                300.9155578613281
+            ],
+            "confidence": 0.3042680323123932,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000849_jpg.rf.1111d4aea443a4a0665c5d3c7505bea4.jpg": [
+        {
+            "bbox": [
+                0.0,
+                88.45169067382812,
+                404.8349304199219,
+                260.43963623046875
+            ],
+            "confidence": 0.4724175035953522,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_039_mp4-5_jpg.rf.fb9a6b1bf15667bed52bf16f02663811.jpg": [
+        {
+            "bbox": [
+                118.72713470458984,
+                177.56103515625,
+                204.80224609375,
+                216.27903747558594
+            ],
+            "confidence": 0.6774504780769348,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000216_png_jpg.rf.c915b2a1dcdb036c309d869a7734208f.jpg": [
+        {
+            "bbox": [
+                110.63034057617188,
+                73.8859634399414,
+                331.84423828125,
+                253.63011169433594
+            ],
+            "confidence": 0.4935203492641449,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000727_jpg.rf.48cb0b77a35f9ffef3c5c24ba248f4b2.jpg": [
+        {
+            "bbox": [
+                10.724642753601074,
+                46.4664192199707,
+                387.1023254394531,
+                378.7725830078125
+            ],
+            "confidence": 0.5928583741188049,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001160_jpg.rf.e31161d62d7283fe29ef7c9726b42621.jpg": [
+        {
+            "bbox": [
+                0.0,
+                122.79658508300781,
+                407.0989990234375,
+                416.0
+            ],
+            "confidence": 0.36022481322288513,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                2.003042459487915,
+                36.443084716796875,
+                408.6014404296875,
+                369.6766052246094
+            ],
+            "confidence": 0.25203368067741394,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000252_jpg.rf.03a601cdd447fb95eaa97e00a97f81b1.jpg": [
+        {
+            "bbox": [
+                0.0,
+                51.938663482666016,
+                405.8675537109375,
+                397.1300964355469
+            ],
+            "confidence": 0.36058324575424194,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                3.3640196323394775,
+                6.939892292022705,
+                412.71142578125,
+                303.4169006347656
+            ],
+            "confidence": 0.34328359365463257,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000026_jpg.rf.b0c4889222650079bd79f40bf2b492b5.jpg": [
+        {
+            "bbox": [
+                96.57625579833984,
+                46.36193084716797,
+                413.2122497558594,
+                219.78854370117188
+            ],
+            "confidence": 0.4709557890892029,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_003_mp4-1_jpg.rf.5ef4497052a0468778d91ceb68316235.jpg": [
+        {
+            "bbox": [
+                227.298095703125,
+                196.1739959716797,
+                261.9976501464844,
+                219.4283905029297
+            ],
+            "confidence": 0.5850400328636169,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_010_mp4-17_jpg.rf.df50bef42350b72cd79a9e13284f5710.jpg": [
+        {
+            "bbox": [
+                242.41107177734375,
+                289.135498046875,
+                255.9911346435547,
+                300.4224853515625
+            ],
+            "confidence": 0.3792099952697754,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001268_jpg.rf.89238cdb7a5ce4cf42e035cbdac353a0.jpg": [],
+    "Datasets/airplane/images/V_AIRPLANE_012_mp4-6_jpg.rf.e574ff1c48463a00a09318ccda52f5a2.jpg": [
+        {
+            "bbox": [
+                284.4898376464844,
+                282.50067138671875,
+                305.69110107421875,
+                297.0121154785156
+            ],
+            "confidence": 0.48122698068618774,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_039_mp4-39_jpg.rf.4cd3133ea1e4bf7d615d87ec491b2a4d.jpg": [
+        {
+            "bbox": [
+                229.11277770996094,
+                196.0655517578125,
+                278.9617919921875,
+                229.0206756591797
+            ],
+            "confidence": 0.3958822786808014,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000492_jpg.rf.8f52b8186c5c9de0675ad89cb7ee4794.jpg": [
+        {
+            "bbox": [
+                0.02352599985897541,
+                11.113238334655762,
+                407.00250244140625,
+                222.50216674804688
+            ],
+            "confidence": 0.42276760935783386,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000063_jpg.rf.b84442093ba3f77783df94ddb720dda5.jpg": [
+        {
+            "bbox": [
+                12.95544719696045,
+                95.18159484863281,
+                416.0,
+                348.611572265625
+            ],
+            "confidence": 0.2778848111629486,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000303_jpg.rf.cfd0553d87df102180ceed711d847cb3.jpg": [
+        {
+            "bbox": [
+                1.2713165283203125,
+                74.63462829589844,
+                405.25152587890625,
+                411.5237121582031
+            ],
+            "confidence": 0.47101470828056335,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                0.8122619390487671,
+                0.0,
+                401.1916198730469,
+                338.5485534667969
+            ],
+            "confidence": 0.36674532294273376,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000293_jpg.rf.0b19443c865d3045ec0fa354a26e499b.jpg": [
+        {
+            "bbox": [
+                40.10445022583008,
+                49.601139068603516,
+                366.4020080566406,
+                319.0322265625
+            ],
+            "confidence": 0.5398281812667847,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                251.27291870117188,
+                54.06965255737305,
+                318.5994873046875,
+                101.41963195800781
+            ],
+            "confidence": 0.35597553849220276,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                51.186317443847656,
+                123.04381561279297,
+                367.6258544921875,
+                314.9474182128906
+            ],
+            "confidence": 0.26186856627464294,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000769_jpg.rf.a9f275359645fd7d83339db0b422ea32.jpg": [
+        {
+            "bbox": [
+                72.58148193359375,
+                50.893226623535156,
+                416.0,
+                266.71331787109375
+            ],
+            "confidence": 0.3032037317752838,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                31.310884475708008,
+                65.87641906738281,
+                416.0,
+                315.9893798828125
+            ],
+            "confidence": 0.26507142186164856,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000973_jpg.rf.d5269aa36cca22cc737ffa6b285ba6dc.jpg": [
+        {
+            "bbox": [
+                56.3984489440918,
+                203.2119598388672,
+                405.795654296875,
+                359.1747741699219
+            ],
+            "confidence": 0.7750991582870483,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000928_jpg.rf.1c21233611d3a82a7d2866727ef1f91a.jpg": [
+        {
+            "bbox": [
+                0.0,
+                91.14183044433594,
+                406.9337158203125,
+                416.0
+            ],
+            "confidence": 0.4633115530014038,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                0.0,
+                23.350250244140625,
+                410.7291259765625,
+                376.26025390625
+            ],
+            "confidence": 0.3732636570930481,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000370_jpg.rf.317d8c9b8b3c92432c7b864650db8667.jpg": [
+        {
+            "bbox": [
+                0.0,
+                28.307531356811523,
+                403.5977783203125,
+                314.3939208984375
+            ],
+            "confidence": 0.4728882312774658,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001242_jpg.rf.c9b6dafc3cd28de3abe9bfe6be6c7f93.jpg": [
+        {
+            "bbox": [
+                199.2860870361328,
+                7.212206840515137,
+                411.1864013671875,
+                239.83499145507812
+            ],
+            "confidence": 0.3994849920272827,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_041_mp4-5_jpg.rf.4df404902b4a73bdfc3749482c9e9812.jpg": [
+        {
+            "bbox": [
+                141.20401000976562,
+                223.66957092285156,
+                343.04852294921875,
+                326.20220947265625
+            ],
+            "confidence": 0.7926872372627258,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_052_mp4-1_jpg.rf.c7d2388c768571e1c531d4a4c77c3e6c.jpg": [
+        {
+            "bbox": [
+                95.28633117675781,
+                180.93646240234375,
+                106.36312866210938,
+                192.79820251464844
+            ],
+            "confidence": 0.5402221083641052,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                93.55653381347656,
+                179.8269500732422,
+                108.50682830810547,
+                193.24105834960938
+            ],
+            "confidence": 0.3369026482105255,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000412_jpg.rf.ab0080a3d1794c2fb1b192ffb160f3f2.jpg": [
+        {
+            "bbox": [
+                220.31463623046875,
+                0.0,
+                414.7159729003906,
+                103.5318374633789
+            ],
+            "confidence": 0.6822730302810669,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                2.4253997802734375,
+                100.85624694824219,
+                409.4310607910156,
+                416.0
+            ],
+            "confidence": 0.40614423155784607,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_043_mp4-10_jpg.rf.35e5edda73780d273ac0ebe56d0986ef.jpg": [
+        {
+            "bbox": [
+                213.7933349609375,
+                177.06556701660156,
+                254.25408935546875,
+                199.87388610839844
+            ],
+            "confidence": 0.7777924537658691,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_047_mp4-18_jpg.rf.2074980d4f0280b0ed39fb5392f8bdc3.jpg": [
+        {
+            "bbox": [
+                96.92218017578125,
+                86.83939361572266,
+                285.1449890136719,
+                255.36639404296875
+            ],
+            "confidence": 0.5365844368934631,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000755_jpg.rf.2887505ec5368f8c2948a13a9e4245b0.jpg": [
+        {
+            "bbox": [
+                5.939144611358643,
+                169.43853759765625,
+                403.6169128417969,
+                399.70721435546875
+            ],
+            "confidence": 0.6033123135566711,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                8.661178588867188,
+                0.0,
+                244.56253051757812,
+                106.01343536376953
+            ],
+            "confidence": 0.5513108372688293,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_010_mp4-19_jpg.rf.81a38b20ff61e69d6add4c34c103bdfb.jpg": [
+        {
+            "bbox": [
+                245.33734130859375,
+                288.5323791503906,
+                257.8477783203125,
+                298.8758239746094
+            ],
+            "confidence": 0.32357293367385864,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                244.10227966308594,
+                287.2637939453125,
+                259.6282653808594,
+                299.8592224121094
+            ],
+            "confidence": 0.30157530307769775,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000180_jpg.rf.d344da7aafefde7f68d9a372c0a7e77a.jpg": [
+        {
+            "bbox": [
+                172.91116333007812,
+                131.58282470703125,
+                306.37200927734375,
+                291.8023681640625
+            ],
+            "confidence": 0.5458375811576843,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001325_jpg.rf.6c1396141279c889f8dd13844f9c019f.jpg": [
+        {
+            "bbox": [
+                0.0,
+                18.306015014648438,
+                379.57476806640625,
+                350.3695068359375
+            ],
+            "confidence": 0.46089571714401245,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001378_jpg.rf.b1bca19644426124dc43e9ca42657f3d.jpg": [
+        {
+            "bbox": [
+                0.40418699383735657,
+                48.83303451538086,
+                410.0310363769531,
+                345.1902160644531
+            ],
+            "confidence": 0.2934960424900055,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                9.8531494140625,
+                9.931602478027344,
+                413.91497802734375,
+                237.38478088378906
+            ],
+            "confidence": 0.29099276661872864,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                0.0,
+                127.66517639160156,
+                408.0497741699219,
+                416.0
+            ],
+            "confidence": 0.25256600975990295,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001467_jpg.rf.b9b64f52086fd30f62a977d0a4ce35eb.jpg": [
+        {
+            "bbox": [
+                3.5012876987457275,
+                9.928566932678223,
+                399.34588623046875,
+                337.60546875
+            ],
+            "confidence": 0.5493630766868591,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                0.0,
+                48.12455749511719,
+                395.8582763671875,
+                272.72308349609375
+            ],
+            "confidence": 0.35336029529571533,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_021_mp4-6_jpg.rf.b7e6a9ce51f5b1e601616553e5cd6794.jpg": [
+        {
+            "bbox": [
+                179.71475219726562,
+                241.2985076904297,
+                189.98883056640625,
+                250.26576232910156
+            ],
+            "confidence": 0.48702090978622437,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                179.31549072265625,
+                239.10684204101562,
+                190.80435180664062,
+                251.67758178710938
+            ],
+            "confidence": 0.2972117066383362,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000584_jpg.rf.948383f7deaf6195a84fcb7e26ec285a.jpg": [],
+    "Datasets/airplane/images/V_AIRPLANE_016_mp4-10_jpg.rf.1c4b39451b926b1428abc571f5b5d1c0.jpg": [],
+    "Datasets/airplane/images/V_AIRPLANE_040_mp4-22_jpg.rf.313ae6438d2e4188246402e0740ee45c.jpg": [
+        {
+            "bbox": [
+                221.57215881347656,
+                185.7630615234375,
+                271.27398681640625,
+                213.26483154296875
+            ],
+            "confidence": 0.729577898979187,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000570_jpg.rf.a35dc7df57306954a269688498c6cb2f.jpg": [
+        {
+            "bbox": [
+                2.6332457065582275,
+                37.78875732421875,
+                409.2761535644531,
+                300.4622802734375
+            ],
+            "confidence": 0.43147432804107666,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                1.8359007835388184,
+                101.53497314453125,
+                409.4367370605469,
+                409.7676086425781
+            ],
+            "confidence": 0.33066704869270325,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_040_mp4-13_jpg.rf.4a8265154d7804e95312814535c428a2.jpg": [
+        {
+            "bbox": [
+                149.48789978027344,
+                146.80247497558594,
+                225.084228515625,
+                193.8876495361328
+            ],
+            "confidence": 0.6082571148872375,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000067_jpg.rf.6e787894339fa996fded5d03bad34155.jpg": [
+        {
+            "bbox": [
+                3.55147385597229,
+                127.92534637451172,
+                410.7739562988281,
+                314.4927978515625
+            ],
+            "confidence": 0.7230563163757324,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000923_jpg.rf.f5f1b44d9bd5f5501f3e90cb119536c8.jpg": [
+        {
+            "bbox": [
+                2.918612480163574,
+                79.56473541259766,
+                412.4612121582031,
+                352.5830078125
+            ],
+            "confidence": 0.47386491298675537,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                0.41327208280563354,
+                122.31287384033203,
+                407.51470947265625,
+                414.5235595703125
+            ],
+            "confidence": 0.4349072575569153,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000302_jpg.rf.71df08d1f66a145c68e1ca0a7c98454a.jpg": [
+        {
+            "bbox": [
+                6.195470809936523,
+                5.294500350952148,
+                411.9773864746094,
+                248.10873413085938
+            ],
+            "confidence": 0.39095327258110046,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                2.5875823497772217,
+                0.0,
+                408.54534912109375,
+                333.8475036621094
+            ],
+            "confidence": 0.3378428518772125,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001205_jpg.rf.8d440e72ae12e323371f26ada397a270.jpg": [
+        {
+            "bbox": [
+                0.9313598275184631,
+                105.54521179199219,
+                352.1247863769531,
+                286.6752624511719
+            ],
+            "confidence": 0.3422653079032898,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                0.5977904796600342,
+                126.93017578125,
+                409.3954162597656,
+                416.0
+            ],
+            "confidence": 0.30785056948661804,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_047_mp4-30_jpg.rf.f3adbedb75adbef38ab0d3af99203212.jpg": [
+        {
+            "bbox": [
+                134.03611755371094,
+                121.81010437011719,
+                307.59332275390625,
+                312.7581481933594
+            ],
+            "confidence": 0.5983630418777466,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_048_mp4-14_jpg.rf.2a690dbddc1d27b3e2520b59f0855e1c.jpg": [
+        {
+            "bbox": [
+                165.3173370361328,
+                201.26620483398438,
+                213.76620483398438,
+                269.98028564453125
+            ],
+            "confidence": 0.7431797981262207,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                162.86927795410156,
+                211.99012756347656,
+                210.75558471679688,
+                278.5008239746094
+            ],
+            "confidence": 0.66847163438797,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001140_png_jpg.rf.f39372c0e5d96da86b51d16d5200696a.jpg": [
+        {
+            "bbox": [
+                29.439001083374023,
+                42.30961608886719,
+                396.6741638183594,
+                361.79327392578125
+            ],
+            "confidence": 0.4896770119667053,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                61.453086853027344,
+                86.37105560302734,
+                397.9405822753906,
+                407.82666015625
+            ],
+            "confidence": 0.25780147314071655,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001291_jpg.rf.08e61012ca42423407e7f14ac0600c64.jpg": [
+        {
+            "bbox": [
+                0.8434844613075256,
+                82.00489044189453,
+                349.040771484375,
+                288.1873474121094
+            ],
+            "confidence": 0.549466073513031,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_010_mp4-18_jpg.rf.b215582272470bad4fb0d20c852ea756.jpg": [
+        {
+            "bbox": [
+                242.86181640625,
+                288.3339538574219,
+                257.3022155761719,
+                299.3179931640625
+            ],
+            "confidence": 0.31223464012145996,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_004_mp4-4_jpg.rf.b8421c2812d7cf141963ee81087545de.jpg": [
+        {
+            "bbox": [
+                185.79779052734375,
+                211.66091918945312,
+                197.7117156982422,
+                223.15049743652344
+            ],
+            "confidence": 0.397744357585907,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000130_png_jpg.rf.7bd32f4e2430d8db1dc16bda103b3710.jpg": [
+        {
+            "bbox": [
+                2.7764251232147217,
+                6.0947418212890625,
+                411.1401672363281,
+                355.42559814453125
+            ],
+            "confidence": 0.472390353679657,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                0.0,
+                99.34314727783203,
+                406.0292053222656,
+                408.6560974121094
+            ],
+            "confidence": 0.4463493824005127,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000014_jpg.rf.43455c4e71d6710c1db819c24a24f31b.jpg": [
+        {
+            "bbox": [
+                14.820229530334473,
+                53.39140319824219,
+                416.0,
+                383.341064453125
+            ],
+            "confidence": 0.5747532844543457,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000829_png_jpg.rf.25b2791ffdec2ded5d47cab3dde9d47a.jpg": [
+        {
+            "bbox": [
+                14.824633598327637,
+                136.9696807861328,
+                413.73590087890625,
+                415.6076354980469
+            ],
+            "confidence": 0.31783148646354675,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                1.6378737688064575,
+                95.0107650756836,
+                152.7926483154297,
+                361.54718017578125
+            ],
+            "confidence": 0.26522591710090637,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000461_jpg.rf.f133ce4c0f9516d5603fa7ce6d46ffbd.jpg": [
+        {
+            "bbox": [
+                62.53460693359375,
+                28.238351821899414,
+                416.0,
+                324.67181396484375
+            ],
+            "confidence": 0.26961904764175415,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000034_jpg.rf.6eb0c1a1c3b1483a5f65bb705d82c49d.jpg": [
+        {
+            "bbox": [
+                0.8563781380653381,
+                95.7942123413086,
+                408.99298095703125,
+                411.7131652832031
+            ],
+            "confidence": 0.4674666225910187,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_026_mp4-10_jpg.rf.2bc8c261fec78203319c015408fdb0c6.jpg": [],
+    "Datasets/airplane/images/00000898_jpg.rf.06310eb8a7406861f7f3ec1749a837e5.jpg": [
+        {
+            "bbox": [
+                75.75281524658203,
+                104.1150894165039,
+                314.2685241699219,
+                236.71063232421875
+            ],
+            "confidence": 0.6172243356704712,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000237_jpg.rf.cd4ee4f1ac53f87664f7444ac43d8b1b.jpg": [
+        {
+            "bbox": [
+                164.6785430908203,
+                0.0,
+                414.1649169921875,
+                296.0398864746094
+            ],
+            "confidence": 0.39034828543663025,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                166.516357421875,
+                66.6777114868164,
+                414.92071533203125,
+                352.3404846191406
+            ],
+            "confidence": 0.28473961353302,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001231_jpg.rf.87cef3b27051255e7867ee34634f2a97.jpg": [
+        {
+            "bbox": [
+                206.84413146972656,
+                129.0012664794922,
+                385.7450256347656,
+                260.0126037597656
+            ],
+            "confidence": 0.4382007420063019,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                21.644615173339844,
+                108.60636138916016,
+                197.6284637451172,
+                247.53045654296875
+            ],
+            "confidence": 0.3927614390850067,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001270_png_jpg.rf.3ffddf4867ab14b6a2ca7c7e9fcb5486.jpg": [],
+    "Datasets/airplane/images/00000566_jpg.rf.61e7415f91eb02c0aea35d6d3ba6421e.jpg": [
+        {
+            "bbox": [
+                368.4730224609375,
+                108.46023559570312,
+                384.94866943359375,
+                122.09559631347656
+            ],
+            "confidence": 0.4723069667816162,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                302.69012451171875,
+                148.4536590576172,
+                311.46173095703125,
+                157.89259338378906
+            ],
+            "confidence": 0.3620864152908325,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                369.9092712402344,
+                109.45840454101562,
+                383.8471374511719,
+                120.48551177978516
+            ],
+            "confidence": 0.35440340638160706,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                367.4827880859375,
+                107.36662292480469,
+                388.491943359375,
+                122.7226791381836
+            ],
+            "confidence": 0.2933710813522339,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                303.1286926269531,
+                227.06985473632812,
+                311.9939880371094,
+                236.25880432128906
+            ],
+            "confidence": 0.27543318271636963,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000095_jpg.rf.9f92a9111d5765afd9559cab6cbf1be5.jpg": [
+        {
+            "bbox": [
+                23.555198669433594,
+                89.59632873535156,
+                365.3165588378906,
+                334.4026184082031
+            ],
+            "confidence": 0.5775396823883057,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000390_jpg.rf.54e6791438b9206b1a88de3202222659.jpg": [
+        {
+            "bbox": [
+                10.691436767578125,
+                4.891345024108887,
+                313.845703125,
+                266.9410400390625
+            ],
+            "confidence": 0.4360870122909546,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                0.0,
+                103.38601684570312,
+                321.40130615234375,
+                416.0
+            ],
+            "confidence": 0.2732113003730774,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000979_jpg.rf.b96c37df008aff0e83eb0190a53cb8ea.jpg": [
+        {
+            "bbox": [
+                27.82870864868164,
+                72.2813949584961,
+                340.5028991699219,
+                210.41070556640625
+            ],
+            "confidence": 0.5729320049285889,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_014_mp4-0_jpg.rf.3bf9763276deb084ed36004dfb400663.jpg": [],
+    "Datasets/airplane/images/00001100_jpg.rf.d8307cfbb5ea09364877cf34ed4e77dc.jpg": [],
+    "Datasets/airplane/images/00000823_jpg.rf.0657539c1a076bbf9a0fe08725819a99.jpg": [
+        {
+            "bbox": [
+                2.6872801780700684,
+                68.94139862060547,
+                411.299560546875,
+                236.36195373535156
+            ],
+            "confidence": 0.5856171250343323,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                133.88784790039062,
+                343.6836853027344,
+                217.91578674316406,
+                378.5405578613281
+            ],
+            "confidence": 0.3089101016521454,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                116.16583251953125,
+                72.72154235839844,
+                412.1246643066406,
+                230.78836059570312
+            ],
+            "confidence": 0.2523603141307831,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001118_jpg.rf.bad985a2d03d590ae92dcbd765575d57.jpg": [
+        {
+            "bbox": [
+                100.67958068847656,
+                50.86104965209961,
+                416.0,
+                240.27056884765625
+            ],
+            "confidence": 0.4644586443901062,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_012_mp4-2_jpg.rf.1bae522fc61461c3f865be177bf477ba.jpg": [
+        {
+            "bbox": [
+                269.0884704589844,
+                282.21856689453125,
+                283.2897033691406,
+                293.05950927734375
+            ],
+            "confidence": 0.6358656883239746,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                267.5278625488281,
+                280.4545593261719,
+                283.938720703125,
+                294.1271667480469
+            ],
+            "confidence": 0.5758074522018433,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000537_jpg.rf.b67530a431ea6eb414e645ddab07cdd6.jpg": [
+        {
+            "bbox": [
+                1.8028136491775513,
+                0.0,
+                406.4465637207031,
+                334.3716735839844
+            ],
+            "confidence": 0.4410203695297241,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                1.0456572771072388,
+                97.25062561035156,
+                409.2456970214844,
+                408.3843994140625
+            ],
+            "confidence": 0.42186439037323,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_029_mp4-7_jpg.rf.265e6fc8c0cad76c16279ae9a1285742.jpg": [],
+    "Datasets/airplane/images/00001251_jpg.rf.6e7b0c4e8ef02152c23fd8fb52491423.jpg": [
+        {
+            "bbox": [
+                0.4977355897426605,
+                79.16995239257812,
+                410.369384765625,
+                355.84423828125
+            ],
+            "confidence": 0.388542115688324,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001405_jpg.rf.418fe665684ec91dfab6f3b4c2e2ff69.jpg": [
+        {
+            "bbox": [
+                5.104983329772949,
+                51.786251068115234,
+                414.4785461425781,
+                304.5802917480469
+            ],
+            "confidence": 0.6354799270629883,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                12.199440956115723,
+                127.30084228515625,
+                409.9346923828125,
+                302.9747009277344
+            ],
+            "confidence": 0.39996039867401123,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000367_jpg.rf.1a0b51f56980d997e3616048e6724f90.jpg": [
+        {
+            "bbox": [
+                3.9690701961517334,
+                97.74726104736328,
+                409.5857238769531,
+                302.66973876953125
+            ],
+            "confidence": 0.6006711721420288,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_052_mp4-9_jpg.rf.122c263dc8e76d0825c1aa8db8e4c0a8.jpg": [
+        {
+            "bbox": [
+                219.61155700683594,
+                226.8189697265625,
+                229.5248565673828,
+                236.52691650390625
+            ],
+            "confidence": 0.32656270265579224,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001083_png_jpg.rf.fc34837be2913db4c6eb4d82d00a2d6e.jpg": [
+        {
+            "bbox": [
+                89.04530334472656,
+                86.90187072753906,
+                382.19061279296875,
+                243.0433807373047
+            ],
+            "confidence": 0.48015350103378296,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                37.738521575927734,
+                63.23398208618164,
+                375.6494445800781,
+                254.9557647705078
+            ],
+            "confidence": 0.2808031737804413,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001339_png_jpg.rf.53f633350cdc5fc7d51fc7f7c641cc4e.jpg": [
+        {
+            "bbox": [
+                1.0816802978515625,
+                19.806888580322266,
+                410.3852844238281,
+                201.70555114746094
+            ],
+            "confidence": 0.42766010761260986,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_039_mp4-2_jpg.rf.4a38931fe245736c9caca0d1512a7c1e.jpg": [
+        {
+            "bbox": [
+                120.34050750732422,
+                169.52398681640625,
+                199.53045654296875,
+                208.80169677734375
+            ],
+            "confidence": 0.5006555318832397,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000075_jpg.rf.a6b2119e158609a038ff416b48a7b9f3.jpg": [
+        {
+            "bbox": [
+                28.28936004638672,
+                60.483123779296875,
+                416.0,
+                370.542724609375
+            ],
+            "confidence": 0.2572442293167114,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000291_png_jpg.rf.4c496546ae1391533ea45a8e74fe9213.jpg": [
+        {
+            "bbox": [
+                14.031573295593262,
+                51.79544448852539,
+                407.79486083984375,
+                385.7207946777344
+            ],
+            "confidence": 0.6206036806106567,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000485_jpg.rf.69528c8df3b1644d753aa4f25b6d97cc.jpg": [
+        {
+            "bbox": [
+                160.0774383544922,
+                171.38821411132812,
+                238.3322296142578,
+                233.9223175048828
+            ],
+            "confidence": 0.4375777542591095,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000141_jpg.rf.f3346c3f79e45cb4b963b450dc85e1d4.jpg": [
+        {
+            "bbox": [
+                2.3554563522338867,
+                110.62012481689453,
+                414.5744934082031,
+                320.1188049316406
+            ],
+            "confidence": 0.528713047504425,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001427_jpg.rf.ead7f6808e38290ebf1bbdba1cf0f8a4.jpg": [
+        {
+            "bbox": [
+                76.17643737792969,
+                14.364309310913086,
+                412.4739074707031,
+                232.90267944335938
+            ],
+            "confidence": 0.3703934848308563,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001062_jpg.rf.dcb3a8d65cbdce6c9fe4b56e6cb6ae97.jpg": [
+        {
+            "bbox": [
+                169.09266662597656,
+                187.95738220214844,
+                291.24609375,
+                285.22235107421875
+            ],
+            "confidence": 0.4209131598472595,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_033_mp4-7_jpg.rf.b556993d1c60d44ec83d0e9d968228bf.jpg": [],
+    "Datasets/airplane/images/00000536_jpg.rf.8f6a70d229fc7770159f1944aae24609.jpg": [
+        {
+            "bbox": [
+                0.6693999767303467,
+                16.977073669433594,
+                409.0636901855469,
+                323.1142883300781
+            ],
+            "confidence": 0.47081273794174194,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000175_jpg.rf.659b24e04cd757c1cc8e1a86df8307d2.jpg": [],
+    "Datasets/airplane/images/00000333_jpg.rf.96afbc9e30195cf3f62fc40d3d40d013.jpg": [
+        {
+            "bbox": [
+                43.76788330078125,
+                121.76544189453125,
+                371.8868713378906,
+                261.622802734375
+            ],
+            "confidence": 0.5619403123855591,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_011_mp4-2_jpg.rf.9ed3ba4ad01c32cef5afff7f4c0f1037.jpg": [
+        {
+            "bbox": [
+                232.03773498535156,
+                289.9011535644531,
+                243.871826171875,
+                301.8016357421875
+            ],
+            "confidence": 0.3439105749130249,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000836_jpg.rf.73400c198f383ff47bff7a99339aacb5.jpg": [
+        {
+            "bbox": [
+                2.713146924972534,
+                0.0,
+                413.0199890136719,
+                257.3332824707031
+            ],
+            "confidence": 0.4547244906425476,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                2.0834593772888184,
+                218.63719177246094,
+                305.2073974609375,
+                416.0
+            ],
+            "confidence": 0.3015739321708679,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_040_mp4-6_jpg.rf.e81c1c98a936256c4238874b72c5d2ad.jpg": [
+        {
+            "bbox": [
+                100.0244369506836,
+                114.9089126586914,
+                218.61630249023438,
+                226.99154663085938
+            ],
+            "confidence": 0.58614581823349,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_017_mp4-3_jpg.rf.30e301785097b7fe065c1190393318c0.jpg": [],
+    "Datasets/airplane/images/00000335_jpg.rf.b94ffeaf18a2a73b08e05e84c82d19cb.jpg": [
+        {
+            "bbox": [
+                10.234603881835938,
+                108.17036437988281,
+                408.4590148925781,
+                297.5832824707031
+            ],
+            "confidence": 0.6737549901008606,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000950_jpg.rf.5e4c43e865ea0a811fad8bc2c85b628b.jpg": [
+        {
+            "bbox": [
+                2.755953788757324,
+                31.09292221069336,
+                406.7249755859375,
+                312.7242126464844
+            ],
+            "confidence": 0.481803297996521,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000480_jpg.rf.4e5e9951febc8d3907f18a0ee688ba97.jpg": [
+        {
+            "bbox": [
+                0.8869262337684631,
+                128.04359436035156,
+                406.86651611328125,
+                410.180419921875
+            ],
+            "confidence": 0.502813994884491,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                12.939657211303711,
+                0.0,
+                416.0,
+                250.59524536132812
+            ],
+            "confidence": 0.27459171414375305,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000548_jpg.rf.56691330b88604db9dbae64f7b616648.jpg": [
+        {
+            "bbox": [
+                39.863555908203125,
+                91.41294860839844,
+                374.1239929199219,
+                228.65562438964844
+            ],
+            "confidence": 0.5684298276901245,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000287_jpg.rf.54919f0112567ac509586fa23901f524.jpg": [
+        {
+            "bbox": [
+                11.284704208374023,
+                145.1151580810547,
+                383.2725830078125,
+                400.1240234375
+            ],
+            "confidence": 0.7299811244010925,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                9.077068328857422,
+                51.58815383911133,
+                387.4065856933594,
+                358.2100524902344
+            ],
+            "confidence": 0.31953710317611694,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_042_mp4-7_jpg.rf.017a04733633149f940d26ba1e38c1e3.jpg": [
+        {
+            "bbox": [
+                148.76248168945312,
+                79.15447998046875,
+                230.46617126464844,
+                182.62039184570312
+            ],
+            "confidence": 0.4337006211280823,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                146.91244506835938,
+                107.27310180664062,
+                228.1992645263672,
+                185.58102416992188
+            ],
+            "confidence": 0.28159984946250916,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001078_jpg.rf.773053e7529f77bd80d6029510c30ec3.jpg": [
+        {
+            "bbox": [
+                2.7753143310546875,
+                14.636900901794434,
+                408.69549560546875,
+                289.66986083984375
+            ],
+            "confidence": 0.5437864661216736,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000118_jpg.rf.a972daa1947610765f3fe65f99301ec8.jpg": [
+        {
+            "bbox": [
+                14.478249549865723,
+                63.8629150390625,
+                406.5561828613281,
+                202.84201049804688
+            ],
+            "confidence": 0.6472378969192505,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                9.57607364654541,
+                223.5056915283203,
+                403.615234375,
+                392.7074279785156
+            ],
+            "confidence": 0.5921388864517212,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                3.289275884628296,
+                146.99806213378906,
+                404.74224853515625,
+                397.40594482421875
+            ],
+            "confidence": 0.25724002718925476,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000350_jpg.rf.8df1091b86b555aab2ad4b057aae09f6.jpg": [
+        {
+            "bbox": [
+                35.08504104614258,
+                57.20928192138672,
+                412.48028564453125,
+                373.92144775390625
+            ],
+            "confidence": 0.5199180245399475,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_041_mp4-13_jpg.rf.4beb1d39a41b77512535927049631a8f.jpg": [
+        {
+            "bbox": [
+                164.995849609375,
+                177.73655700683594,
+                281.03350830078125,
+                256.4547119140625
+            ],
+            "confidence": 0.5971587896347046,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_004_mp4-20_jpg.rf.29ca930a854752e918dd16adf7b9d655.jpg": [
+        {
+            "bbox": [
+                148.53945922851562,
+                205.9613037109375,
+                158.8015899658203,
+                215.52578735351562
+            ],
+            "confidence": 0.4400534927845001,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000006_jpg.rf.88df702ff01f73e86b2c9aab9c4aff88.jpg": [
+        {
+            "bbox": [
+                139.30303955078125,
+                204.17237854003906,
+                365.1651916503906,
+                320.7655334472656
+            ],
+            "confidence": 0.6564426422119141,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000103_jpg.rf.e71692713211cee62ad0934a3c231d47.jpg": [
+        {
+            "bbox": [
+                0.7829040288925171,
+                220.81301879882812,
+                408.3861999511719,
+                381.5534362792969
+            ],
+            "confidence": 0.6266624927520752,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                1.1729278564453125,
+                40.686710357666016,
+                412.6402587890625,
+                192.91757202148438
+            ],
+            "confidence": 0.6087934970855713,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001144_jpg.rf.24ec96d51f4d9e05587b1f8096057668.jpg": [
+        {
+            "bbox": [
+                0.0,
+                124.76077270507812,
+                416.0,
+                416.0
+            ],
+            "confidence": 0.2966207265853882,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_039_mp4-7_jpg.rf.11d3021306d21125e84864acb66919fe.jpg": [
+        {
+            "bbox": [
+                120.358642578125,
+                178.06028747558594,
+                202.5972900390625,
+                215.802490234375
+            ],
+            "confidence": 0.5815219283103943,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                123.68019104003906,
+                162.00811767578125,
+                205.85000610351562,
+                214.3796844482422
+            ],
+            "confidence": 0.2903191149234772,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000266_JPG_jpg.rf.35b4e1056738754b9d862163788bbabe.jpg": [
+        {
+            "bbox": [
+                60.32058334350586,
+                105.95723724365234,
+                217.2080535888672,
+                295.9106750488281
+            ],
+            "confidence": 0.4417388439178467,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_041_mp4-11_jpg.rf.482e54278cd7adddb0e77f5fe41282ab.jpg": [
+        {
+            "bbox": [
+                179.99838256835938,
+                186.69581604003906,
+                238.3983154296875,
+                213.80348205566406
+            ],
+            "confidence": 0.7281569242477417,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                177.4158172607422,
+                176.72586059570312,
+                244.1612548828125,
+                214.62351989746094
+            ],
+            "confidence": 0.2701888978481293,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000833_jpg.rf.1ac0b2b57d5b9f7436e1c2225d379fb2.jpg": [
+        {
+            "bbox": [
+                79.13621520996094,
+                47.0416259765625,
+                327.85467529296875,
+                181.7696075439453
+            ],
+            "confidence": 0.7120083570480347,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000340_jpg.rf.0fe4d091c202ed748d3fb07249007c63.jpg": [
+        {
+            "bbox": [
+                33.34471130371094,
+                65.2054214477539,
+                393.6741638183594,
+                349.8824157714844
+            ],
+            "confidence": 0.5772321820259094,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001397_jpg.rf.78d4f2585edf9fa5edb3c088a38a7ffa.jpg": [
+        {
+            "bbox": [
+                2.76436448097229,
+                60.09674072265625,
+                407.3912048339844,
+                303.804443359375
+            ],
+            "confidence": 0.568986177444458,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000511_jpg.rf.0f295a637e18fbea94d3218e8993bfca.jpg": [
+        {
+            "bbox": [
+                0.9670653939247131,
+                28.718542098999023,
+                397.48760986328125,
+                333.9997253417969
+            ],
+            "confidence": 0.45391976833343506,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                4.113915920257568,
+                64.1485595703125,
+                384.6271667480469,
+                264.0265197753906
+            ],
+            "confidence": 0.27481335401535034,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001236_jpg.rf.57a4db1288f6cfafd5a2f3aff38de489.jpg": [],
+    "Datasets/airplane/images/V_AIRPLANE_048_mp4-1_jpg.rf.803f483718ea8bc1c99ca6a7958cd00f.jpg": [
+        {
+            "bbox": [
+                162.6386260986328,
+                173.0291290283203,
+                208.1273651123047,
+                234.09817504882812
+            ],
+            "confidence": 0.7380735874176025,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                169.72610473632812,
+                162.85189819335938,
+                211.95274353027344,
+                225.5143585205078
+            ],
+            "confidence": 0.4337818920612335,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001337_jpg.rf.841e8018088cf45ed3234f9b38470b6a.jpg": [
+        {
+            "bbox": [
+                14.849864959716797,
+                98.34864807128906,
+                387.6891174316406,
+                244.9844970703125
+            ],
+            "confidence": 0.6301194429397583,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001371_jpg.rf.9311d2c16326fad6b062638530466ccb.jpg": [
+        {
+            "bbox": [
+                138.9019012451172,
+                123.7467041015625,
+                272.9869689941406,
+                308.69049072265625
+            ],
+            "confidence": 0.3334576189517975,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_010_mp4-11_jpg.rf.4ef6ce4862010d9616051184460979fb.jpg": [
+        {
+            "bbox": [
+                234.4551544189453,
+                290.0169372558594,
+                246.51991271972656,
+                300.56292724609375
+            ],
+            "confidence": 0.3201826512813568,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_037_mp4-9_jpg.rf.b1f088d2e30b4801853b6c2fc4270f0c.jpg": [
+        {
+            "bbox": [
+                248.2676544189453,
+                189.59620666503906,
+                260.8020935058594,
+                200.37794494628906
+            ],
+            "confidence": 0.6991132497787476,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                247.2351531982422,
+                187.0618896484375,
+                261.9674987792969,
+                202.26174926757812
+            ],
+            "confidence": 0.4523235559463501,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001314_jpg.rf.ae66465d272a0bbcd093fb09883a8533.jpg": [
+        {
+            "bbox": [
+                35.52120590209961,
+                121.67691040039062,
+                375.299560546875,
+                248.26083374023438
+            ],
+            "confidence": 0.6966044902801514,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001312_jpg.rf.b2dc86105b36072ad6eef7d7b5dab59b.jpg": [
+        {
+            "bbox": [
+                46.204349517822266,
+                0.0,
+                387.729736328125,
+                321.3072509765625
+            ],
+            "confidence": 0.5410200357437134,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                30.22650718688965,
+                61.994422912597656,
+                382.3790588378906,
+                396.4527282714844
+            ],
+            "confidence": 0.4195246398448944,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000864_png_jpg.rf.edf53ba36dc5c3aaa3a7b6400591934a.jpg": [
+        {
+            "bbox": [
+                170.03482055664062,
+                132.9010772705078,
+                397.2342529296875,
+                406.26904296875
+            ],
+            "confidence": 0.37393519282341003,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                73.74626159667969,
+                0.0,
+                405.5307922363281,
+                322.9903869628906
+            ],
+            "confidence": 0.3542540371417999,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                62.017581939697266,
+                39.4237060546875,
+                388.97320556640625,
+                376.6585693359375
+            ],
+            "confidence": 0.2537632882595062,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001232_jpeg_jpg.rf.64536e62a0a942cd699c9397dae7cac2.jpg": [
+        {
+            "bbox": [
+                1.2997221946716309,
+                0.0,
+                408.74072265625,
+                283.40728759765625
+            ],
+            "confidence": 0.575782060623169,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                0.0,
+                91.86954498291016,
+                405.4574890136719,
+                416.0
+            ],
+            "confidence": 0.43257996439933777,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                0.0,
+                9.9404296875,
+                405.4823303222656,
+                359.30145263671875
+            ],
+            "confidence": 0.2885417938232422,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                4.714324951171875,
+                14.752607345581055,
+                384.57830810546875,
+                242.5574188232422
+            ],
+            "confidence": 0.27518144249916077,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001019_jpg.rf.5d5185b356319d8c8156836bc58dbe80.jpg": [
+        {
+            "bbox": [
+                1.2015318870544434,
+                33.02388000488281,
+                416.0,
+                341.2525329589844
+            ],
+            "confidence": 0.45873770117759705,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_002_mp4-12_jpg.rf.7f96bfc01248a1c084e488e9a0c10e41.jpg": [
+        {
+            "bbox": [
+                226.59588623046875,
+                263.0995178222656,
+                275.3442077636719,
+                300.4069519042969
+            ],
+            "confidence": 0.7515780329704285,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000647_jpg.rf.a417138c74ce608a1e519b474850df6b.jpg": [
+        {
+            "bbox": [
+                100.74722290039062,
+                9.637110710144043,
+                319.84442138671875,
+                116.57656860351562
+            ],
+            "confidence": 0.5509613156318665,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                0.22684936225414276,
+                139.38314819335938,
+                407.0549621582031,
+                408.79638671875
+            ],
+            "confidence": 0.4099530279636383,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                99.60082244873047,
+                16.0484619140625,
+                416.0,
+                238.33291625976562
+            ],
+            "confidence": 0.28962472081184387,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_013_mp4-1_jpg.rf.eea353726329fee71fe0ff1ab5fc739c.jpg": [
+        {
+            "bbox": [
+                201.25881958007812,
+                240.90354919433594,
+                213.53082275390625,
+                250.95672607421875
+            ],
+            "confidence": 0.4050569534301758,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000397_jpg.rf.ffba3a58b7704297c0cdbb4a8a5029b6.jpg": [
+        {
+            "bbox": [
+                24.8254451751709,
+                0.0,
+                382.4822998046875,
+                250.25625610351562
+            ],
+            "confidence": 0.5348218083381653,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001271_jpg.rf.47f05b44d98f9ae0525d74c68d188008.jpg": [
+        {
+            "bbox": [
+                19.858680725097656,
+                107.32704162597656,
+                389.3515319824219,
+                297.9256591796875
+            ],
+            "confidence": 0.6354599595069885,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000991_jpg.rf.ed592fce18148f5851f46fb78178501f.jpg": [
+        {
+            "bbox": [
+                0.0,
+                14.823899269104004,
+                409.12689208984375,
+                316.8945617675781
+            ],
+            "confidence": 0.4894438683986664,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_003_mp4-18_jpg.rf.8b83a12935fe30287cd667f6f5bc1cf7.jpg": [
+        {
+            "bbox": [
+                145.003173828125,
+                230.55812072753906,
+                176.58102416992188,
+                252.11868286132812
+            ],
+            "confidence": 0.6166912317276001,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001245_jpg.rf.eec299599f8aab841b07b3e9bdf49cc0.jpg": [
+        {
+            "bbox": [
+                0.481668084859848,
+                107.42578887939453,
+                410.9346618652344,
+                374.16119384765625
+            ],
+            "confidence": 0.2688159942626953,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_047_mp4-20_jpg.rf.81bb0f2dce3357da16cc703a52a15aa9.jpg": [
+        {
+            "bbox": [
+                86.30664825439453,
+                77.39470672607422,
+                266.84130859375,
+                247.7933349609375
+            ],
+            "confidence": 0.5661905407905579,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001206_jpg.rf.bcd1800efffdfb2c54cde810ef627529.jpg": [
+        {
+            "bbox": [
+                0.0,
+                117.62027740478516,
+                406.4317626953125,
+                401.54296875
+            ],
+            "confidence": 0.31444433331489563,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001341_jpg.rf.067058ab776d1c1847b5d830c058397e.jpg": [],
+    "Datasets/airplane/images/00001367_png_jpg.rf.3b259e491a75aab57d111dd16c6d28fd.jpg": [
+        {
+            "bbox": [
+                8.00899600982666,
+                192.96990966796875,
+                296.4627685546875,
+                331.2159423828125
+            ],
+            "confidence": 0.7018557786941528,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000083_jpg.rf.c24ae99af8afd9c2df23363441d28767.jpg": [
+        {
+            "bbox": [
+                0.0,
+                116.55828094482422,
+                397.2206115722656,
+                351.0582275390625
+            ],
+            "confidence": 0.7503593564033508,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000698_png_jpg.rf.aa6859731f99036e45d44c77b7e375ca.jpg": [
+        {
+            "bbox": [
+                121.56324768066406,
+                11.583480834960938,
+                416.0,
+                219.84329223632812
+            ],
+            "confidence": 0.5747649073600769,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                0.8009154796600342,
+                51.57912826538086,
+                112.81758117675781,
+                149.0694122314453
+            ],
+            "confidence": 0.39442941546440125,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                5.361944198608398,
+                37.0963020324707,
+                110.82430267333984,
+                182.9505157470703
+            ],
+            "confidence": 0.35663896799087524,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                0.8140868544578552,
+                7.748662948608398,
+                377.6018371582031,
+                220.2757568359375
+            ],
+            "confidence": 0.2779650092124939,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_046_mp4-4_jpg.rf.7cf2a426871e71f9b7bd556d060ed928.jpg": [
+        {
+            "bbox": [
+                222.69068908691406,
+                183.0332794189453,
+                291.4377746582031,
+                289.9867858886719
+            ],
+            "confidence": 0.5261356830596924,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_040_mp4-28_jpg.rf.b64e008094435861bb0409245f280446.jpg": [
+        {
+            "bbox": [
+                191.00408935546875,
+                127.41312408447266,
+                232.31565856933594,
+                187.72470092773438
+            ],
+            "confidence": 0.6223293542861938,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                192.81167602539062,
+                142.98951721191406,
+                233.5157012939453,
+                187.42376708984375
+            ],
+            "confidence": 0.3394131064414978,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                189.86788940429688,
+                116.9434814453125,
+                231.5487823486328,
+                177.94464111328125
+            ],
+            "confidence": 0.28147801756858826,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001322_jpg.rf.063c772bcf95e72a3c93868908d03233.jpg": [],
+    "Datasets/airplane/images/00000113_jpg.rf.1fd7d9ed87c8532200b3e9dbe164b539.jpg": [
+        {
+            "bbox": [
+                8.312335014343262,
+                130.38966369628906,
+                394.7718811035156,
+                274.8382568359375
+            ],
+            "confidence": 0.5359839200973511,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                1.2947829961776733,
+                346.91558837890625,
+                129.78781127929688,
+                416.0
+            ],
+            "confidence": 0.28471776843070984,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000969_jpg.rf.ba9861e48d1ec37ea7b2ac630843d3d3.jpg": [
+        {
+            "bbox": [
+                104.60480499267578,
+                100.11123657226562,
+                391.0126037597656,
+                285.73907470703125
+            ],
+            "confidence": 0.5828819870948792,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001461_jpg.rf.bc0e3a96d293abc14607619634c2cb2c.jpg": [
+        {
+            "bbox": [
+                123.106689453125,
+                13.703617095947266,
+                415.669189453125,
+                229.61598205566406
+            ],
+            "confidence": 0.4574190378189087,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                4.545397758483887,
+                0.0,
+                412.902099609375,
+                248.23318481445312
+            ],
+            "confidence": 0.3238251507282257,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_029_mp4-4_jpg.rf.56e9ac0c85c780264d5ddc673d141c12.jpg": [],
+    "Datasets/airplane/images/00000707_png_jpg.rf.57f8d554fb73da6abe7a6ad0ad218e6f.jpg": [
+        {
+            "bbox": [
+                0.0,
+                124.86406707763672,
+                405.9181213378906,
+                404.5718994140625
+            ],
+            "confidence": 0.44445621967315674,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                2.2281463146209717,
+                2.009648084640503,
+                410.2842102050781,
+                195.98631286621094
+            ],
+            "confidence": 0.35161563754081726,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000235_jpg.rf.7000b421019650fe94d6035bd269355f.jpg": [
+        {
+            "bbox": [
+                120.23421478271484,
+                101.53421020507812,
+                371.91558837890625,
+                294.24468994140625
+            ],
+            "confidence": 0.5614208579063416,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_011_mp4-1_jpg.rf.f87077b1219940ec4f736b5d1ca284cc.jpg": [
+        {
+            "bbox": [
+                230.06297302246094,
+                292.36114501953125,
+                240.04617309570312,
+                301.6256103515625
+            ],
+            "confidence": 0.47231417894363403,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                229.17449951171875,
+                290.804931640625,
+                240.63050842285156,
+                302.656982421875
+            ],
+            "confidence": 0.29751038551330566,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_049_mp4-6_jpg.rf.4b7a2fe63537b758f8d50d5faa5fba0c.jpg": [
+        {
+            "bbox": [
+                231.05844116210938,
+                185.24891662597656,
+                242.43678283691406,
+                195.71994018554688
+            ],
+            "confidence": 0.4490887224674225,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_018_mp4-7_jpg.rf.621e076d805768fe65611d0008b3fdf7.jpg": [
+        {
+            "bbox": [
+                231.34457397460938,
+                274.1097106933594,
+                251.02032470703125,
+                287.7109069824219
+            ],
+            "confidence": 0.532535970211029,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                229.92626953125,
+                272.63079833984375,
+                251.845947265625,
+                290.2613220214844
+            ],
+            "confidence": 0.3918337821960449,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001331_jpg.rf.03a28fc8be1122fe451b80c1e6b4d896.jpg": [
+        {
+            "bbox": [
+                0.5013458132743835,
+                93.04961395263672,
+                412.2540283203125,
+                367.4886169433594
+            ],
+            "confidence": 0.6039182543754578,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_050_mp4-2_jpg.rf.fdb2b784a4f14df6d6c661872bf369a9.jpg": [
+        {
+            "bbox": [
+                297.7137756347656,
+                202.3197479248047,
+                308.5025939941406,
+                213.31564331054688
+            ],
+            "confidence": 0.39264243841171265,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000523_jpg.rf.3b8708215fc9c34fb96bf8f4f6b4b87b.jpg": [
+        {
+            "bbox": [
+                11.768623352050781,
+                2.940948486328125,
+                150.99627685546875,
+                111.56957244873047
+            ],
+            "confidence": 0.7218894958496094,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                180.3160858154297,
+                8.754171371459961,
+                277.0367126464844,
+                93.24724578857422
+            ],
+            "confidence": 0.45542818307876587,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                178.684814453125,
+                17.27086067199707,
+                412.8356018066406,
+                208.96095275878906
+            ],
+            "confidence": 0.37967178225517273,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000227_jpg.rf.4be5a728e4bed48afe5360659abef414.jpg": [
+        {
+            "bbox": [
+                272.1554260253906,
+                27.192480087280273,
+                409.7900085449219,
+                149.9380645751953
+            ],
+            "confidence": 0.317812979221344,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_035_mp4-6_jpg.rf.e2e212faa6bab854d39aa260d0686166.jpg": [],
+    "Datasets/airplane/images/00001132_jpeg_jpg.rf.2f67f545d268a4dad4c0136df71e3fb2.jpg": [
+        {
+            "bbox": [
+                133.03302001953125,
+                106.8646240234375,
+                408.31201171875,
+                252.261962890625
+            ],
+            "confidence": 0.2749845087528229,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_008_mp4-12_jpg.rf.fa9149cfc0efdbe82270cb11232faa8f.jpg": [
+        {
+            "bbox": [
+                171.5034637451172,
+                149.47059631347656,
+                230.14724731445312,
+                185.75474548339844
+            ],
+            "confidence": 0.6868059635162354,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000217_jpg.rf.3294873cc208273908952ef27986dfc9.jpg": [
+        {
+            "bbox": [
+                0.0,
+                150.72222900390625,
+                402.7796325683594,
+                408.81048583984375
+            ],
+            "confidence": 0.47304609417915344,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                14.986815452575684,
+                2.7779922485351562,
+                380.95367431640625,
+                176.2828369140625
+            ],
+            "confidence": 0.351818323135376,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000309_jpeg_jpg.rf.66fc6ea4b21b94359160c50031af717a.jpg": [
+        {
+            "bbox": [
+                43.296051025390625,
+                37.067604064941406,
+                416.0,
+                360.2577209472656
+            ],
+            "confidence": 0.41039055585861206,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                127.5869369506836,
+                0.0,
+                404.5666809082031,
+                269.7525939941406
+            ],
+            "confidence": 0.37139585614204407,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                1.7057044506072998,
+                1.4383392333984375,
+                109.76026916503906,
+                280.4237365722656
+            ],
+            "confidence": 0.2586832344532013,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_037_mp4-5_jpg.rf.8ecddd678b874b4a836f452b61e04fe5.jpg": [
+        {
+            "bbox": [
+                99.33601379394531,
+                147.20938110351562,
+                112.26698303222656,
+                157.30856323242188
+            ],
+            "confidence": 0.664967954158783,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                97.72390747070312,
+                145.95066833496094,
+                113.77566528320312,
+                159.18980407714844
+            ],
+            "confidence": 0.5526366233825684,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                96.82804870605469,
+                143.6596221923828,
+                114.84503936767578,
+                160.97532653808594
+            ],
+            "confidence": 0.41375353932380676,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_045_mp4-13_jpg.rf.67ce8de5a4066df8788b359c2ffd7d6d.jpg": [
+        {
+            "bbox": [
+                230.4993438720703,
+                56.8873405456543,
+                248.58389282226562,
+                72.82917785644531
+            ],
+            "confidence": 0.4199787378311157,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000210_jpg.rf.49c949a681f908c0148210411d83c991.jpg": [
+        {
+            "bbox": [
+                2.3976683616638184,
+                99.8865966796875,
+                400.1400451660156,
+                409.4964599609375
+            ],
+            "confidence": 0.4008715748786926,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                34.23933410644531,
+                9.831765174865723,
+                396.4523010253906,
+                336.51611328125
+            ],
+            "confidence": 0.32744142413139343,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001411_jpg.rf.af4f68ecf5f72741eb635e02c8e1fab9.jpg": [
+        {
+            "bbox": [
+                24.852977752685547,
+                121.31378173828125,
+                416.0,
+                416.0
+            ],
+            "confidence": 0.3995938003063202,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001077_jpg.rf.29b8d7db6b9b32021888ef394b7024bc.jpg": [
+        {
+            "bbox": [
+                34.84192657470703,
+                101.24870300292969,
+                325.420654296875,
+                224.95997619628906
+            ],
+            "confidence": 0.5723400712013245,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000533_jpg.rf.71630ed8a5f99fdfb8f2c3411e989eb8.jpg": [
+        {
+            "bbox": [
+                0.0,
+                125.1957778930664,
+                398.0016174316406,
+                416.0
+            ],
+            "confidence": 0.5528252720832825,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                2.1020660400390625,
+                0.0,
+                397.7955322265625,
+                336.4339294433594
+            ],
+            "confidence": 0.5052359700202942,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_039_mp4-4_jpg.rf.019a1342e32fb4656421b5024b7cbaff.jpg": [
+        {
+            "bbox": [
+                120.91748809814453,
+                173.91685485839844,
+                204.59814453125,
+                213.50892639160156
+            ],
+            "confidence": 0.4995940625667572,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_020_mp4-7_jpg.rf.7c593e71f0b76784642cd7e933618af7.jpg": [
+        {
+            "bbox": [
+                91.20306396484375,
+                143.57806396484375,
+                104.64860534667969,
+                156.0554962158203
+            ],
+            "confidence": 0.6556482911109924,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                89.42185974121094,
+                139.89208984375,
+                106.69403076171875,
+                158.12315368652344
+            ],
+            "confidence": 0.3013748824596405,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_039_mp4-14_jpg.rf.7eb39f9fa59fd0a16825e50e9383cde4.jpg": [
+        {
+            "bbox": [
+                167.929931640625,
+                127.27162170410156,
+                291.683837890625,
+                256.6449279785156
+            ],
+            "confidence": 0.6803850531578064,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_013_mp4-12_jpg.rf.aaed1f31997f52b5044bc074e858d3c2.jpg": [
+        {
+            "bbox": [
+                254.58863830566406,
+                239.80738830566406,
+                266.1054382324219,
+                249.8369140625
+            ],
+            "confidence": 0.3479968011379242,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000114_png_jpg.rf.45791794c5d30c8e0f8e0f14d0ba8d36.jpg": [
+        {
+            "bbox": [
+                25.060150146484375,
+                9.348529815673828,
+                394.7289123535156,
+                291.9326171875
+            ],
+            "confidence": 0.5974026918411255,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                16.731706619262695,
+                32.556453704833984,
+                409.6259765625,
+                389.0912780761719
+            ],
+            "confidence": 0.33240383863449097,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000447_jpg.rf.70eb6378c42399a8a958379d49b25206.jpg": [
+        {
+            "bbox": [
+                1.234222412109375,
+                82.31012725830078,
+                411.4466247558594,
+                329.8187255859375
+            ],
+            "confidence": 0.5442551374435425,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                3.7789976596832275,
+                0.0,
+                416.0,
+                321.181640625
+            ],
+            "confidence": 0.2618738114833832,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_008_mp4-20_jpg.rf.cb0748b9cb33234301c52fb2a7ab8efe.jpg": [
+        {
+            "bbox": [
+                211.01675415039062,
+                216.6852264404297,
+                237.98214721679688,
+                232.64942932128906
+            ],
+            "confidence": 0.7919224500656128,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                210.81838989257812,
+                213.44091796875,
+                240.06394958496094,
+                234.4913330078125
+            ],
+            "confidence": 0.3055574893951416,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000003_jpg.rf.4da1db54c75d64f65bfcb1f0402e3a09.jpg": [
+        {
+            "bbox": [
+                0.0,
+                110.39765930175781,
+                409.9405212402344,
+                284.47589111328125
+            ],
+            "confidence": 0.41724029183387756,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000586_jpg.rf.0a17ecda0ee4752f270c4620d6c60618.jpg": [
+        {
+            "bbox": [
+                0.0,
+                34.300628662109375,
+                406.0601501464844,
+                349.13372802734375
+            ],
+            "confidence": 0.4979856312274933,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                0.3639984130859375,
+                7.305398464202881,
+                394.0602722167969,
+                269.14385986328125
+            ],
+            "confidence": 0.3430669903755188,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000467_jpg.rf.15e4745e4e9529a26a0aed3c627abe1f.jpg": [
+        {
+            "bbox": [
+                2.1813323497772217,
+                0.0,
+                408.9600524902344,
+                298.8214111328125
+            ],
+            "confidence": 0.4481671452522278,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                0.0,
+                73.41072082519531,
+                407.95733642578125,
+                342.17523193359375
+            ],
+            "confidence": 0.2802617847919464,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000470_jpg.rf.148daaf53570c2d3d97c34cb084187e7.jpg": [
+        {
+            "bbox": [
+                35.16732406616211,
+                80.2530288696289,
+                398.0784606933594,
+                297.0903625488281
+            ],
+            "confidence": 0.525107204914093,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_001_mp4-15_jpg.rf.21af9f9a2d046115738a94acabcff5a2.jpg": [
+        {
+            "bbox": [
+                161.8916778564453,
+                158.10055541992188,
+                178.75421142578125,
+                170.36973571777344
+            ],
+            "confidence": 0.5967980623245239,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                160.9492645263672,
+                154.7445526123047,
+                179.7449951171875,
+                173.19448852539062
+            ],
+            "confidence": 0.4823836386203766,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000426_jpg.rf.1730477ef289e20674351b4a6a87b34d.jpg": [
+        {
+            "bbox": [
+                148.13528442382812,
+                124.1558837890625,
+                284.6496887207031,
+                196.96939086914062
+            ],
+            "confidence": 0.3660127520561218,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                274.8423156738281,
+                187.863525390625,
+                410.8484802246094,
+                313.7641296386719
+            ],
+            "confidence": 0.2790156900882721,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_052_mp4-5_jpg.rf.98ad78207afd91f58cc2766fc0bc7370.jpg": [
+        {
+            "bbox": [
+                141.36351013183594,
+                279.08343505859375,
+                153.6772918701172,
+                289.9994812011719
+            ],
+            "confidence": 0.3688221573829651,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                140.65892028808594,
+                277.9455261230469,
+                155.8737030029297,
+                291.7677917480469
+            ],
+            "confidence": 0.3079182505607605,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000816_jpg.rf.e6024166e81b2f67352f2ae477f3bab3.jpg": [
+        {
+            "bbox": [
+                44.33111572265625,
+                105.63285827636719,
+                400.56463623046875,
+                309.24993896484375
+            ],
+            "confidence": 0.6700591444969177,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_002_mp4-16_jpg.rf.30043f329db02ccba03ae80ad1205192.jpg": [
+        {
+            "bbox": [
+                286.95599365234375,
+                260.7178955078125,
+                352.7823181152344,
+                297.4081115722656
+            ],
+            "confidence": 0.3554772734642029,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001000_jpg.rf.7a3a12330c36bc848e89d39d3731aaa5.jpg": [
+        {
+            "bbox": [
+                0.6011626720428467,
+                98.93864440917969,
+                408.917236328125,
+                406.7665710449219
+            ],
+            "confidence": 0.45997902750968933,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                9.098175048828125,
+                5.31925630569458,
+                416.0,
+                249.49583435058594
+            ],
+            "confidence": 0.29975855350494385,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                2.615631103515625,
+                0.0,
+                414.4313659667969,
+                291.1349792480469
+            ],
+            "confidence": 0.2751036584377289,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                4.428164482116699,
+                4.997707843780518,
+                416.0,
+                353.5715026855469
+            ],
+            "confidence": 0.2663896381855011,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001065_jpg.rf.1a96b6d956765960301b923de7279fda.jpg": [
+        {
+            "bbox": [
+                6.256011962890625,
+                127.05523681640625,
+                416.0,
+                273.7064514160156
+            ],
+            "confidence": 0.30539754033088684,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000073_jpg.rf.f9fc1f3c8ab203696581feda17ce79b3.jpg": [
+        {
+            "bbox": [
+                0.196380615234375,
+                6.967306137084961,
+                387.26947021484375,
+                254.37831115722656
+            ],
+            "confidence": 0.3713149428367615,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                3.3511061668395996,
+                320.93011474609375,
+                180.7634735107422,
+                414.9218444824219
+            ],
+            "confidence": 0.34945881366729736,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000431_jpg.rf.740b4a444a2eee9a8524f72f2d1ee3af.jpg": [
+        {
+            "bbox": [
+                0.23867186903953552,
+                108.7966537475586,
+                412.6141357421875,
+                286.5885314941406
+            ],
+            "confidence": 0.4850006401538849,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001358_jpeg_jpg.rf.e83a285d789d2962231291e746f3a3b7.jpg": [],
+    "Datasets/airplane/images/00000830_jpg.rf.6650780631401ae6e54dcbf5284ac5a2.jpg": [
+        {
+            "bbox": [
+                7.119769096374512,
+                102.29476928710938,
+                408.6124267578125,
+                416.0
+            ],
+            "confidence": 0.4112616777420044,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                1.7666319608688354,
+                60.24842834472656,
+                413.1352233886719,
+                339.847900390625
+            ],
+            "confidence": 0.28573569655418396,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_039_mp4-32_jpg.rf.619ae0f350ef63cd1fd569ff9f3edfac.jpg": [
+        {
+            "bbox": [
+                223.99386596679688,
+                194.77481079101562,
+                271.1149597167969,
+                228.0819854736328
+            ],
+            "confidence": 0.4905109405517578,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000300_jpg.rf.d6c2aed08fe9848c89476deb5ff4b1a3.jpg": [
+        {
+            "bbox": [
+                64.00421142578125,
+                89.28329467773438,
+                408.373291015625,
+                240.8872528076172
+            ],
+            "confidence": 0.6126769781112671,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000152_jpg.rf.0472a8cc2d1a380db7bb8a0f8d824204.jpg": [
+        {
+            "bbox": [
+                55.99298095703125,
+                64.74835968017578,
+                350.04364013671875,
+                220.28817749023438
+            ],
+            "confidence": 0.6723302602767944,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                285.3708190917969,
+                198.68409729003906,
+                413.83404541015625,
+                408.063720703125
+            ],
+            "confidence": 0.45746085047721863,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000963_jpg.rf.87f4f008c6c72cd9ec69b7a115e474eb.jpg": [
+        {
+            "bbox": [
+                285.9315490722656,
+                3.2985494136810303,
+                414.0354309082031,
+                130.02403259277344
+            ],
+            "confidence": 0.2654949724674225,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000400_jpg.rf.2d579e424c9d35ace9f7f2c2f820cdf0.jpg": [
+        {
+            "bbox": [
+                23.855571746826172,
+                72.17328643798828,
+                318.68768310546875,
+                241.5187530517578
+            ],
+            "confidence": 0.520063579082489,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                14.503283500671387,
+                76.00083923339844,
+                400.98150634765625,
+                269.82061767578125
+            ],
+            "confidence": 0.3916887938976288,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001361_jpg.rf.3f22161343e2c6e0296a1535e93a77ae.jpg": [],
+    "Datasets/airplane/images/V_AIRPLANE_008_mp4-14_jpg.rf.e7f6117cdc906bdef10095fb50b2d9e0.jpg": [
+        {
+            "bbox": [
+                159.7315673828125,
+                158.10440063476562,
+                219.6436309814453,
+                194.0036163330078
+            ],
+            "confidence": 0.8000338673591614,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001068_jpg.rf.d48c4467e16dcd3314f101a64c51ad19.jpg": [
+        {
+            "bbox": [
+                33.31331253051758,
+                178.26304626464844,
+                281.7790222167969,
+                381.07257080078125
+            ],
+            "confidence": 0.5431475043296814,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_039_mp4-16_jpg.rf.fa74dad4d2cfb22337f0f0d00acef41f.jpg": [
+        {
+            "bbox": [
+                143.92156982421875,
+                128.73301696777344,
+                267.2992858886719,
+                265.83795166015625
+            ],
+            "confidence": 0.5536694526672363,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_010_mp4-5_jpg.rf.c06840ed966934131d80778ab5388fce.jpg": [
+        {
+            "bbox": [
+                229.9104766845703,
+                292.1955261230469,
+                239.66213989257812,
+                301.7679443359375
+            ],
+            "confidence": 0.37547221779823303,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000814_jpg.rf.b0a09e3b24f4aef2ff594a650c3f8b08.jpg": [
+        {
+            "bbox": [
+                0.20574340224266052,
+                120.17376708984375,
+                407.9901123046875,
+                271.72222900390625
+            ],
+            "confidence": 0.518156886100769,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000654_jpg.rf.74eb62673c4976ccd6085936f414e1e8.jpg": [
+        {
+            "bbox": [
+                0.0,
+                52.32821273803711,
+                407.5937805175781,
+                372.4996032714844
+            ],
+            "confidence": 0.3529498875141144,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                0.47420957684516907,
+                140.71157836914062,
+                410.4224548339844,
+                366.4088439941406
+            ],
+            "confidence": 0.26030728220939636,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001318_jpg.rf.e637a2fb40c5cb609f8e1798d52c1dc1.jpg": [
+        {
+            "bbox": [
+                0.0,
+                75.0627212524414,
+                407.4809265136719,
+                306.8880920410156
+            ],
+            "confidence": 0.2932654321193695,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001016_jpg.rf.0ac6bf3582efbe7460f16f9d48f040b5.jpg": [
+        {
+            "bbox": [
+                63.969139099121094,
+                63.990482330322266,
+                416.0,
+                334.19091796875
+            ],
+            "confidence": 0.4667716324329376,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                60.283897399902344,
+                92.73461151123047,
+                331.5188293457031,
+                334.1000671386719
+            ],
+            "confidence": 0.3385239243507385,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_039_mp4-33_jpg.rf.999fc37822228fb7069ee7a491239513.jpg": [
+        {
+            "bbox": [
+                231.84848022460938,
+                208.834228515625,
+                273.91375732421875,
+                242.94129943847656
+            ],
+            "confidence": 0.6300214529037476,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000368_jpg.rf.75d1d8e3e9b90b283a999dd86bfd09d8.jpg": [
+        {
+            "bbox": [
+                0.015274046920239925,
+                101.66183471679688,
+                307.6991882324219,
+                335.7047424316406
+            ],
+            "confidence": 0.3707549571990967,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000990_jpg.rf.c8598ad279bb4a0b8ef0719cfb1de423.jpg": [
+        {
+            "bbox": [
+                1.4518280029296875,
+                40.607948303222656,
+                409.8448181152344,
+                341.67449951171875
+            ],
+            "confidence": 0.4040917158126831,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_050_mp4-10_jpg.rf.3d56feef06f291e466aff0a33b081598.jpg": [
+        {
+            "bbox": [
+                135.05487060546875,
+                194.10894775390625,
+                158.47450256347656,
+                209.42860412597656
+            ],
+            "confidence": 0.590173602104187,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000089_jpg.rf.e8e470e670431bb285b69be199360078.jpg": [
+        {
+            "bbox": [
+                126.00196075439453,
+                65.63640594482422,
+                407.21881103515625,
+                194.10548400878906
+            ],
+            "confidence": 0.6521298289299011,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                14.970232963562012,
+                240.81320190429688,
+                414.45989990234375,
+                414.1888732910156
+            ],
+            "confidence": 0.29766568541526794,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001418_jpg.rf.04f6faec6e9fa124cf343cb4639d2ddd.jpg": [
+        {
+            "bbox": [
+                10.042468070983887,
+                104.24473571777344,
+                347.5654296875,
+                326.09063720703125
+            ],
+            "confidence": 0.45750296115875244,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                209.8468780517578,
+                159.822265625,
+                338.0256652832031,
+                286.9709777832031
+            ],
+            "confidence": 0.28339117765426636,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001101_jpg.rf.0405ef349e7d62407dc839ca86831aae.jpg": [
+        {
+            "bbox": [
+                16.255393981933594,
+                0.0,
+                404.8919982910156,
+                282.0670166015625
+            ],
+            "confidence": 0.4472075402736664,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001490_jpg.rf.5c4bdddee8b5ed32dc4546ffd725b19c.jpg": [
+        {
+            "bbox": [
+                0.0,
+                53.79784393310547,
+                408.2409362792969,
+                378.59686279296875
+            ],
+            "confidence": 0.4751279950141907,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                5.000604152679443,
+                0.0,
+                409.6858825683594,
+                262.50506591796875
+            ],
+            "confidence": 0.3638109862804413,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_037_mp4-1_jpg.rf.a2bb1503870d3f15cc95d8569ff03cfa.jpg": [
+        {
+            "bbox": [
+                138.60586547851562,
+                161.25160217285156,
+                153.5133056640625,
+                176.46884155273438
+            ],
+            "confidence": 0.5218276381492615,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                140.27838134765625,
+                163.7415313720703,
+                152.63352966308594,
+                173.84739685058594
+            ],
+            "confidence": 0.4025721549987793,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_004_mp4-1_jpg.rf.405d92eae655a12fa991636cd85d4d17.jpg": [
+        {
+            "bbox": [
+                192.59780883789062,
+                215.15951538085938,
+                202.7515869140625,
+                224.86483764648438
+            ],
+            "confidence": 0.33474963903427124,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000332_jpg.rf.0cbc0ac9d31556d8c66718fb26c45303.jpg": [
+        {
+            "bbox": [
+                3.652600049972534,
+                138.76025390625,
+                409.2645568847656,
+                284.4117126464844
+            ],
+            "confidence": 0.6710126399993896,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000490_jpg.rf.4ad06e45e33c36ba7e3b6abe440100f7.jpg": [
+        {
+            "bbox": [
+                47.56243133544922,
+                57.37126541137695,
+                268.67694091796875,
+                150.78338623046875
+            ],
+            "confidence": 0.8349184989929199,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_041_mp4-14_jpg.rf.778b35fade13ffcaca37a6b91301dd68.jpg": [
+        {
+            "bbox": [
+                166.9329376220703,
+                179.14981079101562,
+                290.4032897949219,
+                254.6265411376953
+            ],
+            "confidence": 0.6190997958183289,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001129_jpg.rf.244e6a9c46204e7c2c4c68c8fffde166.jpg": [
+        {
+            "bbox": [
+                2.3193540573120117,
+                40.96085739135742,
+                410.0653991699219,
+                338.2406311035156
+            ],
+            "confidence": 0.41916003823280334,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000902_jpg.rf.a3e61ba0337595e168592f58a0d313b3.jpg": [],
+    "Datasets/airplane/images/00001480_jpg.rf.374065d8e5d5366273a29ebd3c195f51.jpg": [
+        {
+            "bbox": [
+                4.558886528015137,
+                24.08616065979004,
+                414.7795715332031,
+                324.3852844238281
+            ],
+            "confidence": 0.5715489387512207,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001269_jpg.rf.cbafc8f87955be948aa5a3c8f1013705.jpg": [
+        {
+            "bbox": [
+                0.0,
+                13.344121932983398,
+                406.3844299316406,
+                342.6833801269531
+            ],
+            "confidence": 0.42586833238601685,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                4.231783866882324,
+                0.0,
+                410.4067077636719,
+                228.86521911621094
+            ],
+            "confidence": 0.27320873737335205,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001219_jpg.rf.141ea4596578b1312fea6aa93b33bd6f.jpg": [
+        {
+            "bbox": [
+                68.86492919921875,
+                107.43740844726562,
+                416.0,
+                412.52130126953125
+            ],
+            "confidence": 0.45149531960487366,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                81.11610412597656,
+                1.1496398448944092,
+                416.0,
+                338.07757568359375
+            ],
+            "confidence": 0.2856525778770447,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000135_jpg.rf.591a240849f8866f5a31693bd8bfb2cd.jpg": [
+        {
+            "bbox": [
+                5.995321273803711,
+                64.02350616455078,
+                405.9025573730469,
+                253.8069610595703
+            ],
+            "confidence": 0.56447434425354,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000997_jpg.rf.cb7317be74a90397d564d0a094549dad.jpg": [
+        {
+            "bbox": [
+                0.0,
+                81.04241180419922,
+                407.7027282714844,
+                275.9839782714844
+            ],
+            "confidence": 0.6158990263938904,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_026_mp4-0_jpg.rf.5417dccbbbe288a64165073f78965dc6.jpg": [],
+    "Datasets/airplane/images/00000858_jpg.rf.4953cbece172cc7bb6cd1f4daa6cd815.jpg": [
+        {
+            "bbox": [
+                37.480369567871094,
+                104.11824798583984,
+                382.70025634765625,
+                272.8632507324219
+            ],
+            "confidence": 0.5140053033828735,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_037_mp4-3_jpg.rf.09f9cd9c759e001b2a502b8690112563.jpg": [
+        {
+            "bbox": [
+                205.93994140625,
+                126.02156066894531,
+                219.0476837158203,
+                136.30897521972656
+            ],
+            "confidence": 0.7135686278343201,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                205.1051483154297,
+                124.1061782836914,
+                219.68309020996094,
+                138.19293212890625
+            ],
+            "confidence": 0.5279543399810791,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000031_jpg.rf.cecf4cba0cc7926b71823168720d64d8.jpg": [
+        {
+            "bbox": [
+                35.02644348144531,
+                26.851457595825195,
+                416.0,
+                334.9852600097656
+            ],
+            "confidence": 0.6291552186012268,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000751_jpg.rf.1275fa1b6b6f119caebbf7da0b3a235c.jpg": [
+        {
+            "bbox": [
+                5.258318901062012,
+                0.0,
+                413.7744140625,
+                256.3312072753906
+            ],
+            "confidence": 0.3910258114337921,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                3.807839870452881,
+                25.359600067138672,
+                409.5661926269531,
+                335.606201171875
+            ],
+            "confidence": 0.2932070195674896,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_046_mp4-20_jpg.rf.a7066ea391a6a40264c93461de9036ff.jpg": [
+        {
+            "bbox": [
+                211.80084228515625,
+                250.64755249023438,
+                295.089111328125,
+                380.019775390625
+            ],
+            "confidence": 0.2968751788139343,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000703_jpg.rf.a2f4e7a48c962a8a15e15b4c97febb0c.jpg": [
+        {
+            "bbox": [
+                8.457021713256836,
+                110.95714569091797,
+                378.0235900878906,
+                334.7224426269531
+            ],
+            "confidence": 0.5583486557006836,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_034_mp4-9_jpg.rf.b125d871bc7108013f2f4f025e2213e3.jpg": [],
+    "Datasets/airplane/images/00000372_png_jpg.rf.1bdf9c6205f1dac5bd958c752e7e1446.jpg": [
+        {
+            "bbox": [
+                0.0,
+                155.20114135742188,
+                407.75677490234375,
+                410.5229797363281
+            ],
+            "confidence": 0.2538195550441742,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_037_mp4-10_jpg.rf.40db8be0c58a37c627fb6c9fd36f9a78.jpg": [
+        {
+            "bbox": [
+                287.7100830078125,
+                201.80563354492188,
+                300.7701416015625,
+                214.96868896484375
+            ],
+            "confidence": 0.5696427226066589,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                288.35076904296875,
+                203.47244262695312,
+                300.4704895019531,
+                213.10052490234375
+            ],
+            "confidence": 0.515923023223877,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000028_jpg.rf.7ccf5a4974076a776b8eb617564587c0.jpg": [
+        {
+            "bbox": [
+                16.508825302124023,
+                55.92515182495117,
+                416.0,
+                371.00360107421875
+            ],
+            "confidence": 0.6265327334403992,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_049_mp4-12_jpg.rf.9cb9fc80c78819e687790bbee1fa6344.jpg": [
+        {
+            "bbox": [
+                190.73326110839844,
+                190.07977294921875,
+                204.17514038085938,
+                201.046142578125
+            ],
+            "confidence": 0.5381269454956055,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                189.00367736816406,
+                187.5989227294922,
+                205.5070343017578,
+                203.88735961914062
+            ],
+            "confidence": 0.35426461696624756,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001353_jpg.rf.b27f6eebed461dbb97e156200f5f1d7e.jpg": [
+        {
+            "bbox": [
+                1.6476927995681763,
+                106.42757415771484,
+                404.8849182128906,
+                300.6541748046875
+            ],
+            "confidence": 0.7330129146575928,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00001374_jpg.rf.10710f7f06c27391ea69a53c41e797a6.jpg": [
+        {
+            "bbox": [
+                2.5765929222106934,
+                64.67430114746094,
+                409.4984130859375,
+                323.46759033203125
+            ],
+            "confidence": 0.37180376052856445,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000042_jpg.rf.a4e53ed9f5fbe44abeaffcfbb1ab4e0b.jpg": [
+        {
+            "bbox": [
+                0.0,
+                46.144474029541016,
+                404.9292297363281,
+                323.9906005859375
+            ],
+            "confidence": 0.48398470878601074,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000649_jpg.rf.3171498cf542e3299d9168dd3db10636.jpg": [
+        {
+            "bbox": [
+                27.743818283081055,
+                89.9610824584961,
+                388.41943359375,
+                297.7165832519531
+            ],
+            "confidence": 0.6330410242080688,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000407_jpg.rf.e89cbc2f77754b0771fc8eb7b21d00af.jpg": [
+        {
+            "bbox": [
+                21.424449920654297,
+                123.86835479736328,
+                382.7815246582031,
+                312.2962341308594
+            ],
+            "confidence": 0.6208822727203369,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000617_jpg.rf.36436f64fbea9f11c4099916fec9012e.jpg": [
+        {
+            "bbox": [
+                8.791047096252441,
+                16.050207138061523,
+                312.8586120605469,
+                246.66305541992188
+            ],
+            "confidence": 0.3618229925632477,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                78.80103302001953,
+                10.646804809570312,
+                416.0,
+                255.09559631347656
+            ],
+            "confidence": 0.28321775794029236,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                0.0,
+                123.90950012207031,
+                406.79473876953125,
+                416.0
+            ],
+            "confidence": 0.26260194182395935,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                12.468700408935547,
+                0.0,
+                399.6907653808594,
+                276.0756530761719
+            ],
+            "confidence": 0.25778183341026306,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000349_jpg.rf.3740c9873bcf01f10cb17b3afa931852.jpg": [
+        {
+            "bbox": [
+                0.0,
+                50.8271484375,
+                408.5939636230469,
+                332.09710693359375
+            ],
+            "confidence": 0.6013787984848022,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000139_jpg.rf.69f724da9571a50ffc0139a5ebc93d5b.jpg": [],
+    "Datasets/airplane/images/00001390_jpg.rf.51d53f5b3a2c034f9fa70541a3016166.jpg": [
+        {
+            "bbox": [
+                10.20437240600586,
+                120.24531555175781,
+                392.0290222167969,
+                315.59954833984375
+            ],
+            "confidence": 0.6878944039344788,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_017_mp4-2_jpg.rf.90f7fb1659b7fa61974eebd4b86c2042.jpg": [],
+    "Datasets/airplane/images/V_AIRPLANE_002_mp4-19_jpg.rf.917d51ce1258d45ab416cd40637aea4e.jpg": [
+        {
+            "bbox": [
+                124.6310806274414,
+                231.7859344482422,
+                229.6546173095703,
+                306.8697204589844
+            ],
+            "confidence": 0.6237592101097107,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/00000025_jpg.rf.2d149df641c8268221aec7224823869b.jpg": [
+        {
+            "bbox": [
+                1.17828369140625,
+                105.8895034790039,
+                409.9018859863281,
+                286.1549987792969
+            ],
+            "confidence": 0.5242149829864502,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_043_mp4-2_jpg.rf.ccea9d58e3e52720224a5200e644c606.jpg": [
+        {
+            "bbox": [
+                210.6064910888672,
+                148.6190948486328,
+                221.05450439453125,
+                158.13284301757812
+            ],
+            "confidence": 0.6439299583435059,
+            "class_id": 0,
+            "class_name": "item"
+        },
+        {
+            "bbox": [
+                208.67684936523438,
+                146.10867309570312,
+                222.84719848632812,
+                160.58978271484375
+            ],
+            "confidence": 0.385163277387619,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ],
+    "Datasets/airplane/images/V_AIRPLANE_021_mp4-10_jpg.rf.b8fb2726e1536705e3122e363af5f04d.jpg": [],
+    "Datasets/airplane/images/V_AIRPLANE_039_mp4-42_jpg.rf.4908c29aac202b880ea3d1640973303f.jpg": [
+        {
+            "bbox": [
+                172.03282165527344,
+                226.3637237548828,
+                216.4532470703125,
+                252.87344360351562
+            ],
+            "confidence": 0.7311448454856873,
+            "class_id": 0,
+            "class_name": "item"
+        }
+    ]
+}

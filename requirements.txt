@@ -1,0 +1,47 @@
+# Base dependencies
+torch>=2.6.0
+torchvision>=0.21.0
+ultralytics==8.3.96
+numpy>=1.22.2  # pinned to avoid vulnerabilities
+opencv-python>=4.6.0
+Pillow>=7.1.2
+PyYAML>=6.0
+requests>=2.23.0
+scipy>=1.4.1
+
+# COCO and Detection Tools
+pycocotools>=2.0.6  # COCO mAP
+
+# Utilities
+scikit-learn
+loguru
+rich  # optional for enhanced logging
+tqdm>=4.64.0
+psutil
+py-cpuinfo
+natsort
+shapely
+albumentations>=1.0.3  # training augmentations
+ipywidgets>=8.1.5
+ninja
+tabulate
+thop>=0.1.1  # FLOPs computation
+tensorboard>=2.13.0
+
+# Visualization
+matplotlib>=3.10.1
+pandas>=1.1.4
+seaborn>=0.11.0
+
+# Export (optional)
+# onnx>=1.13.0
+# onnx-simplifier==0.4.10
+# coremltools>=7.0    # CoreML export
+# tensorflow>=2.4.1,<2.14  # TFLite export
+# tensorflowjs>=3.9.0  # TF.js export
+# nvidia-pyindex        # TensorRT export
+# nvidia-tensorrt       # TensorRT export
+# openvino-dev>=2023.0  # OpenVINO export
+
+# Interactive and development
+ipython  # interactive notebooks

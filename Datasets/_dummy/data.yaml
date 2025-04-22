@@ -1,0 +1,7 @@
+names:
+- damage
+nc: 1
+path: Datasets/dummy
+train: images
+val: images
+test: images
