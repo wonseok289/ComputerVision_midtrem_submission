@@ -7,17 +7,17 @@ import random
 import numpy as np
 from PIL import Image
 from datetime import datetime
-from models import YOLO12n
+from models import HyperYOLOt
 from utils.ex_dict import update_ex_dict
 from utils.offline_augmentation import augment_dataset
 from utils.make_custom import make_custom_yaml
 
 
-def submission_YOLO12n(yaml_path, output_json_path, config = None):
+def submission_2_20224258(yaml_path, output_json_path, config = None):
     
     ###### can be modified (Only Hyperparameters, which can be modified in demo) ######
     hyperparams = {
-        'model_name': 'yolo12n',
+        'model_name': 'HyperYOLOt',
         'epochs': 20,
         'batch': 16,
         'lr0': 0.01,
@@ -29,27 +29,27 @@ def submission_YOLO12n(yaml_path, output_json_path, config = None):
         'box': 7.5,
         'close_mosaic': 2,
         'cos_lr': True,
-        'custom_yaml_path': None,
+        'custom_yaml_path': 'models/HyperYOLOt/pkgs/hyper_ultralytics/cfg/models/hyper-yolo/hyper-yolot.yaml',
     }
     
-    depth = 0.50
+    depth = 0.33
     width = 0.25
     conf = 0.25
     enable_tta = True
     
     if config is None:
-        config = YOLO12n.ModelConfig()
+        config = HyperYOLOt.ModelConfig()
     config.update_from_dict(hyperparams)
     data_config = load_yaml_config(yaml_path)
     ex_dict = {}
     ex_dict = update_ex_dict(ex_dict, config, initial=True)
     
     ###### can be modified (Only Models, which can't be modified in demo) ######
-    from ultralytics import YOLO
+    from models.HyperYOLOt.pkgs.hyper_ultralytics import YOLO
     ex_dict['Iteration']  = int(yaml_path.split('.yaml')[0][-2:])
     
     if ex_dict['Iteration'] == 1 and hyperparams['custom_yaml_path'] is not None:
-        make_custom_yaml(model_path="models/YOLO12n", model_name='yolo12n', depth=depth, width=width)
+        make_custom_yaml(model_path="models/HyperYOLOt", model_name='hyperyolot', depth=depth, width=width)
     
     Dataset_Name = yaml_path.split('/')[1]
     
@@ -66,13 +66,13 @@ def submission_YOLO12n(yaml_path, output_json_path, config = None):
     else:
         model_yaml_path = f'{config.model_name}.yaml'
     
-    model = YOLO(model_yaml_path, verbose=False)
+    model = YOLO(model_yaml_path,)
     os.makedirs(config.output_dir, exist_ok=True)
     
     ex_dict['Model Name'] = config.model_name
     ex_dict['Model'] = model
     
-    ex_dict = YOLO12n.train_model(ex_dict, config)
+    ex_dict = HyperYOLOt.train_model(ex_dict, config)
     
     test_images = get_test_images(data_config)
     results_dict = detect_and_save_bboxes(ex_dict['Model'], test_images, conf, enable_tta)

@@ -7,17 +7,17 @@ import random
 import numpy as np
 from PIL import Image
 from datetime import datetime
-from models import YOLO11n
+from models import YOLOv9t
 from utils.ex_dict import update_ex_dict
 from utils.offline_augmentation import augment_dataset
 from utils.make_custom import make_custom_yaml
 
 
-def submission_YOLO11n(yaml_path, output_json_path, config = None):
+def submission_3_20224258(yaml_path, output_json_path, config = None):
     
     ###### can be modified (Only Hyperparameters, which can be modified in demo) ######
     hyperparams = {
-        'model_name': 'yolo11n',
+        'model_name': 'yolov9t',
         'epochs': 20,
         'batch': 16,
         'lr0': 0.01,
@@ -32,13 +32,13 @@ def submission_YOLO11n(yaml_path, output_json_path, config = None):
         'custom_yaml_path': None,
     }
     
-    depth = 0.50
-    width = 0.25
+    depth = 1
+    width = 1
     conf = 0.25
     enable_tta = True
     
     if config is None:
-        config = YOLO11n.ModelConfig()
+        config = YOLOv9t.ModelConfig()
     config.update_from_dict(hyperparams)
     data_config = load_yaml_config(yaml_path)
     ex_dict = {}
@@ -49,7 +49,7 @@ def submission_YOLO11n(yaml_path, output_json_path, config = None):
     ex_dict['Iteration']  = int(yaml_path.split('.yaml')[0][-2:])
     
     if ex_dict['Iteration'] == 1 and hyperparams['custom_yaml_path'] is not None:
-        make_custom_yaml(model_path="models/YOLO11n", model_name='yolo11n', depth=depth, width=width)
+        make_custom_yaml(model_path="models/YOLOv9t", model_name='yolov9t', depth=depth, width=width)
     
     Dataset_Name = yaml_path.split('/')[1]
     
@@ -72,7 +72,7 @@ def submission_YOLO11n(yaml_path, output_json_path, config = None):
     ex_dict['Model Name'] = config.model_name
     ex_dict['Model'] = model
     
-    ex_dict = YOLO11n.train_model(ex_dict, config)
+    ex_dict = YOLOv9t.train_model(ex_dict, config)
     
     test_images = get_test_images(data_config)
     results_dict = detect_and_save_bboxes(ex_dict['Model'], test_images, conf, enable_tta)
