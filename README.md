@@ -1,7 +1,7 @@
 # CV_submission
 
 
-### submission_1_20224258.py: FLDetn
+### submission_1_20224258.py: FLDetn (Proposed)
 
 ### submission_2_20224258.py: Hyper-YOLO-T
 
