@@ -26,7 +26,7 @@ def submission_1_20224258(yaml_path, output_json_path, config = None):
         'model_name': 'FLDetn',
         'epochs': 20,
         'batch': 16,
-        'lr0': 0.01,
+        'lr0': 0.004,
         'momentum': 0.937,
         'weight_decay': 5e-4,
         'optimizer': 'AdamW',
